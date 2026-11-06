@@ -1,0 +1,800 @@
+{
+  "schema_version": 1,
+  "checked_at": "2026-11-06",
+  "method": "문단 전체를 검토하고 박물관·유산기관·대학·사전·공식 운영기관 자료로 수정·보충 필요 항목을 대조. 확인되지 않은 구체 수치는 미확인으로 표시.",
+  "scope": "제공된 원문 본문과 조사 자료 목록; 제공되지 않은96–97쪽과116쪽 이후는 검토 불가. 각주가 없는 문장에 대한 무오류 보증이 아님.",
+  "notes": [
+    {
+      "id": "fact-001",
+      "paragraph_id": "p0017",
+      "anchor": "They lasted for over 1,000 years.",
+      "kind": "보충",
+      "title": "중세의 시작과 끝",
+      "text_ko": "유럽 중세는 보통 약 500–1500년으로 잡습니다. 450년은 대략적인 구분이며 지역·연구 분야에 따라 경계가 달라집니다.",
+      "sources": [
+        {
+          "title": "Getty · 중세의 시기",
+          "url": "https://www.getty.edu/news/what-was-life-like-for-kids-in-the-middle-ages/"
+        }
+      ],
+      "checked_at": "2026-11-06",
+      "source_page": 14
+    },
+    {
+      "id": "fact-002",
+      "paragraph_id": "p0017",
+      "anchor": "Medieval is Latin for “middle age.”",
+      "kind": "명칭",
+      "title": "medieval은 영어 형용사",
+      "text_ko": "medieval 자체는 영어로 ‘중세의’라는 뜻입니다. 어원은 라틴어 medium aevum(중간 시대)입니다.",
+      "sources": [
+        {
+          "title": "Annenberg Learner · The Middle Ages",
+          "url": "https://www.learner.org/wp-content/interactive/middleages/"
+        }
+      ],
+      "checked_at": "2026-11-06",
+      "source_page": 14
+    },
+    {
+      "id": "fact-003",
+      "paragraph_id": "p0022",
+      "anchor": "During the Middle Ages, nearly all the land in Europe belonged to kings.",
+      "kind": "보충",
+      "title": "유럽 전체를 하나의 토지 제도로 설명하기 어렵습니다",
+      "text_ko": "교회·수도원·귀족도 토지를 보유했습니다. 왕을 정점으로 한 모형은 일부 지역을 설명하는 단순화이며, 유럽 전역에서 같은 방식으로 적용되지 않았습니다.",
+      "sources": [
+        {
+          "title": "Oxford University Press · The feudal manor",
+          "url": "https://www.oup.com.au/__data/assets/pdf_file/0020/58061/03_SAL_BAH8_SB_71097_SPREADS_RGB.pdf"
+        },
+        {
+          "title": "IGNOU · Form and Structure of Feudalism",
+          "url": "https://www.egyankosh.ac.in/bitstream/123456789/67915/3/Unit-5.pdf"
+        }
+      ],
+      "checked_at": "2026-11-06",
+      "source_page": 15
+    },
+    {
+      "id": "fact-004",
+      "paragraph_id": "p0023",
+      "anchor": "The pieces of land were called fiefs (FEEFS), or manors.",
+      "kind": "명칭",
+      "title": "fief와 manor는 완전한 동의어가 아닙니다",
+      "text_ko": "fief는 봉사와 충성의 대가로 보유한 토지·권리를, manor는 영주가 지배하는 장원 단위를 가리킵니다. 하나의 봉토에 여러 장원이 포함될 수도 있습니다.",
+      "sources": [
+        {
+          "title": "IGNOU · Form and Structure of Feudalism",
+          "url": "https://www.egyankosh.ac.in/bitstream/123456789/67915/3/Unit-5.pdf"
+        },
+        {
+          "title": "Oxford University Press · The feudal manor",
+          "url": "https://www.oup.com.au/__data/assets/pdf_file/0020/58061/03_SAL_BAH8_SB_71097_SPREADS_RGB.pdf"
+        }
+      ],
+      "checked_at": "2026-11-06",
+      "source_page": 15
+    },
+    {
+      "id": "fact-005",
+      "paragraph_id": "p0031",
+      "anchor": "They had almost no rights at all.",
+      "kind": "보충",
+      "title": "농노에게도 관습상의 권리가 있었습니다",
+      "text_ko": "농노는 이동·혼인 등에 제약을 받았지만, 재산과 경작권을 둘러싼 관습이 있었고 법정에서 권리를 주장한 사례도 있습니다. 시대·지역별 차이가 큽니다.",
+      "sources": [
+        {
+          "title": "Cambridge CAMPOP · 농민과 민사 재판 연구",
+          "url": "https://www.campop.geog.cam.ac.uk/research/projects/peasantciviljustice/"
+        }
+      ],
+      "checked_at": "2026-11-06",
+      "source_page": 17
+    },
+    {
+      "id": "fact-006",
+      "paragraph_id": "p0032",
+      "anchor": "They had to give the rest to the lord who ruled over them.",
+      "kind": "보충",
+      "title": "수확의 나머지를 전부 바친 것은 아닙니다",
+      "text_ko": "농민은 경작지를 운영하며 정해진 노동·현물·금전 부담을 졌습니다. 부담의 종류와 양은 장원마다 달랐으므로, 생계분 외의 수확을 모두 영주에게 냈다고 이해하면 부정확합니다.",
+      "sources": [
+        {
+          "title": "Oxford University Press · The feudal manor",
+          "url": "https://www.oup.com.au/__data/assets/pdf_file/0020/58061/03_SAL_BAH8_SB_71097_SPREADS_RGB.pdf"
+        },
+        {
+          "title": "IGNOU · Form and Structure of Feudalism",
+          "url": "https://www.egyankosh.ac.in/bitstream/123456789/67915/3/Unit-5.pdf"
+        }
+      ],
+      "checked_at": "2026-11-06",
+      "source_page": 17
+    },
+    {
+      "id": "fact-007",
+      "paragraph_id": "p0046",
+      "anchor": "there were over 12,000 castles in Europe.",
+      "kind": "근거 유의",
+      "title": "유럽의 성 12,000개라는 수치",
+      "text_ko": "원문은 집계 시점·지역·성의 정의를 제시하지 않습니다. 검토한 기관 자료로 이 정확한 수치를 확인하지 못했으므로 확정 통계로 인용하지 않는 편이 좋습니다.",
+      "sources": [
+        {
+          "title": "English Heritage · Castles Through Time",
+          "url": "https://www.english-heritage.org.uk/castles/castles-through-time/"
+        }
+      ],
+      "checked_at": "2026-11-06",
+      "source_page": 22
+    },
+    {
+      "id": "fact-008",
+      "paragraph_id": "p0049",
+      "anchor": "These castles were usually built on a mound of earth called a motte (MAHT).",
+      "kind": "보충",
+      "title": "초기 성이 모두 모트 형식은 아닙니다",
+      "text_ko": "모트 앤 베일리는 대표적인 초기 형식입니다. 언덕 위 탑 대신 둥근 토루와 목책을 두른 ringwork 등 다른 형식도 있었습니다.",
+      "sources": [
+        {
+          "title": "English Heritage · Castles Through Time",
+          "url": "https://www.english-heritage.org.uk/castles/castles-through-time/"
+        }
+      ],
+      "checked_at": "2026-11-06",
+      "source_page": 22
+    },
+    {
+      "id": "fact-009",
+      "paragraph_id": "p0053",
+      "anchor": "So by the 1100s, most castles were being built out of stone.",
+      "kind": "보충",
+      "title": "석조 성으로의 전환은 점진적이었습니다",
+      "text_ko": "12세기에는 자금이 있는 건축주가 석조 탑을 많이 지었지만, 목조 방어 시설도 이어졌습니다. 이를 1100년대 유럽 전체의 ‘대부분’으로 일반화하기는 어렵습니다.",
+      "sources": [
+        {
+          "title": "English Heritage · Castles Through Time",
+          "url": "https://www.english-heritage.org.uk/castles/castles-through-time/"
+        },
+        {
+          "title": "English Heritage · Medieval Warfare",
+          "url": "https://www.english-heritage.org.uk/learn/story-of-england/medieval/war/"
+        }
+      ],
+      "checked_at": "2026-11-06",
+      "source_page": 23
+    },
+    {
+      "id": "fact-010",
+      "paragraph_id": "p0063",
+      "anchor": "Carving the special mark was like signing a painting.",
+      "kind": "보충",
+      "title": "석공 표식의 여러 용도",
+      "text_ko": "작업자를 구별하는 표식 외에 돌을 놓을 위치를 나타내는 조립 표식도 있습니다. 모든 표시를 개인의 서명으로 해석할 수는 없습니다.",
+      "sources": [
+        {
+          "title": "National Library of Scotland · Masons’ marks",
+          "url": "https://manuscripts.nls.uk/subjects/4230"
+        }
+      ],
+      "checked_at": "2026-11-06",
+      "source_page": 25
+    },
+    {
+      "id": "fact-011",
+      "paragraph_id": "p0084",
+      "anchor": "The moat was usually filled with water.",
+      "kind": "보충",
+      "title": "물이 없는 해자도 있었습니다",
+      "text_ko": "해자에는 물해자와 마른 해자가 있었습니다. 예를 들어 Deal Castle의 해자는 원래부터 물을 채우지 않았습니다. 성의 입지와 설계에 따라 달랐습니다.",
+      "sources": [
+        {
+          "title": "English Heritage · Deal Castle 교육 자료",
+          "url": "https://www.english-heritage.org.uk/siteassets/home/visit/places-to-visit/deal-castle/schools/student_activity_sheets_ks2_ks3_deal_castle.pdf"
+        }
+      ],
+      "checked_at": "2026-11-06",
+      "source_page": 34
+    },
+    {
+      "id": "fact-012",
+      "paragraph_id": "p0085",
+      "anchor": "Some moats may even have had crocodiles!",
+      "kind": "근거 유의",
+      "title": "중세 유럽 성의 악어 해자는 확인된 일반 관행이 아닙니다",
+      "text_ko": "Landmark Trust의 성 교육 자료도 악어 해자를 이야기 속 이미지로 구분합니다. 유럽 성 방어의 역사적 사실로 받아들이지 마세요.",
+      "sources": [
+        {
+          "title": "Landmark Trust · Stogursey Castle 탐구 자료",
+          "url": "https://www.landmarktrust.org.uk/globalassets/3.-images-and-documents-to-keep/explorer-packs/stogursey-castle-explorer-pack.pdf"
+        }
+      ],
+      "checked_at": "2026-11-06",
+      "source_page": 34
+    },
+    {
+      "id": "fact-013",
+      "paragraph_id": "p0094",
+      "anchor": "Most boys and girls from noble families were married by the time they were fourteen years old.",
+      "kind": "정정",
+      "title": "‘귀족 대부분이 14세까지 결혼’은 과도한 일반화",
+      "text_ko": "정략결혼으로 어린 나이에 혼인한 귀족, 특히 여성이 있었지만 모두에게 적용되는 관행은 아닙니다. 중세의 혼인 연령은 신분·성별·지역에 따라 달랐습니다.",
+      "sources": [
+        {
+          "title": "Getty · 중세의 시기",
+          "url": "https://www.getty.edu/news/what-was-life-like-for-kids-in-the-middle-ages/"
+        }
+      ],
+      "checked_at": "2026-11-06",
+      "source_page": 41
+    },
+    {
+      "id": "fact-014",
+      "paragraph_id": "p0101",
+      "anchor": "It was feared their parents would spoil them if they stayed at home.",
+      "kind": "보충",
+      "title": "다른 가문에서의 교육은 여러 선택지 중 하나였습니다",
+      "text_ko": "귀족 자녀가 다른 집에서 교육·봉사를 한 사례는 있지만, 모든 자녀가 7세에 떠난 것은 아닙니다. 가정교육과 종교기관 교육 등도 있었으므로 ‘부모가 응석받이로 만들까 봐’만으로 설명하기 어렵습니다.",
+      "sources": [
+        {
+          "title": "Getty · 중세의 시기",
+          "url": "https://www.getty.edu/news/what-was-life-like-for-kids-in-the-middle-ages/"
+        }
+      ],
+      "checked_at": "2026-11-06",
+      "source_page": 44
+    },
+    {
+      "id": "fact-015",
+      "paragraph_id": "p0109",
+      "anchor": "The lord and lady did not take baths very often.",
+      "kind": "보충",
+      "title": "중세인에게도 세정과 목욕 문화가 있었습니다",
+      "text_ko": "목욕 빈도는 환경에 따라 달랐습니다. 대야 세정, 나무 욕조, 공중목욕탕과 비누 사용이 확인되므로 중세인을 일률적으로 씻지 않는 사람들로 묘사하면 부정확합니다.",
+      "sources": [
+        {
+          "title": "Getty · Did Medieval People Take Baths?",
+          "url": "https://www.getty.edu/news/did-medieval-people-take-baths/"
+        }
+      ],
+      "checked_at": "2026-11-06",
+      "source_page": 46
+    },
+    {
+      "id": "fact-016",
+      "paragraph_id": "p0114",
+      "anchor": "Beds were high to keep mice out.",
+      "kind": "근거 유의",
+      "title": "침대 높이의 단일 원인으로 확인되지 않았습니다",
+      "text_ko": "검토한 자료에서는 ‘쥐를 막으려고 침대를 높였다’는 인과관계를 뒷받침할 근거를 찾지 못했습니다. 원문 속 설명을 확정된 역사 사실로 외우지 마세요.",
+      "sources": [],
+      "checked_at": "2026-11-06",
+      "source_page": 48
+    },
+    {
+      "id": "fact-017",
+      "paragraph_id": "p0119",
+      "anchor": "Pewter is a metal made of tin mixed with copper and lead.",
+      "kind": "업데이트",
+      "title": "pewter에 항상 납이 들어가는 것은 아닙니다",
+      "text_ko": "주석을 주성분으로 하는 합금으로, 시대와 품질에 따라 배합이 달랐습니다. 과거에는 납을 넣기도 했지만 현대 영국의 표준적인 pewter는 납을 넣지 않습니다.",
+      "sources": [
+        {
+          "title": "The Worshipful Company of Pewterers · Pewter",
+          "url": "https://pewterers.org.uk/pewter/"
+        }
+      ],
+      "checked_at": "2026-11-06",
+      "source_page": 49
+    },
+    {
+      "id": "fact-018",
+      "paragraph_id": "p0137",
+      "anchor": "large churches called cathedrals.",
+      "kind": "명칭",
+      "title": "cathedral은 크기가 아니라 주교좌로 구분합니다",
+      "text_ko": "정확히는 주교의 자리인 cathedra가 있는 교구의 중심 교회입니다. 보통 웅장하지만, 단순히 큰 교회를 모두 cathedral이라 부르지는 않습니다.",
+      "sources": [
+        {
+          "title": "Church of England · Cathedrals",
+          "url": "https://www.churchofengland.org/about/local/cathedrals"
+        }
+      ],
+      "checked_at": "2026-11-06",
+      "source_page": 57
+    },
+    {
+      "id": "fact-019",
+      "paragraph_id": "p0147",
+      "anchor": "In Germany, they were called Ritters (RIT-urz).",
+      "kind": "명칭",
+      "title": "독일어 복수형은 Ritter",
+      "text_ko": "독일어로 기사 한 명도 Ritter, 여러 명도 Ritter입니다. 원문의 Ritters는 영어식 복수 처리이며 독일어 복수형은 아닙니다.",
+      "sources": [
+        {
+          "title": "Duden · Ritter",
+          "url": "https://www.duden.de/rechtschreibung/Ritter"
+        }
+      ],
+      "checked_at": "2026-11-06",
+      "source_page": 63
+    },
+    {
+      "id": "fact-020",
+      "paragraph_id": "p0153",
+      "anchor": "Only boys could become knights.",
+      "kind": "보충",
+      "title": "기사 서임과 여성의 전투 참여는 구분해야 합니다",
+      "text_ko": "중세의 정규 기사 서임은 남성 중심이었습니다. 그러나 여성이 전쟁에서 지휘하거나 갑옷을 입고 싸운 사례까지 없었던 것은 아닙니다.",
+      "sources": [
+        {
+          "title": "The Met · 갑옷에 관한 오해와 사실",
+          "url": "https://www.metmuseum.org/essays/arms-and-armor-common-misconceptions-and-frequently-asked-questions"
+        }
+      ],
+      "checked_at": "2026-11-06",
+      "source_page": 64
+    },
+    {
+      "id": "fact-021",
+      "paragraph_id": "p0160",
+      "anchor": "Most squires became knights at about age twenty-one.",
+      "kind": "보충",
+      "title": "7·14·21세는 고정된 유럽 공통 규칙이 아닙니다",
+      "text_ko": "원문은 전형적인 교육 경로를 단순화한 것입니다. 기사 작위는 별도 서임으로 얻었고, 신분·재정·전공 등에 따라 경로가 달랐으므로 모든 종자가 21세에 서임됐다고 이해하면 안 됩니다.",
+      "sources": [
+        {
+          "title": "The Met · 갑옷에 관한 오해와 사실",
+          "url": "https://www.metmuseum.org/essays/arms-and-armor-common-misconceptions-and-frequently-asked-questions"
+        }
+      ],
+      "checked_at": "2026-11-06",
+      "source_page": 66
+    },
+    {
+      "id": "fact-022",
+      "paragraph_id": "p0171",
+      "anchor": "a real king who lived in Britain in the sixth century.",
+      "kind": "근거 유의",
+      "title": "아서왕의 실존은 확정되지 않았습니다",
+      "text_ko": "5–6세기 브리튼의 인물과 연결하려는 연구가 있지만 증거는 단편적입니다. 원탁·멀린·랜슬롯 등의 이야기는 후대에 발전한 전설이며 역사 기록과 구별해야 합니다.",
+      "sources": [
+        {
+          "title": "British Library · King Arthur: fable, fact and fiction",
+          "url": "https://www.bl.uk/stories/blogs/posts/king-arthur-fable-fact-and-fiction"
+        }
+      ],
+      "checked_at": "2026-11-06",
+      "source_page": 70
+    },
+    {
+      "id": "fact-023",
+      "paragraph_id": "p0181",
+      "anchor": "Mail was first popular in the eleventh century.",
+      "kind": "정정",
+      "title": "사슬갑옷은 고대부터 쓰였습니다",
+      "text_ko": "mail은 유럽에서 적어도 기원전 수세기부터 쓰였으며 중세 이전에도 주요 방어구였습니다. 11세기가 최초의 유행 시기는 아닙니다.",
+      "sources": [
+        {
+          "title": "The Met · Sleeve of Mail",
+          "url": "https://www.metmuseum.org/art/collection/search/33017"
+        },
+        {
+          "title": "London Museum · Hauberk; mail shirt",
+          "url": "https://www.londonmuseum.org.uk/collections/v/object-36460/hauberk-mail-shirt/"
+        }
+      ],
+      "checked_at": "2026-11-06",
+      "source_page": 76
+    },
+    {
+      "id": "fact-024",
+      "paragraph_id": "p0184",
+      "anchor": "This kind of armor is often called chain mail because the rings are linked like a chain.",
+      "kind": "명칭",
+      "title": "전문 용어로는 mail 또는 mail armor",
+      "text_ko": "chain mail도 널리 통하지만 근대에 퍼진 중복 표현입니다. 전문 설명에서는 mail을 주로 사용합니다.",
+      "sources": [
+        {
+          "title": "The Met · 갑옷에 관한 오해와 사실",
+          "url": "https://www.metmuseum.org/essays/arms-and-armor-common-misconceptions-and-frequently-asked-questions"
+        }
+      ],
+      "checked_at": "2026-11-06",
+      "source_page": 76
+    },
+    {
+      "id": "fact-025",
+      "paragraph_id": "p0185",
+      "anchor": "Hauberks were so heavy that knights who wore them had to wear padded underwear!",
+      "kind": "보충",
+      "title": "누비옷은 단지 무게 때문에 입은 것이 아닙니다",
+      "text_ko": "갑옷 아래의 gambeson 같은 누비옷은 충격을 줄이고 방어를 보완했습니다. 판금갑옷에는 부품을 고정할 arming doublet 같은 옷도 쓰였습니다.",
+      "sources": [
+        {
+          "title": "The Met · 갑옷의 기능",
+          "url": "https://www.metmuseum.org/essays/the-function-of-armor-in-medieval-and-renaissance-europe"
+        }
+      ],
+      "checked_at": "2026-11-06",
+      "source_page": 76
+    },
+    {
+      "id": "fact-026",
+      "paragraph_id": "p0189",
+      "anchor": "By the 1400s, most knights no longer wore mail at all.",
+      "kind": "정정",
+      "title": "판금갑옷과 사슬갑옷은 함께 사용됐습니다",
+      "text_ko": "판금갑옷이 발달한 뒤에도 사슬갑옷은 사라지지 않았습니다. 관절 등 취약 부위를 덮거나 다른 방어구와 함께 사용됐고 16세기까지 이어졌습니다.",
+      "sources": [
+        {
+          "title": "London Museum · Hauberk; mail shirt",
+          "url": "https://www.londonmuseum.org.uk/collections/v/object-36460/hauberk-mail-shirt/"
+        },
+        {
+          "title": "The Met · 갑옷의 기능",
+          "url": "https://www.metmuseum.org/essays/the-function-of-armor-in-medieval-and-renaissance-europe"
+        }
+      ],
+      "checked_at": "2026-11-06",
+      "source_page": 78
+    },
+    {
+      "id": "fact-027",
+      "paragraph_id": "p0194",
+      "anchor": "Some tournament helmets weighed over forty pounds.",
+      "kind": "근거 유의",
+      "title": "40파운드(약 18kg) 투구는 특정 유물 확인이 필요합니다",
+      "text_ko": "일반 전투용 투구는 약 2–4kg이었고 특수 경기용은 더 무거울 수 있습니다. 원문의 40파운드 사례는 유물·출처가 없어 이번 검토로 확인하지 못했습니다.",
+      "sources": [
+        {
+          "title": "The Met · 갑옷에 관한 오해와 사실",
+          "url": "https://www.metmuseum.org/essays/arms-and-armor-common-misconceptions-and-frequently-asked-questions"
+        }
+      ],
+      "checked_at": "2026-11-06",
+      "source_page": 79
+    },
+    {
+      "id": "fact-028",
+      "paragraph_id": "p0195",
+      "anchor": "it could take over an hour for a knight to get dressed.",
+      "kind": "근거 유의",
+      "title": "‘착용에 한 시간 이상’은 일반 기준으로 확인하지 못했습니다",
+      "text_ko": "갑옷 종류와 도움을 주는 사람에 따라 착용 시간은 달라집니다. 원문 수치를 모든 전신 갑옷에 적용할 근거는 확인되지 않았습니다. 갑옷을 입으면 거의 움직이지 못했다는 뜻도 아닙니다.",
+      "sources": [
+        {
+          "title": "The Met · 갑옷에 관한 오해와 사실",
+          "url": "https://www.metmuseum.org/essays/arms-and-armor-common-misconceptions-and-frequently-asked-questions"
+        }
+      ],
+      "checked_at": "2026-11-06",
+      "source_page": 80
+    },
+    {
+      "id": "fact-029",
+      "paragraph_id": "p0199",
+      "anchor": "there weren’t enough pictures to go around.",
+      "kind": "보충",
+      "title": "문장 제도를 단순한 그림 부족으로 설명하기 어렵습니다",
+      "text_ko": "문장은 신원·가계·계승과 사용 권리를 구별하는 제도입니다. 같은 도상도 색·배치·구성으로 구분할 수 있으며, 규칙은 관할 지역의 문장법과 연결됩니다.",
+      "sources": [
+        {
+          "title": "College of Arms · The Law of Arms",
+          "url": "https://www.college-of-arms.gov.uk/Newsletter/014.htm"
+        }
+      ],
+      "checked_at": "2026-11-06",
+      "source_page": 83
+    },
+    {
+      "id": "fact-030",
+      "paragraph_id": "p0206",
+      "anchor": "Hand-and-a-half swords could be nearly as tall as the knights who carried them!",
+      "kind": "정정",
+      "title": "hand-and-a-half는 주로 손잡이의 사용 방식입니다",
+      "text_ko": "한 손 또는 두 손으로 쓸 수 있는 긴 손잡이를 뜻합니다. 너무 무거워 한 손으로 못 드는 검이라는 뜻은 아닙니다. Cleveland의 실물 예시는 전체 길이 약 124cm입니다.",
+      "sources": [
+        {
+          "title": "Cleveland Museum of Art · Hand-and-a-Half Sword",
+          "url": "https://www.clevelandart.org/art/1916.1506"
+        }
+      ],
+      "checked_at": "2026-11-06",
+      "source_page": 86
+    },
+    {
+      "id": "fact-031",
+      "paragraph_id": "p0210",
+      "anchor": "The ball was covered with sharp spikes.",
+      "kind": "근거 유의",
+      "title": "공·사슬형 flail을 흔한 기사 무기로 단정하지 마세요",
+      "text_ko": "이 형태의 무기가 얼마나 널리 쓰였는지는 신중히 봐야 합니다. 박물관 소장품 중에는 뒤늦게 19세기 복고 제작품으로 재분류된 예도 있습니다. 모든 flail이 가짜라는 뜻은 아닙니다.",
+      "sources": [
+        {
+          "title": "The Met · Military Flail의 재평가된 제작 연대",
+          "url": "https://www.metmuseum.org/art/collection/search/33866"
+        }
+      ],
+      "checked_at": "2026-11-06",
+      "source_page": 88
+    },
+    {
+      "id": "fact-032",
+      "paragraph_id": "p0219",
+      "anchor": "hardly any rules.",
+      "kind": "보충",
+      "title": "토너먼트에도 규칙과 감독이 있었습니다",
+      "text_ko": "초기 단체전은 위험하고 혼란스러웠지만, 이후 경기에는 종목·장비·득점 등을 정한 규정과 심판이 있었습니다. ‘규칙이 거의 없었다’는 설명을 대회 전체에 적용하면 부정확합니다.",
+      "sources": [
+        {
+          "title": "The Met Bulletin · Arms and Armor",
+          "url": "https://resources.metmuseum.org/resources/metpublications/pdf/Arms_and_Armor_The_Metropolitan_Museum_of_Art_Bulletin_v_32_no_4_1973_1974.pdf"
+        }
+      ],
+      "checked_at": "2026-11-06",
+      "source_page": 91
+    },
+    {
+      "id": "fact-033",
+      "paragraph_id": "p0227",
+      "anchor": "soldiers hiding in a wagon full of hay!",
+      "kind": "근거 유의",
+      "title": "건초 수레 기습의 장소·시점은 미확인",
+      "text_ko": "원문에 성 이름과 연대가 없어 이번 검토로 이 ‘잉글랜드의 성’ 사례를 특정하지 못했습니다. 비슷한 다른 성의 일화를 임의로 대입하지 않았습니다.",
+      "sources": [],
+      "checked_at": "2026-11-06",
+      "source_page": 94
+    },
+    {
+      "id": "fact-034",
+      "paragraph_id": "p0231",
+      "anchor": "fought to claim land in the Middle East.",
+      "kind": "보충",
+      "title": "약 200년은 성지 십자군의 대표적인 시기",
+      "text_ko": "보통 1095–1291년의 성지 십자군을 가리킵니다. 참가자는 기사만이 아니었으며 종교·정치·경제적 동기가 섞여 있었습니다. 모든 십자군이 이 기간·중동에만 한정된 것도 아닙니다.",
+      "sources": [
+        {
+          "title": "The Met · The Crusades (1095–1291)",
+          "url": "https://www.metmuseum.org/essays/the-crusades-1095-1291"
+        }
+      ],
+      "checked_at": "2026-11-06",
+      "source_page": 94
+    },
+    {
+      "id": "fact-035",
+      "paragraph_id": "p0235",
+      "anchor": "A belfry was also called a “cat” or a “bear.”",
+      "kind": "근거 유의",
+      "title": "공성 장비의 별칭을 일대일 동의어로 외우지 마세요",
+      "text_ko": "belfry는 이동식 공성탑을 가리킬 수 있습니다. cat·bear는 문맥에 따른 이름으로 쓰였으나, 이번 검토에서는 두 명칭이 언제나 같은 구조의 공성탑을 뜻한다는 근거를 확인하지 못했습니다.",
+      "sources": [],
+      "checked_at": "2026-11-06",
+      "source_page": 95
+    },
+    {
+      "id": "fact-036",
+      "paragraph_id": "p0236",
+      "anchor": "The holes were called murder holes.",
+      "kind": "보충",
+      "title": "주로 출입 통로 위의 방어 구멍입니다",
+      "text_ko": "murder hole은 성문 통로 등의 천장에 뚫어 아래로 물체를 떨어뜨리는 방어 시설입니다. 반드시 비밀 통로에 숨어 있는 구멍이었던 것은 아닙니다.",
+      "sources": [
+        {
+          "title": "Historic England · Deal Castle 성문",
+          "url": "https://historicengland.org.uk/education/schools-resources/educational-images/entrance-to-deal-castle-deal-kent-plb-k971002"
+        }
+      ],
+      "checked_at": "2026-11-06",
+      "source_page": 98
+    },
+    {
+      "id": "fact-037",
+      "paragraph_id": "p0249",
+      "anchor": "the dark, damp basement of the castle.",
+      "kind": "보충",
+      "title": "성의 수감 공간이 모두 지하였던 것은 아닙니다",
+      "text_ko": "지하 감방도 있었지만 탑이나 방에도 수감했습니다. 런던탑처럼 신분과 혐의에 따라 생활 조건이 크게 달랐고, 침구나 하인을 허용받은 수감자도 있었습니다.",
+      "sources": [
+        {
+          "title": "Historic Royal Palaces · Imprisonment at the Tower",
+          "url": "https://www.hrp.org.uk/tower-of-london/whats-on/imprisonment-at-the-tower-exhibition/"
+        }
+      ],
+      "checked_at": "2026-11-06",
+      "source_page": 100
+    },
+    {
+      "id": "fact-038",
+      "paragraph_id": "p0252",
+      "anchor": "They were not built for comfort.",
+      "kind": "정정",
+      "title": "성은 방어 시설이면서 거주 공간이었습니다",
+      "text_ko": "특히 중세 후기에는 큰 창·벽난로·개인실 등 안락함을 높인 성이 있었습니다. 모든 성을 어둡고 불편하기만 한 건물로 설명하면 부정확합니다.",
+      "sources": [
+        {
+          "title": "English Heritage · Castles Through Time",
+          "url": "https://www.english-heritage.org.uk/castles/castles-through-time/"
+        }
+      ],
+      "checked_at": "2026-11-06",
+      "source_page": 103
+    },
+    {
+      "id": "fact-039",
+      "paragraph_id": "p0258",
+      "anchor": "no match for cannonballs and bullets.",
+      "kind": "보충",
+      "title": "화기 등장 직후 갑옷이 사라진 것은 아닙니다",
+      "text_ko": "화기와 판금갑옷은 300년 이상 공존했고 총탄 방어를 강화한 갑옷도 있었습니다. 화기의 성능 향상에 따라 사용이 점진적으로 줄었습니다.",
+      "sources": [
+        {
+          "title": "The Met · 갑옷에 관한 오해와 사실",
+          "url": "https://www.metmuseum.org/essays/arms-and-armor-common-misconceptions-and-frequently-asked-questions"
+        }
+      ],
+      "checked_at": "2026-11-06",
+      "source_page": 105
+    },
+    {
+      "id": "fact-040",
+      "paragraph_id": "p0260",
+      "anchor": "hardly any new castles were being built.",
+      "kind": "보충",
+      "title": "성의 시대는 한 번에 끝나지 않았습니다",
+      "text_ko": "중세 이후에도 주거용 성과 화포 방어용 요새가 건설됐습니다. 영국의 Tudor 해안 요새와 17세기 내전에서 다시 쓰인 중세 성이 그 예입니다.",
+      "sources": [
+        {
+          "title": "English Heritage · Castles Through Time",
+          "url": "https://www.english-heritage.org.uk/castles/castles-through-time/"
+        }
+      ],
+      "checked_at": "2026-11-06",
+      "source_page": 105
+    },
+    {
+      "id": "fact-041",
+      "paragraph_id": "p0270",
+      "anchor": "A woman who is given this honor is called a dame.",
+      "kind": "보충",
+      "title": "영국식 서훈의 Dame와 의식",
+      "text_ko": "Dame는 해당 급의 여성 서훈 칭호이며 모든 여성 수훈자를 뜻하지는 않습니다. 영국 왕실 설명에 따르면 Dame에게는 검을 어깨에 대는 서임을 하지 않습니다. 본문의 생성 삽화는 이 의식 부분이 부정확합니다.",
+      "sources": [
+        {
+          "title": "영국 왕실 · Knighthoods and Damehoods",
+          "url": "https://www.royal.uk/knighthoods-and-damehoods"
+        }
+      ],
+      "checked_at": "2026-11-06",
+      "source_page": 106
+    },
+    {
+      "id": "fact-042",
+      "paragraph_id": "p0280",
+      "anchor": "They are called nonfiction.",
+      "kind": "보충",
+      "title": "논픽션도 검증이 필요합니다",
+      "text_ko": "nonfiction은 사실 전달을 목적으로 하는 분류이지 정확성을 보증하는 표시는 아닙니다. 저자·출처·발행 시점과 다른 자료를 비교하세요. 이 책의 오래된 정보에 붙인 각주도 같은 이유로 추가했습니다.",
+      "sources": [],
+      "checked_at": "2026-11-06",
+      "source_page": 109
+    },
+    {
+      "id": "fact-043",
+      "paragraph_id": "p0298",
+      "anchor": "De Young Museum (San Francisco)",
+      "kind": "업데이트",
+      "title": "샌프란시스코의 중세 유럽 미술은 Legion of Honor를 확인하세요",
+      "text_ko": "같은 Fine Arts Museums of San Francisco 소속이어도 두 관의 전시 분야는 다릅니다. 중세를 포함한 유럽 미술의 주요 관람처는 Legion of Honor입니다. 실제 전시는 방문 전 확인하세요.",
+      "sources": [
+        {
+          "title": "San Francisco 시 · Fine Arts Museums 소개",
+          "url": "https://sfmayor.org/sites/default/files/CSF_Proposed_Budget_Book_June_2022_Master_REV2_web.pdf"
+        }
+      ],
+      "checked_at": "2026-11-06",
+      "source_page": 112
+    },
+    {
+      "id": "fact-044",
+      "paragraph_id": "p0299",
+      "anchor": "Higgins Armory Museum (Worcester, Massachusetts)",
+      "kind": "업데이트",
+      "title": "현재는 Worcester Art Museum의 Higgins 소장품",
+      "text_ko": "독립 Higgins Armory Museum 대신 소장품을 인수한 Worcester Art Museum을 확인하세요. 인수는 2014년이며 새 Arms and Armor 갤러리는 2025년 11월 개관했습니다.",
+      "sources": [
+        {
+          "title": "Worcester Art Museum · Higgins 소장품",
+          "url": "https://archive.worcesterart.org/exhibitions/traveling-exhibitions/"
+        },
+        {
+          "title": "Worcester Art Museum · 2026년 공식 발표",
+          "url": "https://www.worcesterart.org/about/press-room/press-releases/worcester-art-museum-appoints-jeremy-reeves-as-new-higgins-assistant-curator-of-arms-and-armor/"
+        }
+      ],
+      "checked_at": "2026-11-06",
+      "source_page": 112
+    },
+    {
+      "id": "fact-045",
+      "paragraph_id": "p0308",
+      "anchor": "Secrets of Lost Empires: Medieval Siege from NOVA",
+      "kind": "업데이트",
+      "title": "오래된 프로그램은 제작 시점과 접근 경로를 확인하세요",
+      "text_ko": "이 프로그램의 미국 첫 방송은 2000년 2월 1일입니다. DVD 판매·대여 여부를 보장하는 목록은 아니며, PBS의 공식 대본과 교육 자료도 참고할 수 있습니다.",
+      "sources": [
+        {
+          "title": "PBS NOVA · Medieval Siege 공식 대본",
+          "url": "https://www.pbs.org/wgbh/nova/transcripts/27mstrebuchet.html"
+        }
+      ],
+      "checked_at": "2026-11-06",
+      "source_page": 113
+    },
+    {
+      "id": "fact-046",
+      "paragraph_id": "p0312",
+      "anchor": "castles-of-britain.com/castle6.htm",
+      "kind": "업데이트",
+      "title": "기존 상세 주소는 접근 여부를 확인하지 못했습니다",
+      "text_ko": "이번 확인에서는 원문의 상세 페이지를 열지 못했습니다. 사이트 전체가 폐쇄됐다고 단정할 수는 없습니다. 성의 구조와 역사는 아래 기관 자료를 대안으로 참고하세요.",
+      "sources": [
+        {
+          "title": "English Heritage · Castles Through Time",
+          "url": "https://www.english-heritage.org.uk/castles/castles-through-time/"
+        }
+      ],
+      "checked_at": "2026-11-06",
+      "source_page": 114
+    },
+    {
+      "id": "fact-047",
+      "paragraph_id": "p0313",
+      "anchor": "historyforkids.org/learn/medieval",
+      "kind": "업데이트",
+      "title": "오래된 주소의 현재 연결은 미확인",
+      "text_ko": "이번 확인에서는 이 경로의 내용을 열지 못했습니다. 주소만 믿고 자료의 유효성을 가정하지 말고, 현재 열리는 교육 자료와 비교하세요.",
+      "sources": [
+        {
+          "title": "Annenberg Learner · The Middle Ages",
+          "url": "https://www.learner.org/wp-content/interactive/middleages/"
+        }
+      ],
+      "checked_at": "2026-11-06",
+      "source_page": 114
+    },
+    {
+      "id": "fact-048",
+      "paragraph_id": "p0314",
+      "anchor": "knightsandarmor.com",
+      "kind": "업데이트",
+      "title": "이 홈페이지는 현재 접근 가능합니다",
+      "text_ko": "2026년 11월 6일 홈페이지가 열리는 것을 확인했습니다. 접속 가능하다는 사실이 각 역사 설명의 정확성을 보증하는 것은 아니므로 박물관·학술 자료와 함께 읽으세요.",
+      "sources": [
+        {
+          "title": "Knights & Armor · 현재 홈페이지",
+          "url": "https://knightsandarmor.com/"
+        }
+      ],
+      "checked_at": "2026-11-06",
+      "source_page": 114
+    },
+    {
+      "id": "fact-049",
+      "paragraph_id": "p0315",
+      "anchor": "learner.org/exhibits/middleages",
+      "kind": "업데이트",
+      "title": "Annenberg Learner 자료의 새 경로",
+      "text_ko": "원문의 /exhibits/middleages 경로는 이번 확인에서 404를 반환했습니다. 자료는 아래 /wp-content/interactive/middleages/ 경로에서 확인할 수 있습니다.",
+      "sources": [
+        {
+          "title": "Annenberg Learner · The Middle Ages",
+          "url": "https://www.learner.org/wp-content/interactive/middleages/"
+        }
+      ],
+      "checked_at": "2026-11-06",
+      "source_page": 114
+    }
+  ]
+}
