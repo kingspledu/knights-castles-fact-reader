@@ -78,5 +78,25 @@
       "grid_sha256": "ad9a9937afbbbf4fe9fa936e83b7ecad018a8a6e61170fae361423308c743115",
       "review_note": "Nine source balloons reviewed word for word, speaker identity and relevant training horse, riding, mail rings, padding, dagger and mounted formation verified."
     }
+  ],
+  "chapter-010-speech-02-sword-comparison-four-weapons-helmet-progression-armor-parts-heraldry-shields-gate-cutaway-drawbridge-operation-quarry-transport": [
+    {
+      "scene_ids": [
+        "chapter-010-speech-02",
+        "sword-comparison",
+        "four-weapons",
+        "helmet-progression",
+        "armor-parts",
+        "heraldry-shields",
+        "gate-cutaway",
+        "drawbridge-operation",
+        "quarry-transport"
+      ],
+      "grid": "3x3",
+      "prompt": "ONE square EXACT 3x3 grid NINE equal square documentary photographs, white thin gutters, clear historical educational objects, natural daylight, no gore, no logos. Reference children as identity only: Jack navy shirt round glasses brown hair olive backpack; Annie yellow shirt coral trousers shoulder length brown hair no glasses.\nPanel1 both children at jousting arena pointing toward two mounted armored knights with long lances on OPPOSITE sides of dividing rail, spectators in stands. One white speech balloon with two tails exact text: \"Turn the page to attend a medieval tournament.\"\nPanel2 NO children NO text: Three swords laid flat side by side on neutral museum table: short broad double-edged slashing sword, longer narrow pointed thrusting sword, very long hand-and-a-half sword with extended grip, distinct silhouettes and complete hilts/blades.\nPanel3 NO children NO text: four complete medieval weapons arranged apart on museum table: spiked ball with CHAIN and handle flail, rigid flanged-head mace, broad-bladed short-handled battle axe, hammer head with rear pointed pick war hammer. No hybrids.\nPanel4 NO children NO text: helmet progression on four stands: conical nasal helmet, bucket-shaped eye-slit great helm, close fitting basinet with raised hinged visor and chain aventail, ornate heavy tournament helmet with feather plume. Distinct functional shapes.\nPanel5 NO children NO text: front full-body knight in plate armor standing beside armored horse in SIDE profile; all body parts in frame. Show knight helmet, chest/back plates, pauldrons, arm plates, gloves, thigh/knee/calf/foot plates; horse head, neck and chest plates plus saddle. Authentic articulated metal.\nPanel6 NO children NO text: heraldry demonstration on five separate real shields on wooden rack: oak tree, owl, sun, bluebird, jaguar; medieval herald consults armorial manuscript next to rack. Five clear distinct motifs.\nPanel7 NO children NO text: architectural cutaway MODEL castle gatehouse showing barbican outer walled passage, water moat, lowered drawbridge, raised iron portcullis and thick wooden double doors with locking beam, coherent layered defensive route.\nPanel8 NO children NO text: side by side two SMALL physically separate gatehouse models showing drawbridge lowered across moat at left and raised vertically blocking gate at right; iron portcullis down in right model, visible chains and mechanism.\nPanel9 NO children NO text: quarry workers hand cutting blocks with picks and wedges, foreground wagon with heavy stone pulled by oxen; river boat loaded with blocks behind. Concrete material transport sequence in single coherent landscape.\nAll nine panels square and distinct. No captions besides panel1 exact balloon. Photographic not cartoon or CGI; museum models photographed realistically.\n",
+      "generated_at": "20261106T102729097266Z",
+      "grid_sha256": "72e48f7d67613b332863c954e1a1eeb8ea50d7228cec310d1b55d7897173eaf5",
+      "review_note": "Reviewed nine panels: exact tournament balloon; complete weapon silhouettes, four helmets, knight and horse armor, five distinct shield motifs, gate defenses and stone transport. Gate model is a visual overview rather than engineering schematic."
+    }
   ]
 }

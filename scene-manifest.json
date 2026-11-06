@@ -250,6 +250,27 @@
     "review_note": "Nine panels reviewed; exact full balloon texts visible; castle parts, motte bailey, sentry, moat, mews and tunic match descriptions."
   },
   {
+    "id": "quarry-transport",
+    "chapter_id": "chapter-004",
+    "insert_after_paragraph_id": "p0061",
+    "source_paragraph_ids": [
+      "p0061"
+    ],
+    "description": "Hand quarrying and stone transport by wagon and boat",
+    "alt": "Hand quarrying and stone transport by wagon and boat",
+    "character_ids": [],
+    "state": "historical-educational",
+    "status": "integrated",
+    "web_asset_path": "assets/quarry-transport.webp",
+    "width": 410,
+    "height": 410,
+    "grid_id": "chapter-010-speech-02-sword-comparison-four-weapons-helmet-progression-armor-parts-heraldry-shields-gate-cutaway-drawbridge-operation-quarry-transport",
+    "quadrant": 9,
+    "generated_at": "20261106T102729097266Z",
+    "grid_sha256": "72e48f7d67613b332863c954e1a1eeb8ea50d7228cec310d1b55d7897173eaf5",
+    "review_note": "Reviewed nine panels: exact tournament balloon; complete weapon silhouettes, four helmets, knight and horse armor, five distinct shield motifs, gate defenses and stone transport. Gate model is a visual overview rather than engineering schematic."
+  },
+  {
     "id": "masonry",
     "chapter_id": "chapter-004",
     "insert_after_paragraph_id": "p0064",
@@ -342,6 +363,48 @@
     "generated_at": "20261106T101255422067Z",
     "grid_sha256": "6a5d28373029281e17c426fa3eff0cf817f11c6afc6b1fcefc9e55b8f5db465a",
     "review_note": "Nine panels reviewed; exact full balloon texts visible; castle parts, motte bailey, sentry, moat, mews and tunic match descriptions."
+  },
+  {
+    "id": "gate-cutaway",
+    "chapter_id": "chapter-005",
+    "insert_after_paragraph_id": "p0087",
+    "source_paragraph_ids": [
+      "p0087"
+    ],
+    "description": "Gatehouse defenses in a coherent cutaway",
+    "alt": "Gatehouse defenses in a coherent cutaway",
+    "character_ids": [],
+    "state": "historical-educational",
+    "status": "integrated",
+    "web_asset_path": "assets/gate-cutaway.webp",
+    "width": 410,
+    "height": 410,
+    "grid_id": "chapter-010-speech-02-sword-comparison-four-weapons-helmet-progression-armor-parts-heraldry-shields-gate-cutaway-drawbridge-operation-quarry-transport",
+    "quadrant": 7,
+    "generated_at": "20261106T102729097266Z",
+    "grid_sha256": "72e48f7d67613b332863c954e1a1eeb8ea50d7228cec310d1b55d7897173eaf5",
+    "review_note": "Reviewed nine panels: exact tournament balloon; complete weapon silhouettes, four helmets, knight and horse armor, five distinct shield motifs, gate defenses and stone transport. Gate model is a visual overview rather than engineering schematic."
+  },
+  {
+    "id": "drawbridge-operation",
+    "chapter_id": "chapter-005",
+    "insert_after_paragraph_id": "p0090",
+    "source_paragraph_ids": [
+      "p0090"
+    ],
+    "description": "Raised and lowered drawbridge with portcullis",
+    "alt": "Raised and lowered drawbridge with portcullis",
+    "character_ids": [],
+    "state": "historical-educational",
+    "status": "integrated",
+    "web_asset_path": "assets/drawbridge-operation.webp",
+    "width": 410,
+    "height": 410,
+    "grid_id": "chapter-010-speech-02-sword-comparison-four-weapons-helmet-progression-armor-parts-heraldry-shields-gate-cutaway-drawbridge-operation-quarry-transport",
+    "quadrant": 8,
+    "generated_at": "20261106T102729097266Z",
+    "grid_sha256": "72e48f7d67613b332863c954e1a1eeb8ea50d7228cec310d1b55d7897173eaf5",
+    "review_note": "Reviewed nine panels: exact tournament balloon; complete weapon silhouettes, four helmets, knight and horse armor, five distinct shield motifs, gate defenses and stone transport. Gate model is a visual overview rather than engineering schematic."
   },
   {
     "id": "chapter-005-speech-03",
@@ -894,6 +957,90 @@
     "review_note": "Nine source balloons reviewed word for word, speaker identity and relevant training horse, riding, mail rings, padding, dagger and mounted formation verified."
   },
   {
+    "id": "helmet-progression",
+    "chapter_id": "chapter-009",
+    "insert_after_paragraph_id": "p0194",
+    "source_paragraph_ids": [
+      "p0194"
+    ],
+    "description": "Nasal helmet, great helm, basinet with visor and tournament helmet",
+    "alt": "Nasal helmet, great helm, basinet with visor and tournament helmet",
+    "character_ids": [],
+    "state": "historical-educational",
+    "status": "integrated",
+    "web_asset_path": "assets/helmet-progression.webp",
+    "width": 410,
+    "height": 410,
+    "grid_id": "chapter-010-speech-02-sword-comparison-four-weapons-helmet-progression-armor-parts-heraldry-shields-gate-cutaway-drawbridge-operation-quarry-transport",
+    "quadrant": 4,
+    "generated_at": "20261106T102729097266Z",
+    "grid_sha256": "72e48f7d67613b332863c954e1a1eeb8ea50d7228cec310d1b55d7897173eaf5",
+    "review_note": "Reviewed nine panels: exact tournament balloon; complete weapon silhouettes, four helmets, knight and horse armor, five distinct shield motifs, gate defenses and stone transport. Gate model is a visual overview rather than engineering schematic."
+  },
+  {
+    "id": "armor-parts",
+    "chapter_id": "chapter-009",
+    "insert_after_paragraph_id": "p0196",
+    "source_paragraph_ids": [
+      "p0196"
+    ],
+    "description": "Plate armor on knight and horse",
+    "alt": "Plate armor on knight and horse",
+    "character_ids": [],
+    "state": "historical-educational",
+    "status": "integrated",
+    "web_asset_path": "assets/armor-parts.webp",
+    "width": 410,
+    "height": 410,
+    "grid_id": "chapter-010-speech-02-sword-comparison-four-weapons-helmet-progression-armor-parts-heraldry-shields-gate-cutaway-drawbridge-operation-quarry-transport",
+    "quadrant": 5,
+    "generated_at": "20261106T102729097266Z",
+    "grid_sha256": "72e48f7d67613b332863c954e1a1eeb8ea50d7228cec310d1b55d7897173eaf5",
+    "review_note": "Reviewed nine panels: exact tournament balloon; complete weapon silhouettes, four helmets, knight and horse armor, five distinct shield motifs, gate defenses and stone transport. Gate model is a visual overview rather than engineering schematic."
+  },
+  {
+    "id": "heraldry-shields",
+    "chapter_id": "chapter-009",
+    "insert_after_paragraph_id": "p0201",
+    "source_paragraph_ids": [
+      "p0201"
+    ],
+    "description": "Distinct heraldry shield motifs and herald",
+    "alt": "Distinct heraldry shield motifs and herald",
+    "character_ids": [],
+    "state": "historical-educational",
+    "status": "integrated",
+    "web_asset_path": "assets/heraldry-shields.webp",
+    "width": 410,
+    "height": 410,
+    "grid_id": "chapter-010-speech-02-sword-comparison-four-weapons-helmet-progression-armor-parts-heraldry-shields-gate-cutaway-drawbridge-operation-quarry-transport",
+    "quadrant": 6,
+    "generated_at": "20261106T102729097266Z",
+    "grid_sha256": "72e48f7d67613b332863c954e1a1eeb8ea50d7228cec310d1b55d7897173eaf5",
+    "review_note": "Reviewed nine panels: exact tournament balloon; complete weapon silhouettes, four helmets, knight and horse armor, five distinct shield motifs, gate defenses and stone transport. Gate model is a visual overview rather than engineering schematic."
+  },
+  {
+    "id": "sword-comparison",
+    "chapter_id": "chapter-010",
+    "insert_after_paragraph_id": "p0206",
+    "source_paragraph_ids": [
+      "p0206"
+    ],
+    "description": "Slashing, thrusting and hand-and-a-half swords compared",
+    "alt": "Slashing, thrusting and hand-and-a-half swords compared",
+    "character_ids": [],
+    "state": "historical-educational",
+    "status": "integrated",
+    "web_asset_path": "assets/sword-comparison.webp",
+    "width": 410,
+    "height": 410,
+    "grid_id": "chapter-010-speech-02-sword-comparison-four-weapons-helmet-progression-armor-parts-heraldry-shields-gate-cutaway-drawbridge-operation-quarry-transport",
+    "quadrant": 2,
+    "generated_at": "20261106T102729097266Z",
+    "grid_sha256": "72e48f7d67613b332863c954e1a1eeb8ea50d7228cec310d1b55d7897173eaf5",
+    "review_note": "Reviewed nine panels: exact tournament balloon; complete weapon silhouettes, four helmets, knight and horse armor, five distinct shield motifs, gate defenses and stone transport. Gate model is a visual overview rather than engineering schematic."
+  },
+  {
     "id": "chapter-010-speech-01",
     "chapter_id": "chapter-010",
     "insert_after_paragraph_id": "p0209",
@@ -920,6 +1067,27 @@
     "review_note": "Nine source balloons reviewed word for word, speaker identity and relevant training horse, riding, mail rings, padding, dagger and mounted formation verified."
   },
   {
+    "id": "four-weapons",
+    "chapter_id": "chapter-010",
+    "insert_after_paragraph_id": "p0211",
+    "source_paragraph_ids": [
+      "p0211"
+    ],
+    "description": "Flail, mace, battle-axe and war hammer",
+    "alt": "Flail, mace, battle-axe and war hammer",
+    "character_ids": [],
+    "state": "historical-educational",
+    "status": "integrated",
+    "web_asset_path": "assets/four-weapons.webp",
+    "width": 410,
+    "height": 410,
+    "grid_id": "chapter-010-speech-02-sword-comparison-four-weapons-helmet-progression-armor-parts-heraldry-shields-gate-cutaway-drawbridge-operation-quarry-transport",
+    "quadrant": 3,
+    "generated_at": "20261106T102729097266Z",
+    "grid_sha256": "72e48f7d67613b332863c954e1a1eeb8ea50d7228cec310d1b55d7897173eaf5",
+    "review_note": "Reviewed nine panels: exact tournament balloon; complete weapon silhouettes, four helmets, knight and horse armor, five distinct shield motifs, gate defenses and stone transport. Gate model is a visual overview rather than engineering schematic."
+  },
+  {
     "id": "chapter-010-speech-02",
     "chapter_id": "chapter-010",
     "insert_after_paragraph_id": "p0216",
@@ -933,9 +1101,17 @@
       "annie-v1"
     ],
     "state": "modern-explorer",
-    "status": "planned",
+    "status": "integrated",
     "speech_text": "Turn the page to attend a medieval tournament.",
     "speaker": "Jack and Annie",
-    "source_page": 89
+    "source_page": 89,
+    "web_asset_path": "assets/chapter-010-speech-02.webp",
+    "width": 410,
+    "height": 410,
+    "grid_id": "chapter-010-speech-02-sword-comparison-four-weapons-helmet-progression-armor-parts-heraldry-shields-gate-cutaway-drawbridge-operation-quarry-transport",
+    "quadrant": 1,
+    "generated_at": "20261106T102729097266Z",
+    "grid_sha256": "72e48f7d67613b332863c954e1a1eeb8ea50d7228cec310d1b55d7897173eaf5",
+    "review_note": "Reviewed nine panels: exact tournament balloon; complete weapon silhouettes, four helmets, knight and horse armor, five distinct shield motifs, gate defenses and stone transport. Gate model is a visual overview rather than engineering schematic."
   }
 ]
