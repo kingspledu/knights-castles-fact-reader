@@ -2579,7 +2579,15 @@
     "alt": "포위된 성으로 도착하는 구원군",
     "character_ids": [],
     "state": "historical-reconstruction",
-    "status": "planned"
+    "status": "integrated",
+    "web_asset_path": "assets/continuation-10.webp",
+    "width": 410,
+    "height": 410,
+    "grid_id": "continuation-10-continuation-11-continuation-12-continuation-13-continuation-14-continuation-15-continuation-16-continuation-17-continuation-18",
+    "quadrant": 1,
+    "generated_at": "20261106T115733121456Z",
+    "grid_sha256": "db766d5ed1aa29a554553495b2f3b16d6ef8269ce0293ea67259b5d8e68b4004",
+    "review_note": "Visually inspected all9 tiles: relief army, dark drafty castle, Jack cannon speech with wheel carriage, cannonballs and breached wall, early firearms and professional army, Annie dame speech with honor ceremony, drawbridge and chisel marks, Great Hall and exhibits, complete armor display. Correct row-major mapping, exact speech wording and speaker tails."
   },
   {
     "id": "continuation-08",
@@ -2649,7 +2657,15 @@
     "alt": "안락함보다 방어를 우선한 어둡고 외풍 드는 성 내부",
     "character_ids": [],
     "state": "historical-reconstruction",
-    "status": "planned"
+    "status": "integrated",
+    "web_asset_path": "assets/continuation-11.webp",
+    "width": 410,
+    "height": 410,
+    "grid_id": "continuation-10-continuation-11-continuation-12-continuation-13-continuation-14-continuation-15-continuation-16-continuation-17-continuation-18",
+    "quadrant": 2,
+    "generated_at": "20261106T115733121456Z",
+    "grid_sha256": "db766d5ed1aa29a554553495b2f3b16d6ef8269ce0293ea67259b5d8e68b4004",
+    "review_note": "Visually inspected all9 tiles: relief army, dark drafty castle, Jack cannon speech with wheel carriage, cannonballs and breached wall, early firearms and professional army, Annie dame speech with honor ceremony, drawbridge and chisel marks, Great Hall and exhibits, complete armor display. Correct row-major mapping, exact speech wording and speaker tails."
   },
   {
     "id": "continuation-13",
@@ -2666,7 +2682,15 @@
     "alt": "돌과 철 포탄이 성벽을 무너뜨리는 대포의 위력",
     "character_ids": [],
     "state": "historical-reconstruction",
-    "status": "planned"
+    "status": "integrated",
+    "web_asset_path": "assets/continuation-13.webp",
+    "width": 410,
+    "height": 410,
+    "grid_id": "continuation-10-continuation-11-continuation-12-continuation-13-continuation-14-continuation-15-continuation-16-continuation-17-continuation-18",
+    "quadrant": 4,
+    "generated_at": "20261106T115733121456Z",
+    "grid_sha256": "db766d5ed1aa29a554553495b2f3b16d6ef8269ce0293ea67259b5d8e68b4004",
+    "review_note": "Visually inspected all9 tiles: relief army, dark drafty castle, Jack cannon speech with wheel carriage, cannonballs and breached wall, early firearms and professional army, Annie dame speech with honor ceremony, drawbridge and chisel marks, Great Hall and exhibits, complete armor display. Correct row-major mapping, exact speech wording and speaker tails."
   },
   {
     "id": "continuation-12",
@@ -2685,9 +2709,17 @@
       "jack-v1"
     ],
     "state": "modern-explorer",
-    "status": "planned",
+    "status": "integrated",
     "speech_text": "A cannon is a large gun, usually mounted on wheels.",
-    "speaker": "Jack"
+    "speaker": "Jack",
+    "web_asset_path": "assets/continuation-12.webp",
+    "width": 410,
+    "height": 410,
+    "grid_id": "continuation-10-continuation-11-continuation-12-continuation-13-continuation-14-continuation-15-continuation-16-continuation-17-continuation-18",
+    "quadrant": 3,
+    "generated_at": "20261106T115733121456Z",
+    "grid_sha256": "db766d5ed1aa29a554553495b2f3b16d6ef8269ce0293ea67259b5d8e68b4004",
+    "review_note": "Visually inspected all9 tiles: relief army, dark drafty castle, Jack cannon speech with wheel carriage, cannonballs and breached wall, early firearms and professional army, Annie dame speech with honor ceremony, drawbridge and chisel marks, Great Hall and exhibits, complete armor display. Correct row-major mapping, exact speech wording and speaker tails."
   },
   {
     "id": "continuation-14",
@@ -2706,7 +2738,15 @@
     "alt": "화기를 갖추고 훈련하는 상비군과 구식 기사 장비",
     "character_ids": [],
     "state": "historical-reconstruction",
-    "status": "planned"
+    "status": "integrated",
+    "web_asset_path": "assets/continuation-14.webp",
+    "width": 410,
+    "height": 410,
+    "grid_id": "continuation-10-continuation-11-continuation-12-continuation-13-continuation-14-continuation-15-continuation-16-continuation-17-continuation-18",
+    "quadrant": 5,
+    "generated_at": "20261106T115733121456Z",
+    "grid_sha256": "db766d5ed1aa29a554553495b2f3b16d6ef8269ce0293ea67259b5d8e68b4004",
+    "review_note": "Visually inspected all9 tiles: relief army, dark drafty castle, Jack cannon speech with wheel carriage, cannonballs and breached wall, early firearms and professional army, Annie dame speech with honor ceremony, drawbridge and chisel marks, Great Hall and exhibits, complete armor display. Correct row-major mapping, exact speech wording and speaker tails."
   },
   {
     "id": "continuation-16",
@@ -2726,7 +2766,15 @@
     "alt": "오늘날 관람객이 도개교·성가퀴·석공 흔적을 살펴보는 성",
     "character_ids": [],
     "state": "historical-reconstruction",
-    "status": "planned"
+    "status": "integrated",
+    "web_asset_path": "assets/continuation-16.webp",
+    "width": 410,
+    "height": 410,
+    "grid_id": "continuation-10-continuation-11-continuation-12-continuation-13-continuation-14-continuation-15-continuation-16-continuation-17-continuation-18",
+    "quadrant": 7,
+    "generated_at": "20261106T115733121456Z",
+    "grid_sha256": "db766d5ed1aa29a554553495b2f3b16d6ef8269ce0293ea67259b5d8e68b4004",
+    "review_note": "Visually inspected all9 tiles: relief army, dark drafty castle, Jack cannon speech with wheel carriage, cannonballs and breached wall, early firearms and professional army, Annie dame speech with honor ceremony, drawbridge and chisel marks, Great Hall and exhibits, complete armor display. Correct row-major mapping, exact speech wording and speaker tails."
   },
   {
     "id": "continuation-17",
@@ -2746,7 +2794,15 @@
     "alt": "대연회장의 은접시와 중세 의상·무기·갑옷 전시",
     "character_ids": [],
     "state": "historical-reconstruction",
-    "status": "planned"
+    "status": "integrated",
+    "web_asset_path": "assets/continuation-17.webp",
+    "width": 410,
+    "height": 410,
+    "grid_id": "continuation-10-continuation-11-continuation-12-continuation-13-continuation-14-continuation-15-continuation-16-continuation-17-continuation-18",
+    "quadrant": 8,
+    "generated_at": "20261106T115733121456Z",
+    "grid_sha256": "db766d5ed1aa29a554553495b2f3b16d6ef8269ce0293ea67259b5d8e68b4004",
+    "review_note": "Visually inspected all9 tiles: relief army, dark drafty castle, Jack cannon speech with wheel carriage, cannonballs and breached wall, early firearms and professional army, Annie dame speech with honor ceremony, drawbridge and chisel marks, Great Hall and exhibits, complete armor display. Correct row-major mapping, exact speech wording and speaker tails."
   },
   {
     "id": "continuation-15",
@@ -2768,9 +2824,17 @@
       "annie-v1"
     ],
     "state": "modern-explorer",
-    "status": "planned",
+    "status": "integrated",
     "speech_text": "A woman who is given this honor is called a dame.",
-    "speaker": "Annie"
+    "speaker": "Annie",
+    "web_asset_path": "assets/continuation-15.webp",
+    "width": 410,
+    "height": 410,
+    "grid_id": "continuation-10-continuation-11-continuation-12-continuation-13-continuation-14-continuation-15-continuation-16-continuation-17-continuation-18",
+    "quadrant": 6,
+    "generated_at": "20261106T115733121456Z",
+    "grid_sha256": "db766d5ed1aa29a554553495b2f3b16d6ef8269ce0293ea67259b5d8e68b4004",
+    "review_note": "Visually inspected all9 tiles: relief army, dark drafty castle, Jack cannon speech with wheel carriage, cannonballs and breached wall, early firearms and professional army, Annie dame speech with honor ceremony, drawbridge and chisel marks, Great Hall and exhibits, complete armor display. Correct row-major mapping, exact speech wording and speaker tails."
   },
   {
     "id": "continuation-18",
@@ -2784,7 +2848,15 @@
     "alt": "전신 갑옷과 방사형 칼·창·방패를 갖춘 박물관 전시",
     "character_ids": [],
     "state": "historical-reconstruction",
-    "status": "planned"
+    "status": "integrated",
+    "web_asset_path": "assets/continuation-18.webp",
+    "width": 410,
+    "height": 410,
+    "grid_id": "continuation-10-continuation-11-continuation-12-continuation-13-continuation-14-continuation-15-continuation-16-continuation-17-continuation-18",
+    "quadrant": 9,
+    "generated_at": "20261106T115733121456Z",
+    "grid_sha256": "db766d5ed1aa29a554553495b2f3b16d6ef8269ce0293ea67259b5d8e68b4004",
+    "review_note": "Visually inspected all9 tiles: relief army, dark drafty castle, Jack cannon speech with wheel carriage, cannonballs and breached wall, early firearms and professional army, Annie dame speech with honor ceremony, drawbridge and chisel marks, Great Hall and exhibits, complete armor display. Correct row-major mapping, exact speech wording and speaker tails."
   },
   {
     "id": "continuation-19",

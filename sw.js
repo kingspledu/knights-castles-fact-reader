@@ -1,8 +1,8 @@
 'use strict';
 const PREFIX='story-reader-knights-castles-fact-reader-';
-const CACHE=PREFIX+'7f48f4178817';
+const CACHE=PREFIX+'a2bf5bcfadc6';
 const ROOT=new URL('./',self.location).href;
-const CORE=['./','./style.css?v=7f48f4178817','./app.js?v=7f48f4178817','./pwa.js?v=7f48f4178817','./manifest.webmanifest','./assets/app-icon-192.png','./assets/app-icon-512.png'];
+const CORE=['./','./style.css?v=a2bf5bcfadc6','./app.js?v=a2bf5bcfadc6','./pwa.js?v=a2bf5bcfadc6','./manifest.webmanifest','./assets/app-icon-192.png','./assets/app-icon-512.png'];
 self.addEventListener('install',event=>{event.waitUntil(caches.open(CACHE).then(cache=>cache.addAll(CORE)).then(()=>self.skipWaiting()))});
 self.addEventListener('activate',event=>{event.waitUntil(caches.keys().then(keys=>Promise.all(keys.filter(key=>key.startsWith(PREFIX)&&key!==CACHE).map(key=>caches.delete(key)))).then(()=>self.clients.claim()))});
 self.addEventListener('fetch',event=>{
