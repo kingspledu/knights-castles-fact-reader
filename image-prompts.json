@@ -158,5 +158,25 @@
       "grid_sha256": "b3a8ff6e61e53a87d90cb4988ad6e71c93f38a98d003b016435313e81cc32980",
       "review_note": "Directly inspected all nine panels: readable source milestones, cultural activities, oath, birth and wealth distinction, wood versus stone, planning tools, mason marks, nails and repairs, alarm horn. Timeline models are illustrative examples rather than dated reconstructions."
     }
+  ],
+  "battlement-terms-barbican-trap-drawbridge-operation-door-bolts-castle-utilities-children-school-servant-duties-noble-clothes-traveling-household": [
+    {
+      "scene_ids": [
+        "battlement-terms",
+        "barbican-trap",
+        "drawbridge-operation",
+        "door-bolts",
+        "castle-utilities",
+        "children-school",
+        "servant-duties",
+        "noble-clothes",
+        "traveling-household"
+      ],
+      "grid": "3x3",
+      "prompt": "ONE square EXACT 3x3 grid of nine equally sized square photographic educational panels. Real photographed architectural models and medieval reenactments, authentic textures, neutral natural light, thin straight white gutters. No modern child guides, no balloons, no logos, no wounds. Highest native clarity. Each panel explicitly demonstrates named parts.\n1 TOP LEFT: close castle battlement cross-section showing two solid stone MERLONS and open CRENEL between, an archer SENTRY shoots through opening and another hides behind solid stone. Precise short English labels with arrows: \"Merlon\" to solid block, \"Crenel\" to gap, \"Sentry\" to archer, \"Battlements\" to whole parapet. Do not swap gap and block.\n2 TOP CENTER: overhead cutaway physical model of BARBICAN: long narrow walled passage with TWO separate gates at its ends, both gates shut, opposing guards outside gates, small trapped intruder model in between. Label \"Barbican\". Main castle and moat beyond, coherent passage, no violence.\n3 TOP RIGHT: TWO side-by-side model gatehouses over water. LEFT a hinged WOODEN DRAWBRIDGE lies HORIZONTAL across moat, clear chains from tower to bridge outer corners. RIGHT identical drawbridge is visibly ROTATED UP 90 degrees VERTICAL, with its OUTER END HIGH and hinge at threshold, completely covering doorway; chains taut to upper wall. Moat visibly unbridged on right. Labels \"Lowered\" and \"Raised\". This is a rising bridge, not merely closed wooden doors. Show side angle to see raised planks, hinge and chain.\n4 MIDDLE LEFT: interior view behind castle gate showing iron PORTCULLIS ahead and thick wooden DOUBLE DOORS behind it. Wooden doors closed with very thick HORIZONTAL locking beam across both leaves, iron brackets and smaller bolt. Guard slides bolt. Show timber thickness and separate layers clearly, label \"Bolts\".\n5 MIDDLE CENTER: bird's-eye castle courtyard cutaway physical MODEL with four clearly separated highlighted facilities: round stone WELL with bucket, STABLES with horses at stalls, MEWS with falcon perches, SENTRY WALK along top of wall with guard. English labels \"Well\", \"Stables\", \"Mews\", \"Sentry walk\" accurately point to respective facilities.\n6 MIDDLE RIGHT: fully clothed seven-year-old noble children arrive at ANOTHER castle with traveling guardian, their parents say goodbye at gate; through open classroom behind, tutor gives reading lesson and demonstrates table manners. Educational historical child life, no modern clothing.\n7 BOTTOM LEFT: medieval castle servants doing distinct jobs in ONE coherent household scene: woman washes linen in wooden tub, man sweeps floor with broom, personal servant fastens FULLY CLOTHED noble's outer tunic. No undressed people; no kitchen.\n8 BOTTOM CENTER: complete full-body noble clothing demonstration, head to toe: woman long elaborate dress and enormous covered headdress; man linen shirt under tunic, fitted wool HOSE, floppy hat with LONG trailing tail, exceptionally LONG POINTED shoes. Wool and linen swatches in foreground. Feet and hat tail fully in frame.\n9 BOTTOM RIGHT: lord's travel baggage being loaded onto ox wagon: disassembled carved BED FRAME and rolled mattress with curtains, large wooden BATHTUB strapped safely beside bed parts, servants carry bedding. Lord travels with own bed and bath, recognizable objects not generic chests.\nNine self-contained square scenes, no panel extends into neighbor, no extra writing beyond listed labels.\n",
+      "generated_at": "20261106T110551757438Z",
+      "grid_sha256": "2fea09181a6b20354555ac1dc750228618e447b40c4ff4fe8fdcf4f60a0a45e5",
+      "review_note": "Reviewed labelled crenel versus merlon, trapped barbican passage, clearly vertical raised bridge with chains replacing ambiguous old panel, door bolts, well stables mews walk, child schooling, servant jobs, complete clothing and transportable bed and bath."
+    }
   ]
 }

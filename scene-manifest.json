@@ -608,9 +608,17 @@
     "alt": "Crenel·Merlon·Sentry·Battlements 구분",
     "character_ids": [],
     "state": "historical-educational",
-    "status": "planned",
+    "status": "integrated",
     "source_page": 32,
-    "coverage_gap": "용어별 위치를 식별하기 어려움"
+    "coverage_gap": "용어별 위치를 식별하기 어려움",
+    "web_asset_path": "assets/battlement-terms.webp",
+    "width": 410,
+    "height": 410,
+    "grid_id": "battlement-terms-barbican-trap-drawbridge-operation-door-bolts-castle-utilities-children-school-servant-duties-noble-clothes-traveling-household",
+    "quadrant": 1,
+    "generated_at": "20261106T110551757438Z",
+    "grid_sha256": "2fea09181a6b20354555ac1dc750228618e447b40c4ff4fe8fdcf4f60a0a45e5",
+    "review_note": "Reviewed labelled crenel versus merlon, trapped barbican passage, clearly vertical raised bridge with chains replacing ambiguous old panel, door bolts, well stables mews walk, child schooling, servant jobs, complete clothing and transportable bed and bath."
   },
   {
     "id": "chapter-005-speech-01",
@@ -649,9 +657,17 @@
     "alt": "양쪽 문을 닫아 가두는 바비칸 통로",
     "character_ids": [],
     "state": "historical-educational",
-    "status": "planned",
+    "status": "integrated",
     "source_page": 34,
-    "coverage_gap": "정적 건물만 있고 작동 원리 없음"
+    "coverage_gap": "정적 건물만 있고 작동 원리 없음",
+    "web_asset_path": "assets/barbican-trap.webp",
+    "width": 410,
+    "height": 410,
+    "grid_id": "battlement-terms-barbican-trap-drawbridge-operation-door-bolts-castle-utilities-children-school-servant-duties-noble-clothes-traveling-household",
+    "quadrant": 2,
+    "generated_at": "20261106T110551757438Z",
+    "grid_sha256": "2fea09181a6b20354555ac1dc750228618e447b40c4ff4fe8fdcf4f60a0a45e5",
+    "review_note": "Reviewed labelled crenel versus merlon, trapped barbican passage, clearly vertical raised bridge with chains replacing ambiguous old panel, door bolts, well stables mews walk, child schooling, servant jobs, complete clothing and transportable bed and bath."
   },
   {
     "id": "chapter-005-speech-02",
@@ -715,11 +731,11 @@
     "web_asset_path": "assets/drawbridge-operation.webp",
     "width": 410,
     "height": 410,
-    "grid_id": "chapter-010-speech-02-sword-comparison-four-weapons-helmet-progression-armor-parts-heraldry-shields-gate-cutaway-drawbridge-operation-quarry-transport",
-    "quadrant": 8,
-    "generated_at": "20261106T102729097266Z",
-    "grid_sha256": "72e48f7d67613b332863c954e1a1eeb8ea50d7228cec310d1b55d7897173eaf5",
-    "review_note": "Reviewed nine panels: exact tournament balloon; complete weapon silhouettes, four helmets, knight and horse armor, five distinct shield motifs, gate defenses and stone transport. Gate model is a visual overview rather than engineering schematic."
+    "grid_id": "battlement-terms-barbican-trap-drawbridge-operation-door-bolts-castle-utilities-children-school-servant-duties-noble-clothes-traveling-household",
+    "quadrant": 3,
+    "generated_at": "20261106T110551757438Z",
+    "grid_sha256": "2fea09181a6b20354555ac1dc750228618e447b40c4ff4fe8fdcf4f60a0a45e5",
+    "review_note": "Reviewed labelled crenel versus merlon, trapped barbican passage, clearly vertical raised bridge with chains replacing ambiguous old panel, door bolts, well stables mews walk, child schooling, servant jobs, complete clothing and transportable bed and bath."
   },
   {
     "id": "door-bolts",
@@ -732,9 +748,17 @@
     "alt": "쇠격자 뒤 두꺼운 목문과 빗장",
     "character_ids": [],
     "state": "historical-educational",
-    "status": "planned",
+    "status": "integrated",
     "source_page": 36,
-    "coverage_gap": "잠금 장치가 안 보임"
+    "coverage_gap": "잠금 장치가 안 보임",
+    "web_asset_path": "assets/door-bolts.webp",
+    "width": 410,
+    "height": 410,
+    "grid_id": "battlement-terms-barbican-trap-drawbridge-operation-door-bolts-castle-utilities-children-school-servant-duties-noble-clothes-traveling-household",
+    "quadrant": 4,
+    "generated_at": "20261106T110551757438Z",
+    "grid_sha256": "2fea09181a6b20354555ac1dc750228618e447b40c4ff4fe8fdcf4f60a0a45e5",
+    "review_note": "Reviewed labelled crenel versus merlon, trapped barbican passage, clearly vertical raised bridge with chains replacing ambiguous old panel, door bolts, well stables mews walk, child schooling, servant jobs, complete clothing and transportable bed and bath."
   },
   {
     "id": "chapter-005-speech-03",
@@ -800,9 +824,17 @@
     "alt": "우물·마구간·매 사육장·순찰 통로",
     "character_ids": [],
     "state": "historical-educational",
-    "status": "planned",
+    "status": "integrated",
     "source_page": 39,
-    "coverage_gap": "성 전체 모형에서 작은 시설 식별 불가"
+    "coverage_gap": "성 전체 모형에서 작은 시설 식별 불가",
+    "web_asset_path": "assets/castle-utilities.webp",
+    "width": 410,
+    "height": 410,
+    "grid_id": "battlement-terms-barbican-trap-drawbridge-operation-door-bolts-castle-utilities-children-school-servant-duties-noble-clothes-traveling-household",
+    "quadrant": 5,
+    "generated_at": "20261106T110551757438Z",
+    "grid_sha256": "2fea09181a6b20354555ac1dc750228618e447b40c4ff4fe8fdcf4f60a0a45e5",
+    "review_note": "Reviewed labelled crenel versus merlon, trapped barbican passage, clearly vertical raised bridge with chains replacing ambiguous old panel, door bolts, well stables mews walk, child schooling, servant jobs, complete clothing and transportable bed and bath."
   },
   {
     "id": "noble-wedding",
@@ -904,9 +936,17 @@
     "alt": "일곱 살 귀족 자녀가 다른 성에서 배우는 예절과 수업",
     "character_ids": [],
     "state": "historical-educational",
-    "status": "planned",
+    "status": "integrated",
     "source_page": 44,
-    "coverage_gap": "자녀 교육 장면 없음"
+    "coverage_gap": "자녀 교육 장면 없음",
+    "web_asset_path": "assets/children-school.webp",
+    "width": 410,
+    "height": 410,
+    "grid_id": "battlement-terms-barbican-trap-drawbridge-operation-door-bolts-castle-utilities-children-school-servant-duties-noble-clothes-traveling-household",
+    "quadrant": 6,
+    "generated_at": "20261106T110551757438Z",
+    "grid_sha256": "2fea09181a6b20354555ac1dc750228618e447b40c4ff4fe8fdcf4f60a0a45e5",
+    "review_note": "Reviewed labelled crenel versus merlon, trapped barbican passage, clearly vertical raised bridge with chains replacing ambiguous old panel, door bolts, well stables mews walk, child schooling, servant jobs, complete clothing and transportable bed and bath."
   },
   {
     "id": "castle-kitchen",
@@ -940,9 +980,17 @@
     "alt": "세탁·청소·옷 입히는 개인 시종",
     "character_ids": [],
     "state": "historical-educational",
-    "status": "planned",
+    "status": "integrated",
     "source_page": 45,
-    "coverage_gap": "부엌과 목욕 이외의 일이 없음"
+    "coverage_gap": "부엌과 목욕 이외의 일이 없음",
+    "web_asset_path": "assets/servant-duties.webp",
+    "width": 410,
+    "height": 410,
+    "grid_id": "battlement-terms-barbican-trap-drawbridge-operation-door-bolts-castle-utilities-children-school-servant-duties-noble-clothes-traveling-household",
+    "quadrant": 7,
+    "generated_at": "20261106T110551757438Z",
+    "grid_sha256": "2fea09181a6b20354555ac1dc750228618e447b40c4ff4fe8fdcf4f60a0a45e5",
+    "review_note": "Reviewed labelled crenel versus merlon, trapped barbican passage, clearly vertical raised bridge with chains replacing ambiguous old panel, door bolts, well stables mews walk, child schooling, servant jobs, complete clothing and transportable bed and bath."
   },
   {
     "id": "bathing-preparation",
@@ -976,9 +1024,17 @@
     "alt": "모직 호즈·리넨 셔츠·긴 꼬리 모자·뾰족 신발",
     "character_ids": [],
     "state": "historical-educational",
-    "status": "planned",
+    "status": "integrated",
     "source_page": 46,
-    "coverage_gap": "튜닉 외 의복이 불명확"
+    "coverage_gap": "튜닉 외 의복이 불명확",
+    "web_asset_path": "assets/noble-clothes.webp",
+    "width": 410,
+    "height": 410,
+    "grid_id": "battlement-terms-barbican-trap-drawbridge-operation-door-bolts-castle-utilities-children-school-servant-duties-noble-clothes-traveling-household",
+    "quadrant": 8,
+    "generated_at": "20261106T110551757438Z",
+    "grid_sha256": "2fea09181a6b20354555ac1dc750228618e447b40c4ff4fe8fdcf4f60a0a45e5",
+    "review_note": "Reviewed labelled crenel versus merlon, trapped barbican passage, clearly vertical raised bridge with chains replacing ambiguous old panel, door bolts, well stables mews walk, child schooling, servant jobs, complete clothing and transportable bed and bath."
   },
   {
     "id": "chapter-006-speech-02",
@@ -1017,9 +1073,17 @@
     "alt": "여행에 침대와 욕조를 싣는 영주",
     "character_ids": [],
     "state": "historical-educational",
-    "status": "planned",
+    "status": "integrated",
     "source_page": 48,
-    "coverage_gap": "휴대·운반 모습 없음"
+    "coverage_gap": "휴대·운반 모습 없음",
+    "web_asset_path": "assets/traveling-household.webp",
+    "width": 410,
+    "height": 410,
+    "grid_id": "battlement-terms-barbican-trap-drawbridge-operation-door-bolts-castle-utilities-children-school-servant-duties-noble-clothes-traveling-household",
+    "quadrant": 9,
+    "generated_at": "20261106T110551757438Z",
+    "grid_sha256": "2fea09181a6b20354555ac1dc750228618e447b40c4ff4fe8fdcf4f60a0a45e5",
+    "review_note": "Reviewed labelled crenel versus merlon, trapped barbican passage, clearly vertical raised bridge with chains replacing ambiguous old panel, door bolts, well stables mews walk, child schooling, servant jobs, complete clothing and transportable bed and bath."
   },
   {
     "id": "chapter-006-speech-03",
