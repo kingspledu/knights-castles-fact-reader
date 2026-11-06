@@ -118,5 +118,25 @@
       "grid_sha256": "caabd846eac660ebf2ae99c5a3be671c829100d1a793e97db82324b9ace41735",
       "review_note": "Reviewed nine historical teaching scenes, construction crafts class duties kitchen bathing equipment and feast foods visible. No speech or text added."
     }
+  ],
+  "chapel-worship-pilgrimage-religious-play-fair-entertainment-dubbing-ceremony-arthur-merlin-round-table-guinevere-morgan-castle-siege": [
+    {
+      "scene_ids": [
+        "chapel-worship",
+        "pilgrimage",
+        "religious-play",
+        "fair-entertainment",
+        "dubbing-ceremony",
+        "arthur-merlin",
+        "round-table",
+        "guinevere-morgan",
+        "castle-siege"
+      ],
+      "grid": "3x3",
+      "prompt": "ONE square EXACT 3x3 grid NINE equal square photoreal historical documentary educational scenes, thin white gutters. No modern children, no balloons, no text, no captions, no watermarks, no gore. Realistic physical materials and coherent spaces, authentic medieval Europe except Arthurian scenes explicitly legendary.\n1 Castle CHAPEL: priest at altar with open book, candles, golden cross, painted walls and stained glass; lord lady and fully clothed children kneel praying in foreground, chapel architecture clearly visible.\n2 Medieval religious PILGRIMAGE: lord and lady in practical cloaks walking with staff toward distant shrine church alongside other pilgrims, stone road and holy place destination clear.\n3 Village religious festival biblical play on raised outdoor stage: robed actors with staffs, painted stars and moon backdrop, villagers watching, castle wall behind, no writing.\n4 Medieval trade fair ENTERTAINMENT: trained bear stands upright beside adult handler with loose tether and collection bowl, acrobat does a clear handstand nearby, small trained dog performs, villagers watch, stalls and covered horse cart behind; no cruelty or injuries.\n5 DUBBING ceremony in castle: crowned king touches flat of sword to kneeling fully clothed young adult squire's shoulder, priest holding open book behind; helmet shield and gloves on cushion, solemn ceremony.\n6 Legendary young Arthur pulls sword out of a large stone using both hands, Merlin nearby recognizable as elderly bearded magician in star-patterned pointed hat and robe; no real magic glow needed, no writing on stone.\n7 Legendary King Arthur at ROUND TABLE with knights seated evenly around full circular tabletop, all seats equal shape, clearly show round shape from elevated view; Lancelot and Galahad as two distinct noble knights among others, royal hall.\n8 Two separate framed portrait-like compositions within same photographic museum scene: Queen Guinevere with crown braided hair flower and elegant dress on left; Morgan le Fay with jeweled circlet book and cup on right; distinct women and objects; medieval manuscript open below, no text.\n9 Wide medieval CASTLE SIEGE: attackers climb tall ladders with shields, defenders shoot arrows and drop stones from battlements, distant siege tower and trebuchet, roofed battering ram approaching gate, tents in background, mild smoke from tower; no wounds or bodies. Concrete siege mechanisms and protective architecture.\nNine standalone square panels, no repeated generic backgrounds, every named object clearly recognizable.\n",
+      "generated_at": "20261106T103920514409Z",
+      "grid_sha256": "aa4c6741f96380eb539f66ed2021153975ae35b780b1908a619367b8e5ced28d",
+      "review_note": "All nine panels reviewed; concrete religious, training, legendary and siege objects visibly represented, distinct legends separated from historical scenes."
+    }
   ]
 }

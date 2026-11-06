@@ -806,6 +806,27 @@
     "review_note": "All nine full source speech texts reviewed; high bed and mouse, pewter samples, jester, feast, holiday, cathedral, merchant and minstrel visibly match."
   },
   {
+    "id": "religious-play",
+    "chapter_id": "chapter-007",
+    "insert_after_paragraph_id": "p0130",
+    "source_paragraph_ids": [
+      "p0130"
+    ],
+    "description": "Village actors perform a religious play",
+    "alt": "Village actors perform a religious play",
+    "character_ids": [],
+    "state": "historical-educational",
+    "status": "integrated",
+    "web_asset_path": "assets/religious-play.webp",
+    "width": 410,
+    "height": 410,
+    "grid_id": "chapel-worship-pilgrimage-religious-play-fair-entertainment-dubbing-ceremony-arthur-merlin-round-table-guinevere-morgan-castle-siege",
+    "quadrant": 3,
+    "generated_at": "20261106T103920514409Z",
+    "grid_sha256": "aa4c6741f96380eb539f66ed2021153975ae35b780b1908a619367b8e5ced28d",
+    "review_note": "All nine panels reviewed; concrete religious, training, legendary and siege objects visibly represented, distinct legends separated from historical scenes."
+  },
+  {
     "id": "chapter-007-speech-01",
     "chapter_id": "chapter-007",
     "insert_after_paragraph_id": "p0131",
@@ -830,6 +851,48 @@
     "generated_at": "20261106T101726005579Z",
     "grid_sha256": "8ddff500099f7079c98550e79a3c65e638f5f9b597bb226422146228007dfe37",
     "review_note": "All nine full source speech texts reviewed; high bed and mouse, pewter samples, jester, feast, holiday, cathedral, merchant and minstrel visibly match."
+  },
+  {
+    "id": "chapel-worship",
+    "chapter_id": "chapter-007",
+    "insert_after_paragraph_id": "p0132",
+    "source_paragraph_ids": [
+      "p0132"
+    ],
+    "description": "Castle chapel worship with altar stained glass cross and priest",
+    "alt": "Castle chapel worship with altar stained glass cross and priest",
+    "character_ids": [],
+    "state": "historical-educational",
+    "status": "integrated",
+    "web_asset_path": "assets/chapel-worship.webp",
+    "width": 410,
+    "height": 410,
+    "grid_id": "chapel-worship-pilgrimage-religious-play-fair-entertainment-dubbing-ceremony-arthur-merlin-round-table-guinevere-morgan-castle-siege",
+    "quadrant": 1,
+    "generated_at": "20261106T103920514409Z",
+    "grid_sha256": "aa4c6741f96380eb539f66ed2021153975ae35b780b1908a619367b8e5ced28d",
+    "review_note": "All nine panels reviewed; concrete religious, training, legendary and siege objects visibly represented, distinct legends separated from historical scenes."
+  },
+  {
+    "id": "pilgrimage",
+    "chapter_id": "chapter-007",
+    "insert_after_paragraph_id": "p0136",
+    "source_paragraph_ids": [
+      "p0136"
+    ],
+    "description": "Pilgrims travel toward a holy place",
+    "alt": "Pilgrims travel toward a holy place",
+    "character_ids": [],
+    "state": "historical-educational",
+    "status": "integrated",
+    "web_asset_path": "assets/pilgrimage.webp",
+    "width": 410,
+    "height": 410,
+    "grid_id": "chapel-worship-pilgrimage-religious-play-fair-entertainment-dubbing-ceremony-arthur-merlin-round-table-guinevere-morgan-castle-siege",
+    "quadrant": 2,
+    "generated_at": "20261106T103920514409Z",
+    "grid_sha256": "aa4c6741f96380eb539f66ed2021153975ae35b780b1908a619367b8e5ced28d",
+    "review_note": "All nine panels reviewed; concrete religious, training, legendary and siege objects visibly represented, distinct legends separated from historical scenes."
   },
   {
     "id": "chapter-007-speech-02",
@@ -908,6 +971,27 @@
     "generated_at": "20261106T101726005579Z",
     "grid_sha256": "8ddff500099f7079c98550e79a3c65e638f5f9b597bb226422146228007dfe37",
     "review_note": "All nine full source speech texts reviewed; high bed and mouse, pewter samples, jester, feast, holiday, cathedral, merchant and minstrel visibly match."
+  },
+  {
+    "id": "fair-entertainment",
+    "chapter_id": "chapter-007",
+    "insert_after_paragraph_id": "p0144",
+    "source_paragraph_ids": [
+      "p0144"
+    ],
+    "description": "Trained bear, dog and acrobat at trade fair",
+    "alt": "Trained bear, dog and acrobat at trade fair",
+    "character_ids": [],
+    "state": "historical-educational",
+    "status": "integrated",
+    "web_asset_path": "assets/fair-entertainment.webp",
+    "width": 410,
+    "height": 410,
+    "grid_id": "chapel-worship-pilgrimage-religious-play-fair-entertainment-dubbing-ceremony-arthur-merlin-round-table-guinevere-morgan-castle-siege",
+    "quadrant": 4,
+    "generated_at": "20261106T103920514409Z",
+    "grid_sha256": "aa4c6741f96380eb539f66ed2021153975ae35b780b1908a619367b8e5ced28d",
+    "review_note": "All nine panels reviewed; concrete religious, training, legendary and siege objects visibly represented, distinct legends separated from historical scenes."
   },
   {
     "id": "chapter-007-speech-05",
@@ -989,6 +1073,27 @@
     "review_note": "Nine source balloons reviewed word for word, speaker identity and relevant training horse, riding, mail rings, padding, dagger and mounted formation verified."
   },
   {
+    "id": "dubbing-ceremony",
+    "chapter_id": "chapter-008",
+    "insert_after_paragraph_id": "p0161",
+    "source_paragraph_ids": [
+      "p0161"
+    ],
+    "description": "King dubs a kneeling squire as knight",
+    "alt": "King dubs a kneeling squire as knight",
+    "character_ids": [],
+    "state": "historical-educational",
+    "status": "integrated",
+    "web_asset_path": "assets/dubbing-ceremony.webp",
+    "width": 410,
+    "height": 410,
+    "grid_id": "chapel-worship-pilgrimage-religious-play-fair-entertainment-dubbing-ceremony-arthur-merlin-round-table-guinevere-morgan-castle-siege",
+    "quadrant": 5,
+    "generated_at": "20261106T103920514409Z",
+    "grid_sha256": "aa4c6741f96380eb539f66ed2021153975ae35b780b1908a619367b8e5ced28d",
+    "review_note": "All nine panels reviewed; concrete religious, training, legendary and siege objects visibly represented, distinct legends separated from historical scenes."
+  },
+  {
     "id": "chapter-008-speech-03",
     "chapter_id": "chapter-008",
     "insert_after_paragraph_id": "p0162",
@@ -1066,6 +1171,69 @@
     "generated_at": "20261106T102231216156Z",
     "grid_sha256": "ad9a9937afbbbf4fe9fa936e83b7ecad018a8a6e61170fae361423308c743115",
     "review_note": "Nine source balloons reviewed word for word, speaker identity and relevant training horse, riding, mail rings, padding, dagger and mounted formation verified."
+  },
+  {
+    "id": "arthur-merlin",
+    "chapter_id": "chapter-008",
+    "insert_after_paragraph_id": "p0173",
+    "source_paragraph_ids": [
+      "p0173"
+    ],
+    "description": "Legendary Arthur draws sword from stone, Merlin beside him",
+    "alt": "Legendary Arthur draws sword from stone, Merlin beside him",
+    "character_ids": [],
+    "state": "legendary",
+    "status": "integrated",
+    "web_asset_path": "assets/arthur-merlin.webp",
+    "width": 410,
+    "height": 410,
+    "grid_id": "chapel-worship-pilgrimage-religious-play-fair-entertainment-dubbing-ceremony-arthur-merlin-round-table-guinevere-morgan-castle-siege",
+    "quadrant": 6,
+    "generated_at": "20261106T103920514409Z",
+    "grid_sha256": "aa4c6741f96380eb539f66ed2021153975ae35b780b1908a619367b8e5ced28d",
+    "review_note": "All nine panels reviewed; concrete religious, training, legendary and siege objects visibly represented, distinct legends separated from historical scenes."
+  },
+  {
+    "id": "round-table",
+    "chapter_id": "chapter-008",
+    "insert_after_paragraph_id": "p0174",
+    "source_paragraph_ids": [
+      "p0174"
+    ],
+    "description": "Arthur and knights at the Round Table",
+    "alt": "Arthur and knights at the Round Table",
+    "character_ids": [],
+    "state": "legendary",
+    "status": "integrated",
+    "web_asset_path": "assets/round-table.webp",
+    "width": 410,
+    "height": 410,
+    "grid_id": "chapel-worship-pilgrimage-religious-play-fair-entertainment-dubbing-ceremony-arthur-merlin-round-table-guinevere-morgan-castle-siege",
+    "quadrant": 7,
+    "generated_at": "20261106T103920514409Z",
+    "grid_sha256": "aa4c6741f96380eb539f66ed2021153975ae35b780b1908a619367b8e5ced28d",
+    "review_note": "All nine panels reviewed; concrete religious, training, legendary and siege objects visibly represented, distinct legends separated from historical scenes."
+  },
+  {
+    "id": "guinevere-morgan",
+    "chapter_id": "chapter-008",
+    "insert_after_paragraph_id": "p0177",
+    "source_paragraph_ids": [
+      "p0177"
+    ],
+    "description": "Queen Guinevere and Morgan le Fay with their distinguishing objects",
+    "alt": "Queen Guinevere and Morgan le Fay with their distinguishing objects",
+    "character_ids": [],
+    "state": "legendary",
+    "status": "integrated",
+    "web_asset_path": "assets/guinevere-morgan.webp",
+    "width": 410,
+    "height": 410,
+    "grid_id": "chapel-worship-pilgrimage-religious-play-fair-entertainment-dubbing-ceremony-arthur-merlin-round-table-guinevere-morgan-castle-siege",
+    "quadrant": 8,
+    "generated_at": "20261106T103920514409Z",
+    "grid_sha256": "aa4c6741f96380eb539f66ed2021153975ae35b780b1908a619367b8e5ced28d",
+    "review_note": "All nine panels reviewed; concrete religious, training, legendary and siege objects visibly represented, distinct legends separated from historical scenes."
   },
   {
     "id": "chapter-009-speech-01",
@@ -1302,5 +1470,26 @@
     "generated_at": "20261106T102729097266Z",
     "grid_sha256": "72e48f7d67613b332863c954e1a1eeb8ea50d7228cec310d1b55d7897173eaf5",
     "review_note": "Reviewed nine panels: exact tournament balloon; complete weapon silhouettes, four helmets, knight and horse armor, five distinct shield motifs, gate defenses and stone transport. Gate model is a visual overview rather than engineering schematic."
+  },
+  {
+    "id": "castle-siege",
+    "chapter_id": "chapter-011",
+    "insert_after_paragraph_id": "p0224",
+    "source_paragraph_ids": [
+      "p0224"
+    ],
+    "description": "Ladders defenders and siege engines around stone castle",
+    "alt": "Ladders defenders and siege engines around stone castle",
+    "character_ids": [],
+    "state": "historical-educational",
+    "status": "integrated",
+    "web_asset_path": "assets/castle-siege.webp",
+    "width": 410,
+    "height": 410,
+    "grid_id": "chapel-worship-pilgrimage-religious-play-fair-entertainment-dubbing-ceremony-arthur-merlin-round-table-guinevere-morgan-castle-siege",
+    "quadrant": 9,
+    "generated_at": "20261106T103920514409Z",
+    "grid_sha256": "aa4c6741f96380eb539f66ed2021153975ae35b780b1908a619367b8e5ced28d",
+    "review_note": "All nine panels reviewed; concrete religious, training, legendary and siege objects visibly represented, distinct legends separated from historical scenes."
   }
 ]
