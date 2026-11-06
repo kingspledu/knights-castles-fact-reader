@@ -138,5 +138,25 @@
       "grid_sha256": "aa4c6741f96380eb539f66ed2021153975ae35b780b1908a619367b8e5ced28d",
       "review_note": "All nine panels reviewed; concrete religious, training, legendary and siege objects visibly represented, distinct legends separated from historical scenes."
     }
+  ],
+  "era-timeline-literacy-art-allegiance-noble-birth-timber-vulnerability-mason-plan-mason-signature-tool-repair-watchtower-alarm": [
+    {
+      "scene_ids": [
+        "era-timeline",
+        "literacy-art",
+        "allegiance",
+        "noble-birth",
+        "timber-vulnerability",
+        "mason-plan",
+        "mason-signature",
+        "tool-repair",
+        "watchtower-alarm"
+      ],
+      "grid": "3x3",
+      "prompt": "Create ONE square EXACT 3x3 photographic educational grid with nine equally sized square panels, thin white gutters. Documentary-grade realism, natural daylight, authentic materials, coherent medieval Europe. Each panel shows the described mechanism or concept explicitly, not generic scenic portraits. No Jack or Annie, no balloons, no logos, no gore. Use short English labels only where requested.\nROW1 LEFT: photographed museum TIMELINE display, clear straight line with distinct labelled milestones \"450 A.D.\", \"Middle Ages: over 1,000 years\", \"1050: castle building grows\", \"1100s: stone castles\", \"Over 12,000 castles\". Small physical castle models below line, ample typography space, no invented exact end date.\nROW1 CENTER: medieval cultural development in a coherent scriptorium classroom: adult learner reads book, another writes with quill, artist paints panel, poet writes verse on scroll, university teacher and students in background, clearly different activities, no writing needed.\nROW1 RIGHT: FEUDAL ALLEGIANCE ceremony: baron kneels before crowned king with hands joined in oath, knight kneels before baron in separate side vignette within same panel, mapped manor parchment on table and guards ready for service; reciprocal land and military obligation, no words.\nROW2 LEFT: rich medieval merchant with coin chest is kept outside noble family's ceremonial gathering, noble parent introduces child among nobles, clear contrast inherited nobility versus acquired wealth, respectful people, no caricatures, no words.\nROW2 CENTER: physical museum comparative diorama: LEFT timber palisade breached by soldiers and small flames on wooden keep, RIGHT intact stone castle resisting approach; materials and vulnerability obvious. Small labels \"Wood\" and \"Stone\", no injuries.\nROW2 RIGHT: MASTER MASON and lord discuss drawn castle ground plan on table, mason uses divider and right-angle square, behind them he supervises stone builders checking alignment. Show plan and tools close enough to recognize.\nROW3 LEFT: extreme close detailed stone mason uses hammer and chisel to carve a simple distinctive angular MASON'S MARK in freshly cut stone block; adjacent blocks carry DIFFERENT mason marks, signature and tool action clearly visible, no text.\nROW3 CENTER: BLACKSMITH repairing visibly broken tool head and forging iron nails at anvil; finished nails of different sizes and repaired tools prominently in foreground, tongs and fire forge visible, no text.\nROW3 RIGHT: high WATCHTOWER lookout blows a curved HORN while pointing at approaching distant army; below him castle wall sentries turn toward alarm. High elevation and horn action explicit. No text.\nNine distinct square scenes, historical explanatory photographs, do not merge panels.\n",
+      "generated_at": "20261106T110114152102Z",
+      "grid_sha256": "b3a8ff6e61e53a87d90cb4988ad6e71c93f38a98d003b016435313e81cc32980",
+      "review_note": "Directly inspected all nine panels: readable source milestones, cultural activities, oath, birth and wealth distinction, wood versus stone, planning tools, mason marks, nails and repairs, alarm horn. Timeline models are illustrative examples rather than dated reconstructions."
+    }
   ]
 }

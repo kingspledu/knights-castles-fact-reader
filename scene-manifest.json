@@ -21,6 +21,52 @@
     "review_note": "Reviewed nine historical teaching scenes, construction crafts class duties kitchen bathing equipment and feast foods visible. No speech or text added."
   },
   {
+    "id": "era-timeline",
+    "chapter_id": "chapter-003",
+    "insert_after_paragraph_id": "p0019",
+    "source_paragraph_ids": [
+      "p0019"
+    ],
+    "description": "중세의 시기와 성 건축의 연대·수량",
+    "alt": "중세의 시기와 성 건축의 연대·수량",
+    "character_ids": [],
+    "state": "historical-educational",
+    "status": "integrated",
+    "source_page": 14,
+    "coverage_gap": "시기와 수량은 기존 풍경에서 볼 수 없음",
+    "web_asset_path": "assets/era-timeline.webp",
+    "width": 410,
+    "height": 410,
+    "grid_id": "era-timeline-literacy-art-allegiance-noble-birth-timber-vulnerability-mason-plan-mason-signature-tool-repair-watchtower-alarm",
+    "quadrant": 1,
+    "generated_at": "20261106T110114152102Z",
+    "grid_sha256": "b3a8ff6e61e53a87d90cb4988ad6e71c93f38a98d003b016435313e81cc32980",
+    "review_note": "Directly inspected all nine panels: readable source milestones, cultural activities, oath, birth and wealth distinction, wood versus stone, planning tools, mason marks, nails and repairs, alarm horn. Timeline models are illustrative examples rather than dated reconstructions."
+  },
+  {
+    "id": "literacy-art",
+    "chapter_id": "chapter-003",
+    "insert_after_paragraph_id": "p0019",
+    "source_paragraph_ids": [
+      "p0019"
+    ],
+    "description": "읽기·쓰기·회화·시의 발전",
+    "alt": "읽기·쓰기·회화·시의 발전",
+    "character_ids": [],
+    "state": "historical-educational",
+    "status": "integrated",
+    "source_page": 14,
+    "coverage_gap": "대학만 있고 다른 문화 활동이 없음",
+    "web_asset_path": "assets/literacy-art.webp",
+    "width": 410,
+    "height": 410,
+    "grid_id": "era-timeline-literacy-art-allegiance-noble-birth-timber-vulnerability-mason-plan-mason-signature-tool-repair-watchtower-alarm",
+    "quadrant": 2,
+    "generated_at": "20261106T110114152102Z",
+    "grid_sha256": "b3a8ff6e61e53a87d90cb4988ad6e71c93f38a98d003b016435313e81cc32980",
+    "review_note": "Directly inspected all nine panels: readable source milestones, cultural activities, oath, birth and wealth distinction, wood versus stone, planning tools, mason marks, nails and repairs, alarm horn. Timeline models are illustrative examples rather than dated reconstructions."
+  },
+  {
     "id": "chapter-003-speech-01",
     "chapter_id": "chapter-003",
     "insert_after_paragraph_id": "p0020",
@@ -71,6 +117,29 @@
     "generated_at": "20261106T100527399255Z",
     "grid_sha256": "4ea390dcd14f31e7ca6c104cfa21c75944e15902ef49ca33f61e0507b3a6ece6",
     "review_note": "All nine panels visually inspected; five speech balloons exact and correctly attributed; objects and teaching relationships visible; children match reference sheets."
+  },
+  {
+    "id": "allegiance",
+    "chapter_id": "chapter-003",
+    "insert_after_paragraph_id": "p0028",
+    "source_paragraph_ids": [
+      "p0028"
+    ],
+    "description": "왕·남작·기사의 충성 서약과 봉토",
+    "alt": "왕·남작·기사의 충성 서약과 봉토",
+    "character_ids": [],
+    "state": "historical-educational",
+    "status": "integrated",
+    "source_page": 16,
+    "coverage_gap": "계층은 있지만 상호 의무가 불명확",
+    "web_asset_path": "assets/allegiance.webp",
+    "width": 410,
+    "height": 410,
+    "grid_id": "era-timeline-literacy-art-allegiance-noble-birth-timber-vulnerability-mason-plan-mason-signature-tool-repair-watchtower-alarm",
+    "quadrant": 3,
+    "generated_at": "20261106T110114152102Z",
+    "grid_sha256": "b3a8ff6e61e53a87d90cb4988ad6e71c93f38a98d003b016435313e81cc32980",
+    "review_note": "Directly inspected all nine panels: readable source milestones, cultural activities, oath, birth and wealth distinction, wood versus stone, planning tools, mason marks, nails and repairs, alarm horn. Timeline models are illustrative examples rather than dated reconstructions."
   },
   {
     "id": "chapter-003-speech-03",
@@ -214,6 +283,44 @@
     "review_note": "Reviewed nine historical teaching scenes, construction crafts class duties kitchen bathing equipment and feast foods visible. No speech or text added."
   },
   {
+    "id": "noble-birth",
+    "chapter_id": "chapter-003",
+    "insert_after_paragraph_id": "p0041",
+    "source_paragraph_ids": [
+      "p0041"
+    ],
+    "description": "태생에 따른 귀족 신분의 제한",
+    "alt": "태생에 따른 귀족 신분의 제한",
+    "character_ids": [],
+    "state": "historical-educational",
+    "status": "integrated",
+    "source_page": 19,
+    "coverage_gap": "부와 신분의 차이를 설명하지 못함",
+    "web_asset_path": "assets/noble-birth.webp",
+    "width": 410,
+    "height": 410,
+    "grid_id": "era-timeline-literacy-art-allegiance-noble-birth-timber-vulnerability-mason-plan-mason-signature-tool-repair-watchtower-alarm",
+    "quadrant": 4,
+    "generated_at": "20261106T110114152102Z",
+    "grid_sha256": "b3a8ff6e61e53a87d90cb4988ad6e71c93f38a98d003b016435313e81cc32980",
+    "review_note": "Directly inspected all nine panels: readable source milestones, cultural activities, oath, birth and wealth distinction, wood versus stone, planning tools, mason marks, nails and repairs, alarm horn. Timeline models are illustrative examples rather than dated reconstructions."
+  },
+  {
+    "id": "modern-opportunity",
+    "chapter_id": "chapter-003",
+    "insert_after_paragraph_id": "p0041",
+    "source_paragraph_ids": [
+      "p0041"
+    ],
+    "description": "귀족 태생의 제한과 현대의 열린 선택 비교",
+    "alt": "귀족 태생의 제한과 현대의 열린 선택 비교",
+    "character_ids": [],
+    "state": "historical-educational",
+    "status": "planned",
+    "source_page": 19,
+    "coverage_gap": "현대와의 대조가 없음"
+  },
+  {
     "id": "chapter-004-speech-01",
     "chapter_id": "chapter-004",
     "insert_after_paragraph_id": "p0045",
@@ -266,6 +373,29 @@
     "review_note": "Nine panels reviewed; exact full balloon texts visible; castle parts, motte bailey, sentry, moat, mews and tunic match descriptions."
   },
   {
+    "id": "timber-vulnerability",
+    "chapter_id": "chapter-004",
+    "insert_after_paragraph_id": "p0057",
+    "source_paragraph_ids": [
+      "p0057"
+    ],
+    "description": "목조 성의 화재·침입 취약성과 석조 성 비교",
+    "alt": "목조 성의 화재·침입 취약성과 석조 성 비교",
+    "character_ids": [],
+    "state": "historical-educational",
+    "status": "integrated",
+    "source_page": 23,
+    "coverage_gap": "재료 비교가 없음",
+    "web_asset_path": "assets/timber-vulnerability.webp",
+    "width": 410,
+    "height": 410,
+    "grid_id": "era-timeline-literacy-art-allegiance-noble-birth-timber-vulnerability-mason-plan-mason-signature-tool-repair-watchtower-alarm",
+    "quadrant": 5,
+    "generated_at": "20261106T110114152102Z",
+    "grid_sha256": "b3a8ff6e61e53a87d90cb4988ad6e71c93f38a98d003b016435313e81cc32980",
+    "review_note": "Directly inspected all nine panels: readable source milestones, cultural activities, oath, birth and wealth distinction, wood versus stone, planning tools, mason marks, nails and repairs, alarm horn. Timeline models are illustrative examples rather than dated reconstructions."
+  },
+  {
     "id": "chapter-004-speech-03",
     "chapter_id": "chapter-004",
     "insert_after_paragraph_id": "p0058",
@@ -313,6 +443,29 @@
     "review_note": "Reviewed nine panels: exact tournament balloon; complete weapon silhouettes, four helmets, knight and horse armor, five distinct shield motifs, gate defenses and stone transport. Gate model is a visual overview rather than engineering schematic."
   },
   {
+    "id": "mason-plan",
+    "chapter_id": "chapter-004",
+    "insert_after_paragraph_id": "p0061",
+    "source_paragraph_ids": [
+      "p0061"
+    ],
+    "description": "영주와 수석 석공의 설계·감독",
+    "alt": "영주와 수석 석공의 설계·감독",
+    "character_ids": [],
+    "state": "historical-educational",
+    "status": "integrated",
+    "source_page": 24,
+    "coverage_gap": "현장 작업만 보임",
+    "web_asset_path": "assets/mason-plan.webp",
+    "width": 410,
+    "height": 410,
+    "grid_id": "era-timeline-literacy-art-allegiance-noble-birth-timber-vulnerability-mason-plan-mason-signature-tool-repair-watchtower-alarm",
+    "quadrant": 6,
+    "generated_at": "20261106T110114152102Z",
+    "grid_sha256": "b3a8ff6e61e53a87d90cb4988ad6e71c93f38a98d003b016435313e81cc32980",
+    "review_note": "Directly inspected all nine panels: readable source milestones, cultural activities, oath, birth and wealth distinction, wood versus stone, planning tools, mason marks, nails and repairs, alarm horn. Timeline models are illustrative examples rather than dated reconstructions."
+  },
+  {
     "id": "masonry",
     "chapter_id": "chapter-004",
     "insert_after_paragraph_id": "p0064",
@@ -332,6 +485,29 @@
     "generated_at": "20261106T100527399255Z",
     "grid_sha256": "4ea390dcd14f31e7ca6c104cfa21c75944e15902ef49ca33f61e0507b3a6ece6",
     "review_note": "All nine panels visually inspected; five speech balloons exact and correctly attributed; objects and teaching relationships visible; children match reference sheets."
+  },
+  {
+    "id": "mason-signature",
+    "chapter_id": "chapter-004",
+    "insert_after_paragraph_id": "p0064",
+    "source_paragraph_ids": [
+      "p0064"
+    ],
+    "description": "돌에 새기는 석공 고유 표식",
+    "alt": "돌에 새기는 석공 고유 표식",
+    "character_ids": [],
+    "state": "historical-educational",
+    "status": "integrated",
+    "source_page": 25,
+    "coverage_gap": "표식이 식별되지 않음",
+    "web_asset_path": "assets/mason-signature.webp",
+    "width": 410,
+    "height": 410,
+    "grid_id": "era-timeline-literacy-art-allegiance-noble-birth-timber-vulnerability-mason-plan-mason-signature-tool-repair-watchtower-alarm",
+    "quadrant": 7,
+    "generated_at": "20261106T110114152102Z",
+    "grid_sha256": "b3a8ff6e61e53a87d90cb4988ad6e71c93f38a98d003b016435313e81cc32980",
+    "review_note": "Directly inspected all nine panels: readable source milestones, cultural activities, oath, birth and wealth distinction, wood versus stone, planning tools, mason marks, nails and repairs, alarm horn. Timeline models are illustrative examples rather than dated reconstructions."
   },
   {
     "id": "blacksmith",
@@ -355,6 +531,29 @@
     "review_note": "All nine panels visually inspected; five speech balloons exact and correctly attributed; objects and teaching relationships visible; children match reference sheets."
   },
   {
+    "id": "tool-repair",
+    "chapter_id": "chapter-004",
+    "insert_after_paragraph_id": "p0066",
+    "source_paragraph_ids": [
+      "p0066"
+    ],
+    "description": "대장장이의 못 제작과 도구 수리",
+    "alt": "대장장이의 못 제작과 도구 수리",
+    "character_ids": [],
+    "state": "historical-educational",
+    "status": "integrated",
+    "source_page": 26,
+    "coverage_gap": "망치질만 있고 산출물·수리가 없음",
+    "web_asset_path": "assets/tool-repair.webp",
+    "width": 410,
+    "height": 410,
+    "grid_id": "era-timeline-literacy-art-allegiance-noble-birth-timber-vulnerability-mason-plan-mason-signature-tool-repair-watchtower-alarm",
+    "quadrant": 8,
+    "generated_at": "20261106T110114152102Z",
+    "grid_sha256": "b3a8ff6e61e53a87d90cb4988ad6e71c93f38a98d003b016435313e81cc32980",
+    "review_note": "Directly inspected all nine panels: readable source milestones, cultural activities, oath, birth and wealth distinction, wood versus stone, planning tools, mason marks, nails and repairs, alarm horn. Timeline models are illustrative examples rather than dated reconstructions."
+  },
+  {
     "id": "craft-training",
     "chapter_id": "chapter-004",
     "insert_after_paragraph_id": "p0075",
@@ -374,6 +573,44 @@
     "generated_at": "20261106T103320899587Z",
     "grid_sha256": "caabd846eac660ebf2ae99c5a3be671c829100d1a793e97db82324b9ace41735",
     "review_note": "Reviewed nine historical teaching scenes, construction crafts class duties kitchen bathing equipment and feast foods visible. No speech or text added."
+  },
+  {
+    "id": "watchtower-alarm",
+    "chapter_id": "chapter-005",
+    "insert_after_paragraph_id": "p0078",
+    "source_paragraph_ids": [
+      "p0078"
+    ],
+    "description": "높은 망루의 감시자와 경보 나팔",
+    "alt": "높은 망루의 감시자와 경보 나팔",
+    "character_ids": [],
+    "state": "historical-educational",
+    "status": "integrated",
+    "source_page": 31,
+    "coverage_gap": "나팔이 없음",
+    "web_asset_path": "assets/watchtower-alarm.webp",
+    "width": 410,
+    "height": 410,
+    "grid_id": "era-timeline-literacy-art-allegiance-noble-birth-timber-vulnerability-mason-plan-mason-signature-tool-repair-watchtower-alarm",
+    "quadrant": 9,
+    "generated_at": "20261106T110114152102Z",
+    "grid_sha256": "b3a8ff6e61e53a87d90cb4988ad6e71c93f38a98d003b016435313e81cc32980",
+    "review_note": "Directly inspected all nine panels: readable source milestones, cultural activities, oath, birth and wealth distinction, wood versus stone, planning tools, mason marks, nails and repairs, alarm horn. Timeline models are illustrative examples rather than dated reconstructions."
+  },
+  {
+    "id": "battlement-terms",
+    "chapter_id": "chapter-005",
+    "insert_after_paragraph_id": "p0080",
+    "source_paragraph_ids": [
+      "p0080"
+    ],
+    "description": "Crenel·Merlon·Sentry·Battlements 구분",
+    "alt": "Crenel·Merlon·Sentry·Battlements 구분",
+    "character_ids": [],
+    "state": "historical-educational",
+    "status": "planned",
+    "source_page": 32,
+    "coverage_gap": "용어별 위치를 식별하기 어려움"
   },
   {
     "id": "chapter-005-speech-01",
@@ -400,6 +637,21 @@
     "generated_at": "20261106T101255422067Z",
     "grid_sha256": "6a5d28373029281e17c426fa3eff0cf817f11c6afc6b1fcefc9e55b8f5db465a",
     "review_note": "Nine panels reviewed; exact full balloon texts visible; castle parts, motte bailey, sentry, moat, mews and tunic match descriptions."
+  },
+  {
+    "id": "barbican-trap",
+    "chapter_id": "chapter-005",
+    "insert_after_paragraph_id": "p0084",
+    "source_paragraph_ids": [
+      "p0084"
+    ],
+    "description": "양쪽 문을 닫아 가두는 바비칸 통로",
+    "alt": "양쪽 문을 닫아 가두는 바비칸 통로",
+    "character_ids": [],
+    "state": "historical-educational",
+    "status": "planned",
+    "source_page": 34,
+    "coverage_gap": "정적 건물만 있고 작동 원리 없음"
   },
   {
     "id": "chapter-005-speech-02",
@@ -470,6 +722,21 @@
     "review_note": "Reviewed nine panels: exact tournament balloon; complete weapon silhouettes, four helmets, knight and horse armor, five distinct shield motifs, gate defenses and stone transport. Gate model is a visual overview rather than engineering schematic."
   },
   {
+    "id": "door-bolts",
+    "chapter_id": "chapter-005",
+    "insert_after_paragraph_id": "p0090",
+    "source_paragraph_ids": [
+      "p0090"
+    ],
+    "description": "쇠격자 뒤 두꺼운 목문과 빗장",
+    "alt": "쇠격자 뒤 두꺼운 목문과 빗장",
+    "character_ids": [],
+    "state": "historical-educational",
+    "status": "planned",
+    "source_page": 36,
+    "coverage_gap": "잠금 장치가 안 보임"
+  },
+  {
     "id": "chapter-005-speech-03",
     "chapter_id": "chapter-005",
     "insert_after_paragraph_id": "p0091",
@@ -521,6 +788,21 @@
     "generated_at": "20261106T101255422067Z",
     "grid_sha256": "6a5d28373029281e17c426fa3eff0cf817f11c6afc6b1fcefc9e55b8f5db465a",
     "review_note": "Nine panels reviewed; exact full balloon texts visible; castle parts, motte bailey, sentry, moat, mews and tunic match descriptions."
+  },
+  {
+    "id": "castle-utilities",
+    "chapter_id": "chapter-005",
+    "insert_after_paragraph_id": "p0092",
+    "source_paragraph_ids": [
+      "p0092"
+    ],
+    "description": "우물·마구간·매 사육장·순찰 통로",
+    "alt": "우물·마구간·매 사육장·순찰 통로",
+    "character_ids": [],
+    "state": "historical-educational",
+    "status": "planned",
+    "source_page": 39,
+    "coverage_gap": "성 전체 모형에서 작은 시설 식별 불가"
   },
   {
     "id": "noble-wedding",
@@ -612,6 +894,21 @@
     "review_note": "Nine panels reviewed; exact full balloon texts visible; castle parts, motte bailey, sentry, moat, mews and tunic match descriptions."
   },
   {
+    "id": "children-school",
+    "chapter_id": "chapter-006",
+    "insert_after_paragraph_id": "p0102",
+    "source_paragraph_ids": [
+      "p0102"
+    ],
+    "description": "일곱 살 귀족 자녀가 다른 성에서 배우는 예절과 수업",
+    "alt": "일곱 살 귀족 자녀가 다른 성에서 배우는 예절과 수업",
+    "character_ids": [],
+    "state": "historical-educational",
+    "status": "planned",
+    "source_page": 44,
+    "coverage_gap": "자녀 교육 장면 없음"
+  },
+  {
     "id": "castle-kitchen",
     "chapter_id": "chapter-006",
     "insert_after_paragraph_id": "p0105",
@@ -633,6 +930,21 @@
     "review_note": "Reviewed nine historical teaching scenes, construction crafts class duties kitchen bathing equipment and feast foods visible. No speech or text added."
   },
   {
+    "id": "servant-duties",
+    "chapter_id": "chapter-006",
+    "insert_after_paragraph_id": "p0105",
+    "source_paragraph_ids": [
+      "p0105"
+    ],
+    "description": "세탁·청소·옷 입히는 개인 시종",
+    "alt": "세탁·청소·옷 입히는 개인 시종",
+    "character_ids": [],
+    "state": "historical-educational",
+    "status": "planned",
+    "source_page": 45,
+    "coverage_gap": "부엌과 목욕 이외의 일이 없음"
+  },
+  {
     "id": "bathing-preparation",
     "chapter_id": "chapter-006",
     "insert_after_paragraph_id": "p0109",
@@ -652,6 +964,21 @@
     "generated_at": "20261106T103320899587Z",
     "grid_sha256": "caabd846eac660ebf2ae99c5a3be671c829100d1a793e97db82324b9ace41735",
     "review_note": "Reviewed nine historical teaching scenes, construction crafts class duties kitchen bathing equipment and feast foods visible. No speech or text added."
+  },
+  {
+    "id": "noble-clothes",
+    "chapter_id": "chapter-006",
+    "insert_after_paragraph_id": "p0109",
+    "source_paragraph_ids": [
+      "p0109"
+    ],
+    "description": "모직 호즈·리넨 셔츠·긴 꼬리 모자·뾰족 신발",
+    "alt": "모직 호즈·리넨 셔츠·긴 꼬리 모자·뾰족 신발",
+    "character_ids": [],
+    "state": "historical-educational",
+    "status": "planned",
+    "source_page": 46,
+    "coverage_gap": "튜닉 외 의복이 불명확"
   },
   {
     "id": "chapter-006-speech-02",
@@ -678,6 +1005,21 @@
     "generated_at": "20261106T101255422067Z",
     "grid_sha256": "6a5d28373029281e17c426fa3eff0cf817f11c6afc6b1fcefc9e55b8f5db465a",
     "review_note": "Nine panels reviewed; exact full balloon texts visible; castle parts, motte bailey, sentry, moat, mews and tunic match descriptions."
+  },
+  {
+    "id": "traveling-household",
+    "chapter_id": "chapter-006",
+    "insert_after_paragraph_id": "p0113",
+    "source_paragraph_ids": [
+      "p0113"
+    ],
+    "description": "여행에 침대와 욕조를 싣는 영주",
+    "alt": "여행에 침대와 욕조를 싣는 영주",
+    "character_ids": [],
+    "state": "historical-educational",
+    "status": "planned",
+    "source_page": 48,
+    "coverage_gap": "휴대·운반 모습 없음"
   },
   {
     "id": "chapter-006-speech-03",
@@ -730,6 +1072,36 @@
     "generated_at": "20261106T101726005579Z",
     "grid_sha256": "8ddff500099f7079c98550e79a3c65e638f5f9b597bb226422146228007dfe37",
     "review_note": "All nine full source speech texts reviewed; high bed and mouse, pewter samples, jester, feast, holiday, cathedral, merchant and minstrel visibly match."
+  },
+  {
+    "id": "trenchers",
+    "chapter_id": "chapter-006",
+    "insert_after_paragraph_id": "p0123",
+    "source_paragraph_ids": [
+      "p0123"
+    ],
+    "description": "빵 접시·공동 잔·손으로 먹기·성 밖 빈민에게 전달",
+    "alt": "빵 접시·공동 잔·손으로 먹기·성 밖 빈민에게 전달",
+    "character_ids": [],
+    "state": "historical-educational",
+    "status": "planned",
+    "source_page": 50,
+    "coverage_gap": "연회 전체에서 식사 관습 불명확"
+  },
+  {
+    "id": "floor-cleaning",
+    "chapter_id": "chapter-006",
+    "insert_after_paragraph_id": "p0123",
+    "source_paragraph_ids": [
+      "p0123"
+    ],
+    "description": "음식 찌꺼기와 동물 흔적·꽃과 마른 풀",
+    "alt": "음식 찌꺼기와 동물 흔적·꽃과 마른 풀",
+    "character_ids": [],
+    "state": "historical-educational",
+    "status": "planned",
+    "source_page": 50,
+    "coverage_gap": "바닥과 냄새를 덮는 관리 없음"
   },
   {
     "id": "feast-foods",
@@ -921,6 +1293,21 @@
     "review_note": "All nine full source speech texts reviewed; high bed and mouse, pewter samples, jester, feast, holiday, cathedral, merchant and minstrel visibly match."
   },
   {
+    "id": "market-goods",
+    "chapter_id": "chapter-007",
+    "insert_after_paragraph_id": "p0140",
+    "source_paragraph_ids": [
+      "p0140"
+    ],
+    "description": "촛불·비누·파이·케이크·따뜻한 포도주·무기·수입 천",
+    "alt": "촛불·비누·파이·케이크·따뜻한 포도주·무기·수입 천",
+    "character_ids": [],
+    "state": "historical-educational",
+    "status": "planned",
+    "source_page": 58,
+    "coverage_gap": "교역 물품 일부 누락"
+  },
+  {
     "id": "chapter-007-speech-03",
     "chapter_id": "chapter-007",
     "insert_after_paragraph_id": "p0141",
@@ -1021,6 +1408,21 @@
     "review_note": "All nine full source speech texts reviewed; high bed and mouse, pewter samples, jester, feast, holiday, cathedral, merchant and minstrel visibly match."
   },
   {
+    "id": "page-service",
+    "chapter_id": "chapter-008",
+    "insert_after_paragraph_id": "p0152",
+    "source_paragraph_ids": [
+      "p0152"
+    ],
+    "description": "시동의 음식 시중·예절·성에서의 교육",
+    "alt": "시동의 음식 시중·예절·성에서의 교육",
+    "character_ids": [],
+    "state": "historical-educational",
+    "status": "planned",
+    "source_page": 64,
+    "coverage_gap": "목마 훈련만 있음"
+  },
+  {
     "id": "chapter-008-speech-01",
     "chapter_id": "chapter-008",
     "insert_after_paragraph_id": "p0153",
@@ -1045,6 +1447,21 @@
     "generated_at": "20261106T102231216156Z",
     "grid_sha256": "ad9a9937afbbbf4fe9fa936e83b7ecad018a8a6e61170fae361423308c743115",
     "review_note": "Nine source balloons reviewed word for word, speaker identity and relevant training horse, riding, mail rings, padding, dagger and mounted formation verified."
+  },
+  {
+    "id": "squire-duties",
+    "chapter_id": "chapter-008",
+    "insert_after_paragraph_id": "p0155",
+    "source_paragraph_ids": [
+      "p0155"
+    ],
+    "description": "종자의 말 돌보기·무기와 갑옷 닦기",
+    "alt": "종자의 말 돌보기·무기와 갑옷 닦기",
+    "character_ids": [],
+    "state": "historical-educational",
+    "status": "planned",
+    "source_page": 65,
+    "coverage_gap": "승마 외 직무 없음"
   },
   {
     "id": "chapter-008-speech-02",
@@ -1094,6 +1511,21 @@
     "review_note": "All nine panels reviewed; concrete religious, training, legendary and siege objects visibly represented, distinct legends separated from historical scenes."
   },
   {
+    "id": "training-timeline",
+    "chapter_id": "chapter-008",
+    "insert_after_paragraph_id": "p0161",
+    "source_paragraph_ids": [
+      "p0161"
+    ],
+    "description": "약 7세 시동→14세 종자→21세 기사",
+    "alt": "약 7세 시동→14세 종자→21세 기사",
+    "character_ids": [],
+    "state": "historical-educational",
+    "status": "planned",
+    "source_page": 66,
+    "coverage_gap": "나이와 순서가 보이지 않음"
+  },
+  {
     "id": "chapter-008-speech-03",
     "chapter_id": "chapter-008",
     "insert_after_paragraph_id": "p0162",
@@ -1118,6 +1550,21 @@
     "generated_at": "20261106T102231216156Z",
     "grid_sha256": "ad9a9937afbbbf4fe9fa936e83b7ecad018a8a6e61170fae361423308c743115",
     "review_note": "Nine source balloons reviewed word for word, speaker identity and relevant training horse, riding, mail rings, padding, dagger and mounted formation verified."
+  },
+  {
+    "id": "chivalry-duties",
+    "chapter_id": "chapter-008",
+    "insert_after_paragraph_id": "p0167",
+    "source_paragraph_ids": [
+      "p0167"
+    ],
+    "description": "공정·약자 보호·관대함·여성 존중",
+    "alt": "공정·약자 보호·관대함·여성 존중",
+    "character_ids": [],
+    "state": "historical-educational",
+    "status": "planned",
+    "source_page": 68,
+    "coverage_gap": "한 번의 도움만 있고 의무 여러 개 미표현"
   },
   {
     "id": "chapter-008-speech-04",
@@ -1215,6 +1662,21 @@
     "review_note": "All nine panels reviewed; concrete religious, training, legendary and siege objects visibly represented, distinct legends separated from historical scenes."
   },
   {
+    "id": "lancelot-galahad",
+    "chapter_id": "chapter-008",
+    "insert_after_paragraph_id": "p0174",
+    "source_paragraph_ids": [
+      "p0174"
+    ],
+    "description": "랜슬롯과 갤러해드의 개별 인물 식별",
+    "alt": "랜슬롯과 갤러해드의 개별 인물 식별",
+    "character_ids": [],
+    "state": "historical-educational",
+    "status": "planned",
+    "source_page": 72,
+    "coverage_gap": "원탁 속 두 사람 식별 불가"
+  },
+  {
     "id": "guinevere-morgan",
     "chapter_id": "chapter-008",
     "insert_after_paragraph_id": "p0177",
@@ -1234,6 +1696,21 @@
     "generated_at": "20261106T103920514409Z",
     "grid_sha256": "aa4c6741f96380eb539f66ed2021153975ae35b780b1908a619367b8e5ced28d",
     "review_note": "All nine panels reviewed; concrete religious, training, legendary and siege objects visibly represented, distinct legends separated from historical scenes."
+  },
+  {
+    "id": "morgan-magic",
+    "chapter_id": "chapter-008",
+    "insert_after_paragraph_id": "p0177",
+    "source_paragraph_ids": [
+      "p0177"
+    ],
+    "description": "멀린에게 배우는 모건의 비행·변신 마법",
+    "alt": "멀린에게 배우는 모건의 비행·변신 마법",
+    "character_ids": [],
+    "state": "legendary",
+    "status": "planned",
+    "source_page": 73,
+    "coverage_gap": "초상만 있고 전설의 행동 없음"
   },
   {
     "id": "chapter-009-speech-01",
@@ -1288,6 +1765,21 @@
     "review_note": "Nine source balloons reviewed word for word, speaker identity and relevant training horse, riding, mail rings, padding, dagger and mounted formation verified."
   },
   {
+    "id": "mail-plate",
+    "chapter_id": "chapter-009",
+    "insert_after_paragraph_id": "p0187",
+    "source_paragraph_ids": [
+      "p0187"
+    ],
+    "description": "사슬갑옷 위에 묶은 판금과 방어 취약성",
+    "alt": "사슬갑옷 위에 묶은 판금과 방어 취약성",
+    "character_ids": [],
+    "state": "historical-educational",
+    "status": "planned",
+    "source_page": 77,
+    "coverage_gap": "완전 판금과 사슬의 중간 단계 없음"
+  },
+  {
     "id": "chapter-009-speech-03",
     "chapter_id": "chapter-009",
     "insert_after_paragraph_id": "p0188",
@@ -1335,6 +1827,36 @@
     "review_note": "Reviewed nine panels: exact tournament balloon; complete weapon silhouettes, four helmets, knight and horse armor, five distinct shield motifs, gate defenses and stone transport. Gate model is a visual overview rather than engineering schematic."
   },
   {
+    "id": "visor-motion",
+    "chapter_id": "chapter-009",
+    "insert_after_paragraph_id": "p0194",
+    "source_paragraph_ids": [
+      "p0194"
+    ],
+    "description": "바시넷 얼굴 가리개 위아래 작동",
+    "alt": "바시넷 얼굴 가리개 위아래 작동",
+    "character_ids": [],
+    "state": "historical-educational",
+    "status": "planned",
+    "source_page": 79,
+    "coverage_gap": "단일 정지 상태만 있음"
+  },
+  {
+    "id": "armor-dressing",
+    "chapter_id": "chapter-009",
+    "insert_after_paragraph_id": "p0195",
+    "source_paragraph_ids": [
+      "p0195"
+    ],
+    "description": "도움을 받아 여러 갑옷 부위를 착용",
+    "alt": "도움을 받아 여러 갑옷 부위를 착용",
+    "character_ids": [],
+    "state": "historical-educational",
+    "status": "planned",
+    "source_page": 80,
+    "coverage_gap": "착용의 수고와 구조가 불명확"
+  },
+  {
     "id": "armor-parts",
     "chapter_id": "chapter-009",
     "insert_after_paragraph_id": "p0196",
@@ -1356,6 +1878,21 @@
     "review_note": "Reviewed nine panels: exact tournament balloon; complete weapon silhouettes, four helmets, knight and horse armor, five distinct shield motifs, gate defenses and stone transport. Gate model is a visual overview rather than engineering schematic."
   },
   {
+    "id": "armor-labeled",
+    "chapter_id": "chapter-009",
+    "insert_after_paragraph_id": "p0196",
+    "source_paragraph_ids": [
+      "p0196"
+    ],
+    "description": "기사·말 갑옷 각 부위 확대와 명칭",
+    "alt": "기사·말 갑옷 각 부위 확대와 명칭",
+    "character_ids": [],
+    "state": "historical-educational",
+    "status": "planned",
+    "source_page": 81,
+    "coverage_gap": "전신에서 작은 부위를 구분 못함"
+  },
+  {
     "id": "heraldry-shields",
     "chapter_id": "chapter-009",
     "insert_after_paragraph_id": "p0201",
@@ -1375,6 +1912,21 @@
     "generated_at": "20261106T102729097266Z",
     "grid_sha256": "72e48f7d67613b332863c954e1a1eeb8ea50d7228cec310d1b55d7897173eaf5",
     "review_note": "Reviewed nine panels: exact tournament balloon; complete weapon silhouettes, four helmets, knight and horse armor, five distinct shield motifs, gate defenses and stone transport. Gate model is a visual overview rather than engineering schematic."
+  },
+  {
+    "id": "heraldry-rules",
+    "chapter_id": "chapter-009",
+    "insert_after_paragraph_id": "p0201",
+    "source_paragraph_ids": [
+      "p0201"
+    ],
+    "description": "얼굴을 가린 투구·중복 문장·문장관 규칙",
+    "alt": "얼굴을 가린 투구·중복 문장·문장관 규칙",
+    "character_ids": [],
+    "state": "historical-educational",
+    "status": "planned",
+    "source_page": 83,
+    "coverage_gap": "다른 무늬 전시만 있고 규칙 없음"
   },
   {
     "id": "sword-comparison",
@@ -1445,6 +1997,21 @@
     "review_note": "Reviewed nine panels: exact tournament balloon; complete weapon silhouettes, four helmets, knight and horse armor, five distinct shield motifs, gate defenses and stone transport. Gate model is a visual overview rather than engineering schematic."
   },
   {
+    "id": "shield-evolution",
+    "chapter_id": "chapter-010",
+    "insert_after_paragraph_id": "p0215",
+    "source_paragraph_ids": [
+      "p0215"
+    ],
+    "description": "큰 방패→작은 방패→전투 방패의 감소",
+    "alt": "큰 방패→작은 방패→전투 방패의 감소",
+    "character_ids": [],
+    "state": "historical-educational",
+    "status": "planned",
+    "source_page": 89,
+    "coverage_gap": "방패 변화 없음"
+  },
+  {
     "id": "chapter-010-speech-02",
     "chapter_id": "chapter-010",
     "insert_after_paragraph_id": "p0216",
@@ -1472,6 +2039,21 @@
     "review_note": "Reviewed nine panels: exact tournament balloon; complete weapon silhouettes, four helmets, knight and horse armor, five distinct shield motifs, gate defenses and stone transport. Gate model is a visual overview rather than engineering schematic."
   },
   {
+    "id": "melee-joust",
+    "chapter_id": "chapter-010",
+    "insert_after_paragraph_id": "p0220",
+    "source_paragraph_ids": [
+      "p0220"
+    ],
+    "description": "큰 팀 단체전과 2인 마상창시합 비교",
+    "alt": "큰 팀 단체전과 2인 마상창시합 비교",
+    "character_ids": [],
+    "state": "historical-educational",
+    "status": "planned",
+    "source_page": 91,
+    "coverage_gap": "2인 경기만 있음"
+  },
+  {
     "id": "castle-siege",
     "chapter_id": "chapter-011",
     "insert_after_paragraph_id": "p0224",
@@ -1491,5 +2073,20 @@
     "generated_at": "20261106T103920514409Z",
     "grid_sha256": "aa4c6741f96380eb539f66ed2021153975ae35b780b1908a619367b8e5ced28d",
     "review_note": "All nine panels reviewed; concrete religious, training, legendary and siege objects visibly represented, distinct legends separated from historical scenes."
+  },
+  {
+    "id": "war-reasons",
+    "chapter_id": "chapter-011",
+    "insert_after_paragraph_id": "p0224",
+    "source_paragraph_ids": [
+      "p0224"
+    ],
+    "description": "영토 확장·빼앗긴 땅 회복·교회를 위한 원정",
+    "alt": "영토 확장·빼앗긴 땅 회복·교회를 위한 원정",
+    "character_ids": [],
+    "state": "historical-educational",
+    "status": "planned",
+    "source_page": 93,
+    "coverage_gap": "공성 행동만 있고 전쟁 이유 없음"
   }
 ]
