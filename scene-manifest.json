@@ -1,5 +1,26 @@
 [
   {
+    "id": "castle-workforce",
+    "chapter_id": "chapter-003",
+    "insert_after_paragraph_id": "p0015",
+    "source_paragraph_ids": [
+      "p0015"
+    ],
+    "description": "Large castle construction workforce, household servants and guards",
+    "alt": "Large castle construction workforce, household servants and guards",
+    "character_ids": [],
+    "state": "historical-educational",
+    "status": "integrated",
+    "web_asset_path": "assets/castle-workforce.webp",
+    "width": 410,
+    "height": 410,
+    "grid_id": "castle-workforce-noble-estate-craft-training-noble-wedding-lord-household-noble-leisure-castle-kitchen-bathing-preparation-feast-foods",
+    "quadrant": 1,
+    "generated_at": "20261106T103320899587Z",
+    "grid_sha256": "caabd846eac660ebf2ae99c5a3be671c829100d1a793e97db82324b9ace41735",
+    "review_note": "Reviewed nine historical teaching scenes, construction crafts class duties kitchen bathing equipment and feast foods visible. No speech or text added."
+  },
+  {
     "id": "chapter-003-speech-01",
     "chapter_id": "chapter-003",
     "insert_after_paragraph_id": "p0020",
@@ -172,6 +193,27 @@
     "review_note": "All nine panels visually inspected; five speech balloons exact and correctly attributed; objects and teaching relationships visible; children match reference sheets."
   },
   {
+    "id": "noble-estate",
+    "chapter_id": "chapter-003",
+    "insert_after_paragraph_id": "p0038",
+    "source_paragraph_ids": [
+      "p0038"
+    ],
+    "description": "Nobility and manor social hierarchy",
+    "alt": "Nobility and manor social hierarchy",
+    "character_ids": [],
+    "state": "historical-educational",
+    "status": "integrated",
+    "web_asset_path": "assets/noble-estate.webp",
+    "width": 410,
+    "height": 410,
+    "grid_id": "castle-workforce-noble-estate-craft-training-noble-wedding-lord-household-noble-leisure-castle-kitchen-bathing-preparation-feast-foods",
+    "quadrant": 2,
+    "generated_at": "20261106T103320899587Z",
+    "grid_sha256": "caabd846eac660ebf2ae99c5a3be671c829100d1a793e97db82324b9ace41735",
+    "review_note": "Reviewed nine historical teaching scenes, construction crafts class duties kitchen bathing equipment and feast foods visible. No speech or text added."
+  },
+  {
     "id": "chapter-004-speech-01",
     "chapter_id": "chapter-004",
     "insert_after_paragraph_id": "p0045",
@@ -311,6 +353,27 @@
     "generated_at": "20261106T100527399255Z",
     "grid_sha256": "4ea390dcd14f31e7ca6c104cfa21c75944e15902ef49ca33f61e0507b3a6ece6",
     "review_note": "All nine panels visually inspected; five speech balloons exact and correctly attributed; objects and teaching relationships visible; children match reference sheets."
+  },
+  {
+    "id": "craft-training",
+    "chapter_id": "chapter-004",
+    "insert_after_paragraph_id": "p0075",
+    "source_paragraph_ids": [
+      "p0075"
+    ],
+    "description": "Apprentice, journeyman and guild masterpiece assessment",
+    "alt": "Apprentice, journeyman and guild masterpiece assessment",
+    "character_ids": [],
+    "state": "historical-educational",
+    "status": "integrated",
+    "web_asset_path": "assets/craft-training.webp",
+    "width": 410,
+    "height": 410,
+    "grid_id": "castle-workforce-noble-estate-craft-training-noble-wedding-lord-household-noble-leisure-castle-kitchen-bathing-preparation-feast-foods",
+    "quadrant": 3,
+    "generated_at": "20261106T103320899587Z",
+    "grid_sha256": "caabd846eac660ebf2ae99c5a3be671c829100d1a793e97db82324b9ace41735",
+    "review_note": "Reviewed nine historical teaching scenes, construction crafts class duties kitchen bathing equipment and feast foods visible. No speech or text added."
   },
   {
     "id": "chapter-005-speech-01",
@@ -460,6 +523,69 @@
     "review_note": "Nine panels reviewed; exact full balloon texts visible; castle parts, motte bailey, sentry, moat, mews and tunic match descriptions."
   },
   {
+    "id": "noble-wedding",
+    "chapter_id": "chapter-006",
+    "insert_after_paragraph_id": "p0095",
+    "source_paragraph_ids": [
+      "p0095"
+    ],
+    "description": "Young noble wedding ceremony in chapel",
+    "alt": "Young noble wedding ceremony in chapel",
+    "character_ids": [],
+    "state": "historical-educational",
+    "status": "integrated",
+    "web_asset_path": "assets/noble-wedding.webp",
+    "width": 410,
+    "height": 410,
+    "grid_id": "castle-workforce-noble-estate-craft-training-noble-wedding-lord-household-noble-leisure-castle-kitchen-bathing-preparation-feast-foods",
+    "quadrant": 4,
+    "generated_at": "20261106T103320899587Z",
+    "grid_sha256": "caabd846eac660ebf2ae99c5a3be671c829100d1a793e97db82324b9ace41735",
+    "review_note": "Reviewed nine historical teaching scenes, construction crafts class duties kitchen bathing equipment and feast foods visible. No speech or text added."
+  },
+  {
+    "id": "lord-household",
+    "chapter_id": "chapter-006",
+    "insert_after_paragraph_id": "p0097",
+    "source_paragraph_ids": [
+      "p0097"
+    ],
+    "description": "Lord judging disputes and collecting taxes, lady managing household",
+    "alt": "Lord judging disputes and collecting taxes, lady managing household",
+    "character_ids": [],
+    "state": "historical-educational",
+    "status": "integrated",
+    "web_asset_path": "assets/lord-household.webp",
+    "width": 410,
+    "height": 410,
+    "grid_id": "castle-workforce-noble-estate-craft-training-noble-wedding-lord-household-noble-leisure-castle-kitchen-bathing-preparation-feast-foods",
+    "quadrant": 5,
+    "generated_at": "20261106T103320899587Z",
+    "grid_sha256": "caabd846eac660ebf2ae99c5a3be671c829100d1a793e97db82324b9ace41735",
+    "review_note": "Reviewed nine historical teaching scenes, construction crafts class duties kitchen bathing equipment and feast foods visible. No speech or text added."
+  },
+  {
+    "id": "noble-leisure",
+    "chapter_id": "chapter-006",
+    "insert_after_paragraph_id": "p0099",
+    "source_paragraph_ids": [
+      "p0099"
+    ],
+    "description": "Chess, music and falconry",
+    "alt": "Chess, music and falconry",
+    "character_ids": [],
+    "state": "historical-educational",
+    "status": "integrated",
+    "web_asset_path": "assets/noble-leisure.webp",
+    "width": 410,
+    "height": 410,
+    "grid_id": "castle-workforce-noble-estate-craft-training-noble-wedding-lord-household-noble-leisure-castle-kitchen-bathing-preparation-feast-foods",
+    "quadrant": 6,
+    "generated_at": "20261106T103320899587Z",
+    "grid_sha256": "caabd846eac660ebf2ae99c5a3be671c829100d1a793e97db82324b9ace41735",
+    "review_note": "Reviewed nine historical teaching scenes, construction crafts class duties kitchen bathing equipment and feast foods visible. No speech or text added."
+  },
+  {
     "id": "chapter-006-speech-01",
     "chapter_id": "chapter-006",
     "insert_after_paragraph_id": "p0100",
@@ -484,6 +610,48 @@
     "generated_at": "20261106T101255422067Z",
     "grid_sha256": "6a5d28373029281e17c426fa3eff0cf817f11c6afc6b1fcefc9e55b8f5db465a",
     "review_note": "Nine panels reviewed; exact full balloon texts visible; castle parts, motte bailey, sentry, moat, mews and tunic match descriptions."
+  },
+  {
+    "id": "castle-kitchen",
+    "chapter_id": "chapter-006",
+    "insert_after_paragraph_id": "p0105",
+    "source_paragraph_ids": [
+      "p0105"
+    ],
+    "description": "Kitchen hearth, roast, cauldron, dough and oven workers",
+    "alt": "Kitchen hearth, roast, cauldron, dough and oven workers",
+    "character_ids": [],
+    "state": "historical-educational",
+    "status": "integrated",
+    "web_asset_path": "assets/castle-kitchen.webp",
+    "width": 410,
+    "height": 410,
+    "grid_id": "castle-workforce-noble-estate-craft-training-noble-wedding-lord-household-noble-leisure-castle-kitchen-bathing-preparation-feast-foods",
+    "quadrant": 7,
+    "generated_at": "20261106T103320899587Z",
+    "grid_sha256": "caabd846eac660ebf2ae99c5a3be671c829100d1a793e97db82324b9ace41735",
+    "review_note": "Reviewed nine historical teaching scenes, construction crafts class duties kitchen bathing equipment and feast foods visible. No speech or text added."
+  },
+  {
+    "id": "bathing-preparation",
+    "chapter_id": "chapter-006",
+    "insert_after_paragraph_id": "p0109",
+    "source_paragraph_ids": [
+      "p0109"
+    ],
+    "description": "Wooden bathtub, heated water, rough soap and towels",
+    "alt": "Wooden bathtub, heated water, rough soap and towels",
+    "character_ids": [],
+    "state": "historical-educational",
+    "status": "integrated",
+    "web_asset_path": "assets/bathing-preparation.webp",
+    "width": 410,
+    "height": 410,
+    "grid_id": "castle-workforce-noble-estate-craft-training-noble-wedding-lord-household-noble-leisure-castle-kitchen-bathing-preparation-feast-foods",
+    "quadrant": 8,
+    "generated_at": "20261106T103320899587Z",
+    "grid_sha256": "caabd846eac660ebf2ae99c5a3be671c829100d1a793e97db82324b9ace41735",
+    "review_note": "Reviewed nine historical teaching scenes, construction crafts class duties kitchen bathing equipment and feast foods visible. No speech or text added."
   },
   {
     "id": "chapter-006-speech-02",
@@ -562,6 +730,27 @@
     "generated_at": "20261106T101726005579Z",
     "grid_sha256": "8ddff500099f7079c98550e79a3c65e638f5f9b597bb226422146228007dfe37",
     "review_note": "All nine full source speech texts reviewed; high bed and mouse, pewter samples, jester, feast, holiday, cathedral, merchant and minstrel visibly match."
+  },
+  {
+    "id": "feast-foods",
+    "chapter_id": "chapter-006",
+    "insert_after_paragraph_id": "p0126",
+    "source_paragraph_ids": [
+      "p0126"
+    ],
+    "description": "High table, benches, trenchers, shared cups and elaborate feast dishes",
+    "alt": "High table, benches, trenchers, shared cups and elaborate feast dishes",
+    "character_ids": [],
+    "state": "historical-educational",
+    "status": "integrated",
+    "web_asset_path": "assets/feast-foods.webp",
+    "width": 410,
+    "height": 410,
+    "grid_id": "castle-workforce-noble-estate-craft-training-noble-wedding-lord-household-noble-leisure-castle-kitchen-bathing-preparation-feast-foods",
+    "quadrant": 9,
+    "generated_at": "20261106T103320899587Z",
+    "grid_sha256": "caabd846eac660ebf2ae99c5a3be671c829100d1a793e97db82324b9ace41735",
+    "review_note": "Reviewed nine historical teaching scenes, construction crafts class duties kitchen bathing equipment and feast foods visible. No speech or text added."
   },
   {
     "id": "chapter-006-speech-05",

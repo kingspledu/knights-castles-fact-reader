@@ -98,5 +98,25 @@
       "grid_sha256": "72e48f7d67613b332863c954e1a1eeb8ea50d7228cec310d1b55d7897173eaf5",
       "review_note": "Reviewed nine panels: exact tournament balloon; complete weapon silhouettes, four helmets, knight and horse armor, five distinct shield motifs, gate defenses and stone transport. Gate model is a visual overview rather than engineering schematic."
     }
+  ],
+  "castle-workforce-noble-estate-craft-training-noble-wedding-lord-household-noble-leisure-castle-kitchen-bathing-preparation-feast-foods": [
+    {
+      "scene_ids": [
+        "castle-workforce",
+        "noble-estate",
+        "craft-training",
+        "noble-wedding",
+        "lord-household",
+        "noble-leisure",
+        "castle-kitchen",
+        "bathing-preparation",
+        "feast-foods"
+      ],
+      "grid": "3x3",
+      "prompt": "ONE square EXACT 3x3 grid of NINE equal square documentary-style historical educational photographs, thin white gutters, natural light, faithful medieval Europe materials, no text, no speech, no logos, no gore. No modern children needed. Each panel must concretely show all listed ideas without generic portrait backgrounds:\n1 Wide dramatic view of huge stone castle under construction with MANY workers hauling blocks and mortar on timber scaffolds, servants carrying provisions inside gate, armored guards at entrance; scale shows enormous workforce and long construction.\n2 Noble medieval lord and lady wearing elaborate clothing and large headdress stand on castle terrace above lower manor fields worked by poor serfs; clear social contrast, respectful people, no exaggerated villain.\n3 Medieval craft training shown as ONE workshop with three separate work areas: young apprentice sweeping and running errands; journeyman receiving a few coins from master; experienced craftsman presents carved wooden masterpiece to seated guild judges. Apprenticeship-to-mastery relationship clear.\n4 Noble medieval wedding inside chapel: age-appropriate young teenage bride and groom fully clothed in formal long medieval garments, priest reading book between them, tall stained glass windows and candles. Solemn historical educational scene, no romantic contact.\n5 Lord sitting as judge at table resolves dispute between two villagers, steward receives taxes in coins and grain basket; castle Great Hall, household lady directs servants carrying linen in rear. Coherent governance and household duties.\n6 Noble couple playing chess at a small table while musician plays bowed string instrument nearby, falconer with falcon visible through courtyard doorway, medieval leisure in stone room.\n7 Wide medieval castle KITCHEN: spit-roasted meat over hearth, hanging cauldron, worker stokes fire, cook kneads dough, baker uses peel at oven, woman carries platter, shelves of jugs and pots, basket eggs and bread, authentic hand tools, distinct workers.\n8 Private medieval bathing room: EMPTY large wooden bathtub with warm steaming water, servants carry heated water from fireplace in buckets, soap made from ash and fat as small rough bars, towels and curtained bed nearby. No nude or bathing person.\n9 Great Hall feast close view combining lord/lady raised high table and lower wooden benches; diners use fingers, bread trenchers, shared cup; cook presents feather-decorated peacock and swan with golden beak; one open pie releasing small live birds; jester and musician beyond. No modern forks, no gore, clear educational objects.\nPhotoreal material texture and real human anatomy. Nine standalone well-framed scenes, no captions.\n",
+      "generated_at": "20261106T103320899587Z",
+      "grid_sha256": "caabd846eac660ebf2ae99c5a3be671c829100d1a793e97db82324b9ace41735",
+      "review_note": "Reviewed nine historical teaching scenes, construction crafts class duties kitchen bathing equipment and feast foods visible. No speech or text added."
+    }
   ]
 }
