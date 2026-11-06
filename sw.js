@@ -1,8 +1,8 @@
 'use strict';
 const PREFIX='story-reader-knights-castles-fact-reader-';
-const CACHE=PREFIX+'ff6a17c8225f';
+const CACHE=PREFIX+'8d2c13da794e';
 const ROOT=new URL('./',self.location).href;
-const CORE=['./','./style.css?v=ff6a17c8225f','./app.js?v=ff6a17c8225f','./pwa.js?v=ff6a17c8225f','./manifest.webmanifest','./assets/app-icon-192.png','./assets/app-icon-512.png'];
+const CORE=["./", "./style.css?v=ff6a17c8225f", "./app.js?v=ff6a17c8225f", "./pwa.js?v=ff6a17c8225f", "./manifest.webmanifest", "./assets/app-icon-192.png", "./assets/app-icon-512.png", "./custom.css", "./vocabulary.js?v=5527d10281a1", "./fact-notes.json"];
 self.addEventListener('install',event=>{event.waitUntil(caches.open(CACHE).then(cache=>cache.addAll(CORE)).then(()=>self.skipWaiting()))});
 self.addEventListener('activate',event=>{event.waitUntil(caches.keys().then(keys=>Promise.all(keys.filter(key=>key.startsWith(PREFIX)&&key!==CACHE).map(key=>caches.delete(key)))).then(()=>self.clients.claim()))});
 self.addEventListener('fetch',event=>{
