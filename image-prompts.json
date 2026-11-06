@@ -1,1 +1,22 @@
-{}
+{
+  "chapter-003-speech-01-chapter-003-speech-02-chapter-003-speech-03-chapter-003-speech-04-chapter-003-speech-05-feudal-hierarchy-serf-harvest-blacksmith-masonry": [
+    {
+      "scene_ids": [
+        "chapter-003-speech-01",
+        "chapter-003-speech-02",
+        "chapter-003-speech-03",
+        "chapter-003-speech-04",
+        "chapter-003-speech-05",
+        "feudal-hierarchy",
+        "serf-harvest",
+        "blacksmith",
+        "masonry"
+      ],
+      "grid": "3x3",
+      "prompt": "Create one square image EXACT 3x3 grid, NINE equal square documentary photographic educational panels, thin white gutters. Use reference Jack and Annie faces consistently: Jack short brown wavy hair round glasses navy sweatshirt olive backpack, Annie shoulder-length loose brown hair yellow shirt coral pants no glasses, young children. Real skin, daylight, authentic medieval objects and environments, photographic not illustration. Each panel visually explains its exact text through relevant OBJECTS, ACTIONS and RELATIONSHIPS, not generic portrait backgrounds. Large legible white speech balloons with dark text EXACT as provided; tails to correct child. Row-major:\n1 Jack holds replica medieval riveted spectacles next to his own modern round glasses, close clear view of both. Balloon Jack: \"Eyeglasses were invented in the Middle Ages!\"\n2 Annie points to medieval university class: teacher reading a lectern manuscript, young adult students with quills and books at benches in stone hall. Balloon Annie: \"A university is a school of higher learning.\"\n3 Jack overlooks a detailed physical manor model with MULTIPLE tiny villages, farm fields and central castle; finger traces the extent. Balloon Jack: \"Some manors were very large. They could include several villages and many farms.\"\n4 Annie points to a knight's modest bed and armor chest INSIDE a lord's stone castle, view through window toward manor. Balloon Annie: \"Not all knights got their own manors. Some lived in a lord’s castle.\"\n5 Jack beside a medieval lord supervising village harvest workers and fields, clear people-land-lord relationship, respectful depiction. Balloon Jack: \"Anyone who ruled over land and the people on it was called a lord.\"\n6 No children or text: educational tangible diorama composition of feudal hierarchy in four terraced levels: crowned king, baron with castle, mounted knight, working farmers, clear spatial descending relationship, photoreal museum model.\n7 No children or text: medieval serfs harvest grain, portion placed in lord's cart and smaller portion kept by family, show economic obligation concretely.\n8 No children or text: blacksmith wearing work apron uses tongs to hold glowing iron on anvil and raises hammer, forge behind.\n9 No children or text: masons carve stone with hammer and chisel while other workers on rope-lashed timber scaffolding build tall castle wall. All panels distinct and complete, no gore, no logos, no watermark.\n",
+      "generated_at": "20261106T100527399255Z",
+      "grid_sha256": "4ea390dcd14f31e7ca6c104cfa21c75944e15902ef49ca33f61e0507b3a6ece6",
+      "review_note": "All nine panels visually inspected; five speech balloons exact and correctly attributed; objects and teaching relationships visible; children match reference sheets."
+    }
+  ]
+}

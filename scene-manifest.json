@@ -12,10 +12,18 @@
       "jack-v1"
     ],
     "state": "modern-explorer",
-    "status": "planned",
+    "status": "integrated",
     "speech_text": "Eyeglasses were invented in the Middle Ages!",
     "speaker": "Jack",
-    "source_page": 14
+    "source_page": 14,
+    "web_asset_path": "assets/chapter-003-speech-01.webp",
+    "width": 410,
+    "height": 410,
+    "grid_id": "chapter-003-speech-01-chapter-003-speech-02-chapter-003-speech-03-chapter-003-speech-04-chapter-003-speech-05-feudal-hierarchy-serf-harvest-blacksmith-masonry",
+    "quadrant": 1,
+    "generated_at": "20261106T100527399255Z",
+    "grid_sha256": "4ea390dcd14f31e7ca6c104cfa21c75944e15902ef49ca33f61e0507b3a6ece6",
+    "review_note": "All nine panels visually inspected; five speech balloons exact and correctly attributed; objects and teaching relationships visible; children match reference sheets."
   },
   {
     "id": "chapter-003-speech-02",
@@ -30,10 +38,18 @@
       "annie-v1"
     ],
     "state": "modern-explorer",
-    "status": "planned",
+    "status": "integrated",
     "speech_text": "A university is a school of higher learning.",
     "speaker": "Annie",
-    "source_page": 14
+    "source_page": 14,
+    "web_asset_path": "assets/chapter-003-speech-02.webp",
+    "width": 410,
+    "height": 410,
+    "grid_id": "chapter-003-speech-01-chapter-003-speech-02-chapter-003-speech-03-chapter-003-speech-04-chapter-003-speech-05-feudal-hierarchy-serf-harvest-blacksmith-masonry",
+    "quadrant": 2,
+    "generated_at": "20261106T100527399255Z",
+    "grid_sha256": "4ea390dcd14f31e7ca6c104cfa21c75944e15902ef49ca33f61e0507b3a6ece6",
+    "review_note": "All nine panels visually inspected; five speech balloons exact and correctly attributed; objects and teaching relationships visible; children match reference sheets."
   },
   {
     "id": "chapter-003-speech-03",
@@ -48,10 +64,18 @@
       "jack-v1"
     ],
     "state": "modern-explorer",
-    "status": "planned",
+    "status": "integrated",
     "speech_text": "Some manors were very large. They could include several villages and many farms.",
     "speaker": "Jack",
-    "source_page": 16
+    "source_page": 16,
+    "web_asset_path": "assets/chapter-003-speech-03.webp",
+    "width": 410,
+    "height": 410,
+    "grid_id": "chapter-003-speech-01-chapter-003-speech-02-chapter-003-speech-03-chapter-003-speech-04-chapter-003-speech-05-feudal-hierarchy-serf-harvest-blacksmith-masonry",
+    "quadrant": 3,
+    "generated_at": "20261106T100527399255Z",
+    "grid_sha256": "4ea390dcd14f31e7ca6c104cfa21c75944e15902ef49ca33f61e0507b3a6ece6",
+    "review_note": "All nine panels visually inspected; five speech balloons exact and correctly attributed; objects and teaching relationships visible; children match reference sheets."
   },
   {
     "id": "chapter-003-speech-04",
@@ -66,10 +90,60 @@
       "annie-v1"
     ],
     "state": "modern-explorer",
-    "status": "planned",
+    "status": "integrated",
     "speech_text": "Not all knights got their own manors. Some lived in a lord’s castle.",
     "speaker": "Annie",
-    "source_page": 16
+    "source_page": 16,
+    "web_asset_path": "assets/chapter-003-speech-04.webp",
+    "width": 410,
+    "height": 410,
+    "grid_id": "chapter-003-speech-01-chapter-003-speech-02-chapter-003-speech-03-chapter-003-speech-04-chapter-003-speech-05-feudal-hierarchy-serf-harvest-blacksmith-masonry",
+    "quadrant": 4,
+    "generated_at": "20261106T100527399255Z",
+    "grid_sha256": "4ea390dcd14f31e7ca6c104cfa21c75944e15902ef49ca33f61e0507b3a6ece6",
+    "review_note": "All nine panels visually inspected; five speech balloons exact and correctly attributed; objects and teaching relationships visible; children match reference sheets."
+  },
+  {
+    "id": "feudal-hierarchy",
+    "chapter_id": "chapter-003",
+    "insert_after_paragraph_id": "p0034",
+    "source_paragraph_ids": [
+      "p0034"
+    ],
+    "description": "Feudal hierarchy: king, baron, knight and serfs",
+    "alt": "Feudal hierarchy: king, baron, knight and serfs",
+    "character_ids": [],
+    "state": "historical-educational",
+    "status": "integrated",
+    "web_asset_path": "assets/feudal-hierarchy.webp",
+    "width": 410,
+    "height": 410,
+    "grid_id": "chapter-003-speech-01-chapter-003-speech-02-chapter-003-speech-03-chapter-003-speech-04-chapter-003-speech-05-feudal-hierarchy-serf-harvest-blacksmith-masonry",
+    "quadrant": 6,
+    "generated_at": "20261106T100527399255Z",
+    "grid_sha256": "4ea390dcd14f31e7ca6c104cfa21c75944e15902ef49ca33f61e0507b3a6ece6",
+    "review_note": "All nine panels visually inspected; five speech balloons exact and correctly attributed; objects and teaching relationships visible; children match reference sheets."
+  },
+  {
+    "id": "serf-harvest",
+    "chapter_id": "chapter-003",
+    "insert_after_paragraph_id": "p0034",
+    "source_paragraph_ids": [
+      "p0034"
+    ],
+    "description": "Serfs divide the harvest between their lord and family",
+    "alt": "Serfs divide the harvest between their lord and family",
+    "character_ids": [],
+    "state": "historical-educational",
+    "status": "integrated",
+    "web_asset_path": "assets/serf-harvest.webp",
+    "width": 410,
+    "height": 410,
+    "grid_id": "chapter-003-speech-01-chapter-003-speech-02-chapter-003-speech-03-chapter-003-speech-04-chapter-003-speech-05-feudal-hierarchy-serf-harvest-blacksmith-masonry",
+    "quadrant": 7,
+    "generated_at": "20261106T100527399255Z",
+    "grid_sha256": "4ea390dcd14f31e7ca6c104cfa21c75944e15902ef49ca33f61e0507b3a6ece6",
+    "review_note": "All nine panels visually inspected; five speech balloons exact and correctly attributed; objects and teaching relationships visible; children match reference sheets."
   },
   {
     "id": "chapter-003-speech-05",
@@ -84,10 +158,18 @@
       "jack-v1"
     ],
     "state": "modern-explorer",
-    "status": "planned",
+    "status": "integrated",
     "speech_text": "Anyone who ruled over land and the people on it was called a lord.",
     "speaker": "Jack",
-    "source_page": 17
+    "source_page": 17,
+    "web_asset_path": "assets/chapter-003-speech-05.webp",
+    "width": 410,
+    "height": 410,
+    "grid_id": "chapter-003-speech-01-chapter-003-speech-02-chapter-003-speech-03-chapter-003-speech-04-chapter-003-speech-05-feudal-hierarchy-serf-harvest-blacksmith-masonry",
+    "quadrant": 5,
+    "generated_at": "20261106T100527399255Z",
+    "grid_sha256": "4ea390dcd14f31e7ca6c104cfa21c75944e15902ef49ca33f61e0507b3a6ece6",
+    "review_note": "All nine panels visually inspected; five speech balloons exact and correctly attributed; objects and teaching relationships visible; children match reference sheets."
   },
   {
     "id": "chapter-004-speech-01",
@@ -142,6 +224,48 @@
     "speech_text": "This kind of castle is called a motte and bailey castle.",
     "speaker": "Annie",
     "source_page": 23
+  },
+  {
+    "id": "masonry",
+    "chapter_id": "chapter-004",
+    "insert_after_paragraph_id": "p0064",
+    "source_paragraph_ids": [
+      "p0064"
+    ],
+    "description": "Masons carve blocks and build on timber scaffolding",
+    "alt": "Masons carve blocks and build on timber scaffolding",
+    "character_ids": [],
+    "state": "historical-educational",
+    "status": "integrated",
+    "web_asset_path": "assets/masonry.webp",
+    "width": 410,
+    "height": 410,
+    "grid_id": "chapter-003-speech-01-chapter-003-speech-02-chapter-003-speech-03-chapter-003-speech-04-chapter-003-speech-05-feudal-hierarchy-serf-harvest-blacksmith-masonry",
+    "quadrant": 9,
+    "generated_at": "20261106T100527399255Z",
+    "grid_sha256": "4ea390dcd14f31e7ca6c104cfa21c75944e15902ef49ca33f61e0507b3a6ece6",
+    "review_note": "All nine panels visually inspected; five speech balloons exact and correctly attributed; objects and teaching relationships visible; children match reference sheets."
+  },
+  {
+    "id": "blacksmith",
+    "chapter_id": "chapter-004",
+    "insert_after_paragraph_id": "p0066",
+    "source_paragraph_ids": [
+      "p0066"
+    ],
+    "description": "Blacksmith uses hammer, tongs, anvil and forge",
+    "alt": "Blacksmith uses hammer, tongs, anvil and forge",
+    "character_ids": [],
+    "state": "historical-educational",
+    "status": "integrated",
+    "web_asset_path": "assets/blacksmith.webp",
+    "width": 410,
+    "height": 410,
+    "grid_id": "chapter-003-speech-01-chapter-003-speech-02-chapter-003-speech-03-chapter-003-speech-04-chapter-003-speech-05-feudal-hierarchy-serf-harvest-blacksmith-masonry",
+    "quadrant": 8,
+    "generated_at": "20261106T100527399255Z",
+    "grid_sha256": "4ea390dcd14f31e7ca6c104cfa21c75944e15902ef49ca33f61e0507b3a6ece6",
+    "review_note": "All nine panels visually inspected; five speech balloons exact and correctly attributed; objects and teaching relationships visible; children match reference sheets."
   },
   {
     "id": "chapter-005-speech-01",
