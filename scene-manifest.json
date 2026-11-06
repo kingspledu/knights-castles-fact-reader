@@ -461,10 +461,18 @@
       "annie-v1"
     ],
     "state": "modern-explorer",
-    "status": "planned",
+    "status": "integrated",
     "speech_text": "Beds were high to keep mice out.",
     "speaker": "Annie",
-    "source_page": 48
+    "source_page": 48,
+    "web_asset_path": "assets/chapter-006-speech-03.webp",
+    "width": 410,
+    "height": 410,
+    "grid_id": "chapter-006-speech-03-chapter-006-speech-04-chapter-006-speech-05-chapter-006-speech-06-chapter-007-speech-01-chapter-007-speech-02-chapter-007-speech-03-chapter-007-speech-04-chapter-007-speech-05",
+    "quadrant": 1,
+    "generated_at": "20261106T101726005579Z",
+    "grid_sha256": "8ddff500099f7079c98550e79a3c65e638f5f9b597bb226422146228007dfe37",
+    "review_note": "All nine full source speech texts reviewed; high bed and mouse, pewter samples, jester, feast, holiday, cathedral, merchant and minstrel visibly match."
   },
   {
     "id": "chapter-006-speech-04",
@@ -479,10 +487,18 @@
       "jack-v1"
     ],
     "state": "modern-explorer",
-    "status": "planned",
+    "status": "integrated",
     "speech_text": "Pewter is a metal made of tin mixed with copper and lead.",
     "speaker": "Jack",
-    "source_page": 49
+    "source_page": 49,
+    "web_asset_path": "assets/chapter-006-speech-04.webp",
+    "width": 410,
+    "height": 410,
+    "grid_id": "chapter-006-speech-03-chapter-006-speech-04-chapter-006-speech-05-chapter-006-speech-06-chapter-007-speech-01-chapter-007-speech-02-chapter-007-speech-03-chapter-007-speech-04-chapter-007-speech-05",
+    "quadrant": 2,
+    "generated_at": "20261106T101726005579Z",
+    "grid_sha256": "8ddff500099f7079c98550e79a3c65e638f5f9b597bb226422146228007dfe37",
+    "review_note": "All nine full source speech texts reviewed; high bed and mouse, pewter samples, jester, feast, holiday, cathedral, merchant and minstrel visibly match."
   },
   {
     "id": "chapter-006-speech-05",
@@ -497,10 +513,18 @@
       "annie-v1"
     ],
     "state": "modern-explorer",
-    "status": "planned",
+    "status": "integrated",
     "speech_text": "A jester was a medieval clown.",
     "speaker": "Annie",
-    "source_page": 51
+    "source_page": 51,
+    "web_asset_path": "assets/chapter-006-speech-05.webp",
+    "width": 410,
+    "height": 410,
+    "grid_id": "chapter-006-speech-03-chapter-006-speech-04-chapter-006-speech-05-chapter-006-speech-06-chapter-007-speech-01-chapter-007-speech-02-chapter-007-speech-03-chapter-007-speech-04-chapter-007-speech-05",
+    "quadrant": 3,
+    "generated_at": "20261106T101726005579Z",
+    "grid_sha256": "8ddff500099f7079c98550e79a3c65e638f5f9b597bb226422146228007dfe37",
+    "review_note": "All nine full source speech texts reviewed; high bed and mouse, pewter samples, jester, feast, holiday, cathedral, merchant and minstrel visibly match."
   },
   {
     "id": "chapter-006-speech-06",
@@ -516,10 +540,18 @@
       "annie-v1"
     ],
     "state": "modern-explorer",
-    "status": "planned",
+    "status": "integrated",
     "speech_text": "Turn the page to attend a medieval feast.",
     "speaker": "Jack and Annie",
-    "source_page": 51
+    "source_page": 51,
+    "web_asset_path": "assets/chapter-006-speech-06.webp",
+    "width": 410,
+    "height": 410,
+    "grid_id": "chapter-006-speech-03-chapter-006-speech-04-chapter-006-speech-05-chapter-006-speech-06-chapter-007-speech-01-chapter-007-speech-02-chapter-007-speech-03-chapter-007-speech-04-chapter-007-speech-05",
+    "quadrant": 4,
+    "generated_at": "20261106T101726005579Z",
+    "grid_sha256": "8ddff500099f7079c98550e79a3c65e638f5f9b597bb226422146228007dfe37",
+    "review_note": "All nine full source speech texts reviewed; high bed and mouse, pewter samples, jester, feast, holiday, cathedral, merchant and minstrel visibly match."
   },
   {
     "id": "chapter-007-speech-01",
@@ -534,10 +566,18 @@
       "annie-v1"
     ],
     "state": "modern-explorer",
-    "status": "planned",
+    "status": "integrated",
     "speech_text": "The word holiday comes from the words holy + day.",
     "speaker": "Annie",
-    "source_page": 55
+    "source_page": 55,
+    "web_asset_path": "assets/chapter-007-speech-01.webp",
+    "width": 410,
+    "height": 410,
+    "grid_id": "chapter-006-speech-03-chapter-006-speech-04-chapter-006-speech-05-chapter-006-speech-06-chapter-007-speech-01-chapter-007-speech-02-chapter-007-speech-03-chapter-007-speech-04-chapter-007-speech-05",
+    "quadrant": 5,
+    "generated_at": "20261106T101726005579Z",
+    "grid_sha256": "8ddff500099f7079c98550e79a3c65e638f5f9b597bb226422146228007dfe37",
+    "review_note": "All nine full source speech texts reviewed; high bed and mouse, pewter samples, jester, feast, holiday, cathedral, merchant and minstrel visibly match."
   },
   {
     "id": "chapter-007-speech-02",
@@ -552,10 +592,18 @@
       "jack-v1"
     ],
     "state": "modern-explorer",
-    "status": "planned",
+    "status": "integrated",
     "speech_text": "Kings and noblemen also gave money to build large churches called cathedrals. Some cathedrals were bigger than castles!",
     "speaker": "Jack",
-    "source_page": 57
+    "source_page": 57,
+    "web_asset_path": "assets/chapter-007-speech-02.webp",
+    "width": 410,
+    "height": 410,
+    "grid_id": "chapter-006-speech-03-chapter-006-speech-04-chapter-006-speech-05-chapter-006-speech-06-chapter-007-speech-01-chapter-007-speech-02-chapter-007-speech-03-chapter-007-speech-04-chapter-007-speech-05",
+    "quadrant": 6,
+    "generated_at": "20261106T101726005579Z",
+    "grid_sha256": "8ddff500099f7079c98550e79a3c65e638f5f9b597bb226422146228007dfe37",
+    "review_note": "All nine full source speech texts reviewed; high bed and mouse, pewter samples, jester, feast, holiday, cathedral, merchant and minstrel visibly match."
   },
   {
     "id": "chapter-007-speech-03",
@@ -570,10 +618,18 @@
       "jack-v1"
     ],
     "state": "modern-explorer",
-    "status": "planned",
+    "status": "integrated",
     "speech_text": "A merchant is a person who buys and sells goods.",
     "speaker": "Jack",
-    "source_page": 58
+    "source_page": 58,
+    "web_asset_path": "assets/chapter-007-speech-03.webp",
+    "width": 410,
+    "height": 410,
+    "grid_id": "chapter-006-speech-03-chapter-006-speech-04-chapter-006-speech-05-chapter-006-speech-06-chapter-007-speech-01-chapter-007-speech-02-chapter-007-speech-03-chapter-007-speech-04-chapter-007-speech-05",
+    "quadrant": 7,
+    "generated_at": "20261106T101726005579Z",
+    "grid_sha256": "8ddff500099f7079c98550e79a3c65e638f5f9b597bb226422146228007dfe37",
+    "review_note": "All nine full source speech texts reviewed; high bed and mouse, pewter samples, jester, feast, holiday, cathedral, merchant and minstrel visibly match."
   },
   {
     "id": "chapter-007-speech-04",
@@ -588,10 +644,18 @@
       "annie-v1"
     ],
     "state": "modern-explorer",
-    "status": "planned",
+    "status": "integrated",
     "speech_text": "A minstrel was a medieval singer and musician.",
     "speaker": "Annie",
-    "source_page": 58
+    "source_page": 58,
+    "web_asset_path": "assets/chapter-007-speech-04.webp",
+    "width": 410,
+    "height": 410,
+    "grid_id": "chapter-006-speech-03-chapter-006-speech-04-chapter-006-speech-05-chapter-006-speech-06-chapter-007-speech-01-chapter-007-speech-02-chapter-007-speech-03-chapter-007-speech-04-chapter-007-speech-05",
+    "quadrant": 8,
+    "generated_at": "20261106T101726005579Z",
+    "grid_sha256": "8ddff500099f7079c98550e79a3c65e638f5f9b597bb226422146228007dfe37",
+    "review_note": "All nine full source speech texts reviewed; high bed and mouse, pewter samples, jester, feast, holiday, cathedral, merchant and minstrel visibly match."
   },
   {
     "id": "chapter-007-speech-05",
@@ -607,10 +671,18 @@
       "annie-v1"
     ],
     "state": "modern-explorer",
-    "status": "planned",
+    "status": "integrated",
     "speech_text": "Turn the page to visit a medieval trade fair.",
     "speaker": "Jack and Annie",
-    "source_page": 59
+    "source_page": 59,
+    "web_asset_path": "assets/chapter-007-speech-05.webp",
+    "width": 410,
+    "height": 410,
+    "grid_id": "chapter-006-speech-03-chapter-006-speech-04-chapter-006-speech-05-chapter-006-speech-06-chapter-007-speech-01-chapter-007-speech-02-chapter-007-speech-03-chapter-007-speech-04-chapter-007-speech-05",
+    "quadrant": 9,
+    "generated_at": "20261106T101726005579Z",
+    "grid_sha256": "8ddff500099f7079c98550e79a3c65e638f5f9b597bb226422146228007dfe37",
+    "review_note": "All nine full source speech texts reviewed; high bed and mouse, pewter samples, jester, feast, holiday, cathedral, merchant and minstrel visibly match."
   },
   {
     "id": "chapter-008-speech-01",

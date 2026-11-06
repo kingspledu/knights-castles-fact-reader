@@ -38,5 +38,25 @@
       "grid_sha256": "6a5d28373029281e17c426fa3eff0cf817f11c6afc6b1fcefc9e55b8f5db465a",
       "review_note": "Nine panels reviewed; exact full balloon texts visible; castle parts, motte bailey, sentry, moat, mews and tunic match descriptions."
     }
+  ],
+  "chapter-006-speech-03-chapter-006-speech-04-chapter-006-speech-05-chapter-006-speech-06-chapter-007-speech-01-chapter-007-speech-02-chapter-007-speech-03-chapter-007-speech-04-chapter-007-speech-05": [
+    {
+      "scene_ids": [
+        "chapter-006-speech-03",
+        "chapter-006-speech-04",
+        "chapter-006-speech-05",
+        "chapter-006-speech-06",
+        "chapter-007-speech-01",
+        "chapter-007-speech-02",
+        "chapter-007-speech-03",
+        "chapter-007-speech-04",
+        "chapter-007-speech-05"
+      ],
+      "grid": "3x3",
+      "prompt": "ONE square EXACT 3x3 grid of NINE equal square photoreal documentary educational scenes, fine white gutters, natural lighting, material realism. Use reference1 Jack boy8 brown wavy hair round glasses navy sweatshirt olive backpack and reference2 Annie girl7 loose shoulder-length brown hair NO glasses yellow tee coral pants. Keep faces identical. Modern visiting children explain actual medieval objects, not generic scenery. ONE large clean white speech balloon per panel with exact dark English text below. Tail correct child; shared speech two tails. No other writing/logos.\nRow1 col1 Annie points to VERY HIGH curtained four-poster medieval bed, small mouse on FLOOR below, show bed legs and clearance. Text \"Beds were high to keep mice out.\"\nRow1 col2 Jack holds dull silvery PEWTER mug beside pewter plate and tin,copper,lead sample ingots on table in medieval metalworker workshop. Text \"Pewter is a metal made of tin mixed with copper and lead.\"\nRow1 col3 Annie watches medieval jester wearing motley cap and bells entertaining with juggling, stone Great Hall. Text \"A jester was a medieval clown.\"\nRow2 col1 Both children invite toward full medieval FEAST: lord and lady on raised high table, long lower benches, candles, roast dishes, bread trenchers, servers, musician, jester. Text \"Turn the page to attend a medieval feast.\"\nRow2 col2 Annie outside chapel points toward village religious holiday celebration: church bells, procession with cross, feast table, no modern festive decor. Text \"The word holiday comes from the words holy + day.\"\nRow2 col3 Jack shows architectural scale models of immense Gothic CATHEDRAL and smaller fortified castle side by side, wealthy patron gives purse to church builder, cathedral towers visibly taller. Text \"Kings and noblemen also gave money to build large churches called cathedrals. Some cathedrals were bigger than castles!\"\nRow3 col1 Jack watches medieval MERCHANT exchange folded cloth for coins with buyer at stall; pottery and food in adjacent stalls. Text \"A merchant is a person who buys and sells goods.\"\nRow3 col2 Annie beside MINSTREL singing and playing lute at medieval market with spectators, instrument clearly framed. Text \"A minstrel was a medieval singer and musician.\"\nRow3 col3 Both children invite toward busy TRADE FAIR: fabric stall, pottery stall, bread pies, merchant exchange, musician, acrobat, wagon in coherent wide scene. Text \"Turn the page to visit a medieval trade fair.\"\nEach image shows the concrete noun or relationship described. Faces not obscured, generous speech balloon space, age-appropriate anatomy, no gore.\n",
+      "generated_at": "20261106T101726005579Z",
+      "grid_sha256": "8ddff500099f7079c98550e79a3c65e638f5f9b597bb226422146228007dfe37",
+      "review_note": "All nine full source speech texts reviewed; high bed and mouse, pewter samples, jester, feast, holiday, cathedral, merchant and minstrel visibly match."
+    }
   ]
 }
