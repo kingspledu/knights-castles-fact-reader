@@ -58,5 +58,25 @@
       "grid_sha256": "8ddff500099f7079c98550e79a3c65e638f5f9b597bb226422146228007dfe37",
       "review_note": "All nine full source speech texts reviewed; high bed and mouse, pewter samples, jester, feast, holiday, cathedral, merchant and minstrel visibly match."
     }
+  ],
+  "chapter-008-speech-01-chapter-008-speech-02-chapter-008-speech-03-chapter-008-speech-04-chapter-008-speech-05-chapter-009-speech-01-chapter-009-speech-02-chapter-009-speech-03-chapter-010-speech-01": [
+    {
+      "scene_ids": [
+        "chapter-008-speech-01",
+        "chapter-008-speech-02",
+        "chapter-008-speech-03",
+        "chapter-008-speech-04",
+        "chapter-008-speech-05",
+        "chapter-009-speech-01",
+        "chapter-009-speech-02",
+        "chapter-009-speech-03",
+        "chapter-010-speech-01"
+      ],
+      "grid": "3x3",
+      "prompt": "ONE square EXACT 3x3 grid, nine equal square educational documentary photographs, thin white gutters, crisp realistic objects and natural light. References lock Jack boy8 thin round glasses navy shirt jeans olive backpack, Annie girl7 loose shoulder-length brown hair no glasses yellow shirt coral pants. Real child proportions. Per panel ONE white speech balloon with exact full dark English text below, tail to named child, ample space. No other writing.\n1 Annie beside medieval training yard showing ONLY noble boys practicing wooden swords and wooden horses, adult instructor, she reacts to unequal rule. Text \"Not fair! Only boys could become knights.\"\n2 Jack sits SAFELY on wooden wheeled training horse holding small wooden sword and shield, Annie points at him, tail to ANNIE. Text \"Wow! Jack could be a page!\"\n3 Jack points to a trained adult medieval squire riding horse with both hands holding shield and practice sword, clear riding skill, no reins in hands. Text \"Horsemanship means “horse-riding skill.”\"\n4 Jack beside horse and mounted knight, knight courteously assists a vulnerable traveler, horse visibly central, illustrate chivalry and horse association. Text \"Chivalry comes from the French word cheval, which means “horse.”\"\n5 Both children show open illuminated manuscript featuring Arthur drawing sword from stone and circle of armored knights at round table, medieval library backdrop. Text \"Turn the page to read about the most famous knights of all.\"\n6 Jack holds LARGE chainmail sample close to camera so interlocked metal rings very clear, hauberk on mannequin behind. Text \"This kind of armor is often called chain mail because the rings are linked like a chain.\"\n7 Annie points to mail hauberk on one mannequin and thick quilted PADDED GARMENT on separate mannequin; visible fabric thickness and weight on support, fully clothed displays, no undressed people. Text \"Hauberks were so heavy that knights who wore them had to wear padded underwear!\"\n8 Annie points at short narrow pointed medieval dagger lying behind safe glass beside a much longer sword for scale, hilt and point visible. Text \"A dagger is a short pointed weapon.\"\n9 Annie foreground looking at DISTANT full LINE of mounted knights with long lances lowered in coordinated charge across open field, no impacts or injuries. Text \"Yikes! Sometimes a whole line of knights charged an enemy with their lances.\"\nNo adult faces on kids, no generic substituted scenery, no logos, no gore.\n",
+      "generated_at": "20261106T102231216156Z",
+      "grid_sha256": "ad9a9937afbbbf4fe9fa936e83b7ecad018a8a6e61170fae361423308c743115",
+      "review_note": "Nine source balloons reviewed word for word, speaker identity and relevant training horse, riding, mail rings, padding, dagger and mounted formation verified."
+    }
   ]
 }

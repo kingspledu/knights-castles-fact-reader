@@ -697,10 +697,18 @@
       "annie-v1"
     ],
     "state": "modern-explorer",
-    "status": "planned",
+    "status": "integrated",
     "speech_text": "Not fair! Only boys could become knights.",
     "speaker": "Annie",
-    "source_page": 64
+    "source_page": 64,
+    "web_asset_path": "assets/chapter-008-speech-01.webp",
+    "width": 410,
+    "height": 410,
+    "grid_id": "chapter-008-speech-01-chapter-008-speech-02-chapter-008-speech-03-chapter-008-speech-04-chapter-008-speech-05-chapter-009-speech-01-chapter-009-speech-02-chapter-009-speech-03-chapter-010-speech-01",
+    "quadrant": 1,
+    "generated_at": "20261106T102231216156Z",
+    "grid_sha256": "ad9a9937afbbbf4fe9fa936e83b7ecad018a8a6e61170fae361423308c743115",
+    "review_note": "Nine source balloons reviewed word for word, speaker identity and relevant training horse, riding, mail rings, padding, dagger and mounted formation verified."
   },
   {
     "id": "chapter-008-speech-02",
@@ -715,10 +723,18 @@
       "annie-v1"
     ],
     "state": "modern-explorer",
-    "status": "planned",
+    "status": "integrated",
     "speech_text": "Wow! Jack could be a page!",
     "speaker": "Annie",
-    "source_page": 65
+    "source_page": 65,
+    "web_asset_path": "assets/chapter-008-speech-02.webp",
+    "width": 410,
+    "height": 410,
+    "grid_id": "chapter-008-speech-01-chapter-008-speech-02-chapter-008-speech-03-chapter-008-speech-04-chapter-008-speech-05-chapter-009-speech-01-chapter-009-speech-02-chapter-009-speech-03-chapter-010-speech-01",
+    "quadrant": 2,
+    "generated_at": "20261106T102231216156Z",
+    "grid_sha256": "ad9a9937afbbbf4fe9fa936e83b7ecad018a8a6e61170fae361423308c743115",
+    "review_note": "Nine source balloons reviewed word for word, speaker identity and relevant training horse, riding, mail rings, padding, dagger and mounted formation verified."
   },
   {
     "id": "chapter-008-speech-03",
@@ -733,10 +749,18 @@
       "jack-v1"
     ],
     "state": "modern-explorer",
-    "status": "planned",
+    "status": "integrated",
     "speech_text": "Horsemanship means “horse-riding skill.”",
     "speaker": "Jack",
-    "source_page": 66
+    "source_page": 66,
+    "web_asset_path": "assets/chapter-008-speech-03.webp",
+    "width": 410,
+    "height": 410,
+    "grid_id": "chapter-008-speech-01-chapter-008-speech-02-chapter-008-speech-03-chapter-008-speech-04-chapter-008-speech-05-chapter-009-speech-01-chapter-009-speech-02-chapter-009-speech-03-chapter-010-speech-01",
+    "quadrant": 3,
+    "generated_at": "20261106T102231216156Z",
+    "grid_sha256": "ad9a9937afbbbf4fe9fa936e83b7ecad018a8a6e61170fae361423308c743115",
+    "review_note": "Nine source balloons reviewed word for word, speaker identity and relevant training horse, riding, mail rings, padding, dagger and mounted formation verified."
   },
   {
     "id": "chapter-008-speech-04",
@@ -751,10 +775,18 @@
       "jack-v1"
     ],
     "state": "modern-explorer",
-    "status": "planned",
+    "status": "integrated",
     "speech_text": "Chivalry comes from the French word cheval, which means “horse.”",
     "speaker": "Jack",
-    "source_page": 68
+    "source_page": 68,
+    "web_asset_path": "assets/chapter-008-speech-04.webp",
+    "width": 410,
+    "height": 410,
+    "grid_id": "chapter-008-speech-01-chapter-008-speech-02-chapter-008-speech-03-chapter-008-speech-04-chapter-008-speech-05-chapter-009-speech-01-chapter-009-speech-02-chapter-009-speech-03-chapter-010-speech-01",
+    "quadrant": 4,
+    "generated_at": "20261106T102231216156Z",
+    "grid_sha256": "ad9a9937afbbbf4fe9fa936e83b7ecad018a8a6e61170fae361423308c743115",
+    "review_note": "Nine source balloons reviewed word for word, speaker identity and relevant training horse, riding, mail rings, padding, dagger and mounted formation verified."
   },
   {
     "id": "chapter-008-speech-05",
@@ -770,10 +802,18 @@
       "annie-v1"
     ],
     "state": "modern-explorer",
-    "status": "planned",
+    "status": "integrated",
     "speech_text": "Turn the page to read about the most famous knights of all.",
     "speaker": "Jack and Annie",
-    "source_page": 69
+    "source_page": 69,
+    "web_asset_path": "assets/chapter-008-speech-05.webp",
+    "width": 410,
+    "height": 410,
+    "grid_id": "chapter-008-speech-01-chapter-008-speech-02-chapter-008-speech-03-chapter-008-speech-04-chapter-008-speech-05-chapter-009-speech-01-chapter-009-speech-02-chapter-009-speech-03-chapter-010-speech-01",
+    "quadrant": 5,
+    "generated_at": "20261106T102231216156Z",
+    "grid_sha256": "ad9a9937afbbbf4fe9fa936e83b7ecad018a8a6e61170fae361423308c743115",
+    "review_note": "Nine source balloons reviewed word for word, speaker identity and relevant training horse, riding, mail rings, padding, dagger and mounted formation verified."
   },
   {
     "id": "chapter-009-speech-01",
@@ -788,10 +828,18 @@
       "jack-v1"
     ],
     "state": "modern-explorer",
-    "status": "planned",
+    "status": "integrated",
     "speech_text": "This kind of armor is often called chain mail because the rings are linked like a chain.",
     "speaker": "Jack",
-    "source_page": 76
+    "source_page": 76,
+    "web_asset_path": "assets/chapter-009-speech-01.webp",
+    "width": 410,
+    "height": 410,
+    "grid_id": "chapter-008-speech-01-chapter-008-speech-02-chapter-008-speech-03-chapter-008-speech-04-chapter-008-speech-05-chapter-009-speech-01-chapter-009-speech-02-chapter-009-speech-03-chapter-010-speech-01",
+    "quadrant": 6,
+    "generated_at": "20261106T102231216156Z",
+    "grid_sha256": "ad9a9937afbbbf4fe9fa936e83b7ecad018a8a6e61170fae361423308c743115",
+    "review_note": "Nine source balloons reviewed word for word, speaker identity and relevant training horse, riding, mail rings, padding, dagger and mounted formation verified."
   },
   {
     "id": "chapter-009-speech-02",
@@ -806,10 +854,18 @@
       "annie-v1"
     ],
     "state": "modern-explorer",
-    "status": "planned",
+    "status": "integrated",
     "speech_text": "Hauberks were so heavy that knights who wore them had to wear padded underwear!",
     "speaker": "Annie",
-    "source_page": 76
+    "source_page": 76,
+    "web_asset_path": "assets/chapter-009-speech-02.webp",
+    "width": 410,
+    "height": 410,
+    "grid_id": "chapter-008-speech-01-chapter-008-speech-02-chapter-008-speech-03-chapter-008-speech-04-chapter-008-speech-05-chapter-009-speech-01-chapter-009-speech-02-chapter-009-speech-03-chapter-010-speech-01",
+    "quadrant": 7,
+    "generated_at": "20261106T102231216156Z",
+    "grid_sha256": "ad9a9937afbbbf4fe9fa936e83b7ecad018a8a6e61170fae361423308c743115",
+    "review_note": "Nine source balloons reviewed word for word, speaker identity and relevant training horse, riding, mail rings, padding, dagger and mounted formation verified."
   },
   {
     "id": "chapter-009-speech-03",
@@ -824,10 +880,18 @@
       "annie-v1"
     ],
     "state": "modern-explorer",
-    "status": "planned",
+    "status": "integrated",
     "speech_text": "A dagger is a short pointed weapon.",
     "speaker": "Annie",
-    "source_page": 77
+    "source_page": 77,
+    "web_asset_path": "assets/chapter-009-speech-03.webp",
+    "width": 410,
+    "height": 410,
+    "grid_id": "chapter-008-speech-01-chapter-008-speech-02-chapter-008-speech-03-chapter-008-speech-04-chapter-008-speech-05-chapter-009-speech-01-chapter-009-speech-02-chapter-009-speech-03-chapter-010-speech-01",
+    "quadrant": 8,
+    "generated_at": "20261106T102231216156Z",
+    "grid_sha256": "ad9a9937afbbbf4fe9fa936e83b7ecad018a8a6e61170fae361423308c743115",
+    "review_note": "Nine source balloons reviewed word for word, speaker identity and relevant training horse, riding, mail rings, padding, dagger and mounted formation verified."
   },
   {
     "id": "chapter-010-speech-01",
@@ -842,10 +906,18 @@
       "annie-v1"
     ],
     "state": "modern-explorer",
-    "status": "planned",
+    "status": "integrated",
     "speech_text": "Yikes! Sometimes a whole line of knights charged an enemy with their lances.",
     "speaker": "Annie",
-    "source_page": 87
+    "source_page": 87,
+    "web_asset_path": "assets/chapter-010-speech-01.webp",
+    "width": 410,
+    "height": 410,
+    "grid_id": "chapter-008-speech-01-chapter-008-speech-02-chapter-008-speech-03-chapter-008-speech-04-chapter-008-speech-05-chapter-009-speech-01-chapter-009-speech-02-chapter-009-speech-03-chapter-010-speech-01",
+    "quadrant": 9,
+    "generated_at": "20261106T102231216156Z",
+    "grid_sha256": "ad9a9937afbbbf4fe9fa936e83b7ecad018a8a6e61170fae361423308c743115",
+    "review_note": "Nine source balloons reviewed word for word, speaker identity and relevant training horse, riding, mail rings, padding, dagger and mounted formation verified."
   },
   {
     "id": "chapter-010-speech-02",
