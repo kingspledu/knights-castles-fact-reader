@@ -1,0 +1,2150 @@
+{
+  "title": "Knights and Castles",
+  "lang": "en",
+  "source_sha256": "f29323c665aed8f62e0a7bfe9d40ed0a5a79098100e606fe24d9108f51be408f",
+  "source_blocks": [
+    {
+      "kind": "title",
+      "text": "# Knights and Castles"
+    },
+    {
+      "kind": "heading",
+      "text": "## A Note from Mary Pope Osborne",
+      "chapter_id": "chapter-001"
+    },
+    {
+      "kind": "paragraph",
+      "id": "p0001",
+      "text": "When I write Magic Tree House® adventures, I love including facts about the times and places Jack and Annie visit. But when readers finish these adventures, I want them to learn even more. So that’s why we write a series of nonfiction books that are companions to the fiction titles in the Magic Tree House® series. We call these books Fact Trackers because we love to track the facts! Whether we’re researching dinosaurs, pyramids, Pilgrims, sea monsters, or cobras, we’re always amazed at how wondrous and surprising the real world is. We want you to experience the same wonder we do—so get out your pencils and notebooks and hit the trail with us. You can be a Magic Tree House® Fact Tracker, too!"
+    },
+    {
+      "kind": "paragraph",
+      "id": "p0002",
+      "text": "Mary Pope Osborne [signature]"
+    },
+    {
+      "kind": "heading",
+      "text": "## Dear Readers",
+      "chapter_id": "chapter-002"
+    },
+    {
+      "kind": "paragraph",
+      "id": "p0003",
+      "text": "Dear Readers,"
+    },
+    {
+      "kind": "paragraph",
+      "id": "p0004",
+      "text": "Our adventures in the magic tree house always make us want to know more about the places we visit."
+    },
+    {
+      "kind": "paragraph",
+      "id": "p0005",
+      "text": "When we got back from the time of knights and castles in The Knight at Dawn, we wanted to know more about dungeons. We wanted to know more about armor. We wanted to know more about what goes on inside a castle."
+    },
+    {
+      "kind": "paragraph",
+      "id": "p0006",
+      "text": "To find out, we had to be fact trackers!"
+    },
+    {
+      "kind": "paragraph",
+      "id": "p0007",
+      "text": "We went to the library. We found pictures of famous castles in the encyclopedia. We checked out books about the Middle Ages. The librarian helped us track facts about"
+    },
+    {
+      "kind": "paragraph",
+      "id": "p0008",
+      "text": "knights on the Internet. We even found a DVD about building a castle!"
+    },
+    {
+      "kind": "paragraph",
+      "id": "p0009",
+      "text": "Now we want to share the facts with you. So get your notebook, get your backpack, and get ready to gallop across the drawbridge into the time of knights and castles."
+    },
+    {
+      "kind": "paragraph",
+      "id": "p0010",
+      "text": "Jack"
+    },
+    {
+      "kind": "paragraph",
+      "id": "p0011",
+      "text": "Annie"
+    },
+    {
+      "kind": "heading",
+      "text": "## The Middle Ages",
+      "chapter_id": "chapter-003"
+    },
+    {
+      "kind": "paragraph",
+      "id": "p0012",
+      "text": "Imagine that it takes twenty years to build your house. You need thousands of workers to build it. You need hundreds of servants to run it. You need a small army of armored men to protect it."
+    },
+    {
+      "kind": "paragraph",
+      "id": "p0013",
+      "text": "Welcome to the time of knights and castles."
+    },
+    {
+      "kind": "paragraph",
+      "id": "p0014",
+      "text": "We often read about make-believe castles in fairy tales and legends."
+    },
+    {
+      "kind": "paragraph",
+      "id": "p0015",
+      "text": "The real castles that are most like the"
+    },
+    {
+      "kind": "paragraph",
+      "id": "p0016",
+      "text": "ones in fairy tales were built in Europe during the Middle Ages."
+    },
+    {
+      "kind": "paragraph",
+      "id": "p0017",
+      "text": "The Middle Ages began about 450 A.D. They lasted for over 1,000 years. This period of history is called the Middle Ages because it was between ancient times and modern times. It is sometimes also called the medieval era. Medieval is Latin for “middle age.”"
+    },
+    {
+      "kind": "paragraph",
+      "id": "p0018",
+      "text": "The Middle Ages were a time of great change in Europe. More people learned to read and write. The first universities were built. New kinds of painting and poetry were created."
+    },
+    {
+      "kind": "paragraph",
+      "id": "p0019",
+      "text": "The Middle Ages were also a time of war and fighting. People fought with each other about religion. They fought about who should marry who. Mostly, they fought about land."
+    },
+    {
+      "kind": "paragraph",
+      "id": "p0020",
+      "text": "Jack: Eyeglasses were invented in the Middle Ages!"
+    },
+    {
+      "kind": "paragraph",
+      "id": "p0021",
+      "text": "Annie: A university is a school of higher learning."
+    },
+    {
+      "kind": "paragraph",
+      "id": "p0022",
+      "text": "During the Middle Ages, nearly all the land in Europe belonged to kings. Each king’s land was called his kingdom."
+    },
+    {
+      "kind": "paragraph",
+      "id": "p0023",
+      "text": "Most kingdoms were too big for a king to defend without help. So a king often turned over pieces of his kingdom to men he trusted. These men were called barons. The pieces of land were called fiefs (FEEFS), or manors."
+    },
+    {
+      "kind": "paragraph",
+      "id": "p0024",
+      "text": "A baron didn’t own his manor. But he ruled over all the people who lived and worked there. And he could build a castle on the manor for himself and his family."
+    },
+    {
+      "kind": "paragraph",
+      "id": "p0025",
+      "text": "In return, a baron swore allegiance to the king. That meant he was willing to die to protect the king and the kingdom."
+    },
+    {
+      "kind": "paragraph",
+      "id": "p0026",
+      "text": "The baron also promised to send soldiers to fight for the kingdom if it were attacked. These soldiers were called knights."
+    },
+    {
+      "kind": "paragraph",
+      "id": "p0027",
+      "text": "Knights swore allegiance to the king and the baron. In return, knights were often given their own manors to rule over."
+    },
+    {
+      "kind": "paragraph",
+      "id": "p0028",
+      "text": "Most of the people who actually worked on the land were called serfs (SURFS). Serfs didn’t rule over anyone."
+    },
+    {
+      "kind": "paragraph",
+      "id": "p0029",
+      "text": "Jack: Some manors were very large. They could include several villages and many farms."
+    },
+    {
+      "kind": "paragraph",
+      "id": "p0030",
+      "text": "Annie: Not all knights got their own manors. Some lived in a lord’s castle."
+    },
+    {
+      "kind": "paragraph",
+      "id": "p0031",
+      "text": "They had almost no rights at all."
+    },
+    {
+      "kind": "paragraph",
+      "id": "p0032",
+      "text": "Serfs were allowed to farm a tiny bit of land. They were allowed to keep some of what they grew to feed their families. They had to give the rest to the lord who ruled over them."
+    },
+    {
+      "kind": "paragraph",
+      "id": "p0033",
+      "text": "In return, most serfs also worked in their lord’s fields. Some worked in his household. Some even helped build the lord’s castle."
+    },
+    {
+      "kind": "paragraph",
+      "id": "p0034",
+      "text": "This system of trading the use of land for loyalty and work during the Middle Ages is called the feudal (FYOO-dul) system."
+    },
+    {
+      "kind": "paragraph",
+      "id": "p0035",
+      "text": "Jack: Anyone who ruled over land and the people on it was called a lord."
+    },
+    {
+      "kind": "paragraph",
+      "id": "p0036",
+      "text": "In the Middle Ages, most rich people were nobles. Nobles came from families that had been wealthy for a long time."
+    },
+    {
+      "kind": "paragraph",
+      "id": "p0037",
+      "text": "Noble women were called ladies. They could also have titles, such as baroness, duchess, or countess."
+    },
+    {
+      "kind": "paragraph",
+      "id": "p0038",
+      "text": "Noble men sometimes had titles such as baron, duke, or count."
+    },
+    {
+      "kind": "paragraph",
+      "id": "p0039",
+      "text": "The feudal system helped keep order during the Middle Ages. But it wasn’t very fair."
+    },
+    {
+      "kind": "paragraph",
+      "id": "p0040",
+      "text": "A person almost always had to be born into the nobility. Even people who worked very hard and became rich could not normally become nobles."
+    },
+    {
+      "kind": "paragraph",
+      "id": "p0041",
+      "text": "Today in Europe, America, and many other places around the world, people are free to try to be almost anything they want."
+    },
+    {
+      "kind": "heading",
+      "text": "## The Age of Castles",
+      "chapter_id": "chapter-004"
+    },
+    {
+      "kind": "paragraph",
+      "id": "p0042",
+      "text": "Castles were an important part of the feudal system. They were built to protect lords and their land from enemy attackers."
+    },
+    {
+      "kind": "paragraph",
+      "id": "p0043",
+      "text": "Nobody knows exactly when the first castle was built. But the busiest time for castle building in Europe began about 1050 and lasted until the end of the Middle Ages."
+    },
+    {
+      "kind": "paragraph",
+      "id": "p0044",
+      "text": "So many castles were built during"
+    },
+    {
+      "kind": "paragraph",
+      "id": "p0045",
+      "text": "Annie: The word castle comes from the Latin word castellum, which means “fortress.”"
+    },
+    {
+      "kind": "paragraph",
+      "id": "p0046",
+      "text": "this period that historians sometimes call it “The Age of Castles.” By the end of the Age of Castles, there were over 12,000 castles in Europe."
+    },
+    {
+      "kind": "paragraph",
+      "id": "p0047",
+      "text": "The First Castles"
+    },
+    {
+      "kind": "paragraph",
+      "id": "p0048",
+      "text": "The first castles looked more like forts in the Old West than castles in fairy tales. They were built out of wood."
+    },
+    {
+      "kind": "paragraph",
+      "id": "p0049",
+      "text": "These castles were usually built on a mound of earth called a motte (MAHT). They had a tower called a keep, a yard called a bailey, and a tall fence called a palisade (PAL-uh-sade)."
+    },
+    {
+      "kind": "paragraph",
+      "id": "p0050",
+      "text": "Jack: A historian is someone who studies and writes about history."
+    },
+    {
+      "kind": "paragraph",
+      "id": "p0051",
+      "text": "Wooden castles could be built very quickly. Some were built in less than a week! But wooden castles didn’t always protect a lord from his enemies."
+    },
+    {
+      "kind": "paragraph",
+      "id": "p0052",
+      "text": "Enemy armies could break through wooden fences. They could burn down wooden buildings."
+    },
+    {
+      "kind": "paragraph",
+      "id": "p0053",
+      "text": "Stone was a much better defense against attack. So by the 1100s, most castles were being built out of stone."
+    },
+    {
+      "kind": "paragraph",
+      "id": "p0054",
+      "text": "Building a Stone Castle"
+    },
+    {
+      "kind": "paragraph",
+      "id": "p0055",
+      "text": "Building a stone castle was a lot more work than building a wooden one."
+    },
+    {
+      "kind": "paragraph",
+      "id": "p0056",
+      "text": "Tons of stone had to be dug out of the ground. There were no bulldozers. All the digging had to be done by hand."
+    },
+    {
+      "kind": "paragraph",
+      "id": "p0057",
+      "text": "The heavy stones had to be pulled on wagons or carried by boat to where the"
+    },
+    {
+      "kind": "paragraph",
+      "id": "p0058",
+      "text": "Annie: This kind of castle is called a motte and bailey castle."
+    },
+    {
+      "kind": "paragraph",
+      "id": "p0059",
+      "text": "castle was being built. Loading and unloading the boats and wagons was a huge job."
+    },
+    {
+      "kind": "paragraph",
+      "id": "p0060",
+      "text": "The actual stonework on the castle was done by men called masons."
+    },
+    {
+      "kind": "paragraph",
+      "id": "p0061",
+      "text": "A master mason worked with the lord to plan the castle. He also made sure all the other castle builders did a good job."
+    },
+    {
+      "kind": "paragraph",
+      "id": "p0062",
+      "text": "Freemasons and rough masons carved the stones and cut them into blocks."
+    },
+    {
+      "kind": "paragraph",
+      "id": "p0063",
+      "text": "Each mason had a special mark that he often carved into the stones he cut. Carving the special mark was like signing a painting."
+    },
+    {
+      "kind": "paragraph",
+      "id": "p0064",
+      "text": "Carpenters did all the woodwork for the castle. As the stone walls got higher and higher, the carpenters built scaffolding (SKA-ful-ding) so the stoneworkers could reach the top."
+    },
+    {
+      "kind": "paragraph",
+      "id": "p0065",
+      "text": "Nails and tools were made by blacksmiths. Blacksmiths also fixed broken tools. They stayed busy because tools broke a lot."
+    },
+    {
+      "kind": "paragraph",
+      "id": "p0066",
+      "text": "The master masons, carpenters, and blacksmiths who worked on a castle were all master craftsmen. They had spent many years learning to do their jobs well."
+    },
+    {
+      "kind": "paragraph",
+      "id": "p0067",
+      "text": "Master craftsmen often had apprentices (uh-PREN-tuh-siz). Apprentices were assistants who were learning to become master craftsmen."
+    },
+    {
+      "kind": "paragraph",
+      "id": "p0068",
+      "text": "The master craftsmen and their apprentices needed lots of help. Most of their helpers were poor people who lived near the castle site."
+    },
+    {
+      "kind": "paragraph",
+      "id": "p0069",
+      "text": "Building a stone castle sometimes took more than twenty years. By the time a castle was finally finished, over a thousand people might have worked on it."
+    },
+    {
+      "kind": "paragraph",
+      "id": "p0070",
+      "text": "1. Become an apprentice to a master craftsman. Run errands and work without pay. Learn skills."
+    },
+    {
+      "kind": "paragraph",
+      "id": "p0071",
+      "text": "2. After about seven years, become a journeyman (JUR-nee-mun). Practice your skills. Work for low pay."
+    },
+    {
+      "kind": "paragraph",
+      "id": "p0072",
+      "text": "3. Make something that shows off your skills (it’s called your masterpiece). Present your masterpiece to a guild. (A guild is a group of master craftsmen who share the same skills.)"
+    },
+    {
+      "kind": "paragraph",
+      "id": "p0073",
+      "text": "4. Congratulations!"
+    },
+    {
+      "kind": "paragraph",
+      "id": "p0074",
+      "text": "Your work has passed the guild’s test!"
+    },
+    {
+      "kind": "paragraph",
+      "id": "p0075",
+      "text": "You can now be a member of the guild and train apprentices of your own!"
+    },
+    {
+      "kind": "heading",
+      "text": "## Protecting the Castle",
+      "chapter_id": "chapter-005"
+    },
+    {
+      "kind": "paragraph",
+      "id": "p0076",
+      "text": "It took a lot longer to build a stone castle than a wooden one. It also cost much more."
+    },
+    {
+      "kind": "paragraph",
+      "id": "p0077",
+      "text": "Most lords thought stone castles were worth the extra time and money. When a stone castle was complete, it was very hard for an enemy to get inside."
+    },
+    {
+      "kind": "paragraph",
+      "id": "p0078",
+      "text": "Stone castles often had towers that reached high above the walls. There were watchmen in the towers. When the watchmen saw an enemy coming, they blew horns to sound an alarm."
+    },
+    {
+      "kind": "paragraph",
+      "id": "p0079",
+      "text": "Sentries (SEN-treez) with bows and arrows stood guard along the tops of all the castle walls. The sentries were protected by stone battlements (BAT-ul-munts). Battlements had gaps called crenels (KREN-ulz) and solid places called merlons (MUR-lunz)."
+    },
+    {
+      "kind": "paragraph",
+      "id": "p0080",
+      "text": "When the sentries heard the watchmen’s alarm, they could shoot arrows at the enemy through the crenels. If the enemy shot back, the sentries could duck behind the merlons."
+    },
+    {
+      "kind": "paragraph",
+      "id": "p0081",
+      "text": "Jack: A sentry is a soldier who keeps watch for enemies."
+    },
+    {
+      "kind": "paragraph",
+      "id": "p0082",
+      "text": "If the enemy got past the tower watchmen, they still had a long way to go to get inside the castle."
+    },
+    {
+      "kind": "paragraph",
+      "id": "p0083",
+      "text": "First they had to go through the barbican (BAR-bih-kon). The barbican was a walled passage that led to the castle gate. There were big doors on each end. If the enemy tried to sneak into the castle, guards could close the doors. The enemy would be trapped!"
+    },
+    {
+      "kind": "paragraph",
+      "id": "p0084",
+      "text": "If the enemy got through the barbican, they then had to cross the moat (MOTE). The moat was a deep, wide ditch that ran all the way around the outside of the castle walls. The moat was usually filled with water."
+    },
+    {
+      "kind": "paragraph",
+      "id": "p0085",
+      "text": "Annie: Yikes! Some moats may even have had crocodiles!"
+    },
+    {
+      "kind": "paragraph",
+      "id": "p0086",
+      "text": "The only way to cross the moat was to go over the drawbridge. The drawbridge worked sort of like a seesaw. When it was lowered, it made a bridge from the barbican to the castle gate. When it was raised, it blocked the gate—and there was no other way across the moat."
+    },
+    {
+      "kind": "paragraph",
+      "id": "p0087",
+      "text": "A sliding door made of iron bars also protected the castle gate. The door was called a portcullis (port-KUL-iss)."
+    },
+    {
+      "kind": "paragraph",
+      "id": "p0088",
+      "text": "Behind the portcullis was a pair of big wooden doors. The doors were very thick. They had strong bolts."
+    },
+    {
+      "kind": "paragraph",
+      "id": "p0089",
+      "text": "When guards at the castle gate heard the alarm, they raised the drawbridge. They lowered the portcullis. They shut the doors behind the portcullis. They locked the bolts on the doors."
+    },
+    {
+      "kind": "paragraph",
+      "id": "p0090",
+      "text": "It was almost impossible for the enemy to get inside the castle!"
+    },
+    {
+      "kind": "paragraph",
+      "id": "p0091",
+      "text": "Jack and Annie: Turn the page to see how all the different parts of a castle fit together."
+    },
+    {
+      "kind": "paragraph",
+      "id": "p0092",
+      "text": "Jack: A castle wasn’t just the building where the lord lived with his family. It was everything that was built to protect the lord and his land."
+    },
+    {
+      "kind": "heading",
+      "text": "## Castle Life",
+      "chapter_id": "chapter-006"
+    },
+    {
+      "kind": "paragraph",
+      "id": "p0093",
+      "text": "A castle wasn’t built just to protect people from their enemies. For the lord and lady of the manor, the castle was also home."
+    },
+    {
+      "kind": "paragraph",
+      "id": "p0094",
+      "text": "A lord and lady usually married at a very young age. Most boys and girls from noble families were married by the time they were fourteen years old."
+    },
+    {
+      "kind": "paragraph",
+      "id": "p0095",
+      "text": "Noble marriages were often arranged by the couple’s parents. Sometimes the bride and groom didn’t even meet each other until their wedding day!"
+    },
+    {
+      "kind": "paragraph",
+      "id": "p0096",
+      "text": "Once they were married, the lord and lady each had many duties."
+    },
+    {
+      "kind": "paragraph",
+      "id": "p0097",
+      "text": "The lord was in charge of the whole manor. He was a general, police chief, and judge all rolled into one. He protected the people who lived on the manor. He also collected taxes from them. He settled arguments and punished criminals."
+    },
+    {
+      "kind": "paragraph",
+      "id": "p0098",
+      "text": "The lady of the manor ran the castle household. She made sure all the servants did their jobs well. She took care of castle business when the lord was away."
+    },
+    {
+      "kind": "paragraph",
+      "id": "p0099",
+      "text": "For fun, lords and ladies often went hunting together. Some also sang and played musical instruments. Many played the game of chess."
+    },
+    {
+      "kind": "paragraph",
+      "id": "p0100",
+      "text": "Annie: Many lords and ladies kept falcons for hunting. The building where the falcons lived was called the mews."
+    },
+    {
+      "kind": "paragraph",
+      "id": "p0101",
+      "text": "The lord and lady’s children were usually sent to live in other castles when they were about seven years old. There they learned manners and school lessons. It was feared their parents would spoil them if they stayed at home."
+    },
+    {
+      "kind": "paragraph",
+      "id": "p0102",
+      "text": "Hundreds of servants lived in a castle. Their job was to keep the lord and lady as"
+    },
+    {
+      "kind": "paragraph",
+      "id": "p0103",
+      "text": "comfortable, safe, and happy as possible."
+    },
+    {
+      "kind": "paragraph",
+      "id": "p0104",
+      "text": "Some servants worked in the kitchen. They roasted meat and baked bread. Other servants washed clothes and swept floors."
+    },
+    {
+      "kind": "paragraph",
+      "id": "p0105",
+      "text": "Special servants helped the lord and lady dress and bathe. It was considered a great honor to be chosen as a personal servant to the lord or lady."
+    },
+    {
+      "kind": "paragraph",
+      "id": "p0106",
+      "text": "Lords and ladies often dressed in very fancy clothes. Ladies almost always wore long dresses. Married women were supposed to keep their hair covered at all times. A lady’s headdress could be huge!"
+    },
+    {
+      "kind": "paragraph",
+      "id": "p0107",
+      "text": "Lords usually wore hose made of wool and shirts made of linen. They often wore tunics (TOO-nicks) over their shirts. They sometimes wore floppy hats with very long tails."
+    },
+    {
+      "kind": "paragraph",
+      "id": "p0108",
+      "text": "Shoes with pointed toes were also popular. Some shoes were so long and pointed that they were twice as long as the wearer’s feet!"
+    },
+    {
+      "kind": "paragraph",
+      "id": "p0109",
+      "text": "The lord and lady did not take baths very often. When they did, their servants filled a giant wooden tub with water heated over a fire. They used soap made from ashes and sheep’s fat."
+    },
+    {
+      "kind": "paragraph",
+      "id": "p0110",
+      "text": "Jack: A tunic is a loose-fitting piece of clothing usually worn over a shirt or blouse."
+    },
+    {
+      "kind": "paragraph",
+      "id": "p0111",
+      "text": "The lord and lady slept in a big bed in the master bedroom of the castle. The bed was usually very fancy, with curtains all around it. When the lord visited other castles, he often took his bed and his bathtub with him!"
+    },
+    {
+      "kind": "paragraph",
+      "id": "p0112",
+      "text": "The Great Hall"
+    },
+    {
+      "kind": "paragraph",
+      "id": "p0113",
+      "text": "The Great Hall was the biggest room in the castle. It was where the lord settled arguments among the people who lived on the manor. It was where he met with"
+    },
+    {
+      "kind": "paragraph",
+      "id": "p0114",
+      "text": "Annie: Beds were high to keep mice out."
+    },
+    {
+      "kind": "paragraph",
+      "id": "p0115",
+      "text": "important visitors. It was also where the lord’s family, his knights, and his guests ate their meals."
+    },
+    {
+      "kind": "paragraph",
+      "id": "p0116",
+      "text": "At mealtimes, the hall was lit by candles and torches. There was often a huge fire blazing at one end of the hall."
+    },
+    {
+      "kind": "paragraph",
+      "id": "p0117",
+      "text": "At the other end of the hall was the high table. The high table was set on a platform. It was where the lord and lady ate their meals. Their food was served on plates made of pewter or silver or gold."
+    },
+    {
+      "kind": "paragraph",
+      "id": "p0118",
+      "text": "Everyone else sat on benches or stools at long wooden tables. There were no plates for them. Their meals were served on thick slices of stale bread. The bread slices were called trenchers (TREN-churz). When the trenchers got too soggy to hold meat,"
+    },
+    {
+      "kind": "paragraph",
+      "id": "p0119",
+      "text": "Jack: Pewter is a metal made of tin mixed with copper and lead."
+    },
+    {
+      "kind": "paragraph",
+      "id": "p0120",
+      "text": "they were given to beggars outside the castle."
+    },
+    {
+      "kind": "paragraph",
+      "id": "p0121",
+      "text": "Table manners were a little different than they are today. There were no forks, so it was all right for people to eat with their fingers. Several people might drink from the same cup. They could throw their scraps on the floor. It was even okay to spit on the floor!"
+    },
+    {
+      "kind": "paragraph",
+      "id": "p0122",
+      "text": "By the end of a meal, the floor of the great hall was really dirty. It was covered with scraps of food, bones, and even droppings from animals. Servants sometimes spread flowers and dried weeds on the floor to cover the bad smells."
+    },
+    {
+      "kind": "paragraph",
+      "id": "p0123",
+      "text": "On holidays and other special occasions, the castle had celebrations called feasts (FEESTS). On feast days, the Great Hall was filled with music. Singers"
+    },
+    {
+      "kind": "paragraph",
+      "id": "p0124",
+      "text": "and musicians performed while the guests ate. Jugglers and jesters also entertained the crowd."
+    },
+    {
+      "kind": "paragraph",
+      "id": "p0125",
+      "text": "Cooks worked night and day preparing fancy dishes for a feast. They might roast peacocks and serve them with all their feathers. They might serve a swan with its beak painted gold."
+    },
+    {
+      "kind": "paragraph",
+      "id": "p0126",
+      "text": "Sometimes a cook would put live birds inside a pie. When the pie was cut open, the birds would fly out!"
+    },
+    {
+      "kind": "paragraph",
+      "id": "p0127",
+      "text": "Annie: A jester was a medieval clown."
+    },
+    {
+      "kind": "paragraph",
+      "id": "p0128",
+      "text": "Jack and Annie: Turn the page to attend a medieval feast."
+    },
+    {
+      "kind": "heading",
+      "text": "## Festivals and Fairs",
+      "chapter_id": "chapter-007"
+    },
+    {
+      "kind": "paragraph",
+      "id": "p0129",
+      "text": "Some of the most exciting events on the manor were religious festivals and trade fairs."
+    },
+    {
+      "kind": "paragraph",
+      "id": "p0130",
+      "text": "Religious festivals took place on holidays, such as Christmas and Easter. There were often feasts in the Great Hall. The lord gave most of the workers on the manor the day off. Townspeople sometimes performed in the villages. They acted out stories from the Bible."
+    },
+    {
+      "kind": "paragraph",
+      "id": "p0131",
+      "text": "Annie: The word holiday comes from the words holy + day."
+    },
+    {
+      "kind": "paragraph",
+      "id": "p0132",
+      "text": "Religious worship was also an important part of everyday life during the Middle Ages."
+    },
+    {
+      "kind": "paragraph",
+      "id": "p0133",
+      "text": "Most castles had their own chapels. The chapel was often the most beautiful room in the castle. Many chapels had stained-glass windows, painted walls, and crosses made of gold."
+    },
+    {
+      "kind": "paragraph",
+      "id": "p0134",
+      "text": "Castles usually had their own priest, too. Each morning, the lord and lady prayed in the chapel with the priest. The priest said a blessing before every meal. He conducted weddings and other religious services."
+    },
+    {
+      "kind": "paragraph",
+      "id": "p0135",
+      "text": "Most lords also built churches for the serfs who lived on their manors."
+    },
+    {
+      "kind": "paragraph",
+      "id": "p0136",
+      "text": "Sometimes the lord and lady of the manor went on a religious pilgrimage (PIL-grim-ij). A pilgrimage is a trip to a holy place. People believed that making a pilgrimage would help them get to heaven when they died."
+    },
+    {
+      "kind": "paragraph",
+      "id": "p0137",
+      "text": "Jack: Kings and noblemen also gave money to build large churches called cathedrals. Some cathedrals were bigger than castles!"
+    },
+    {
+      "kind": "paragraph",
+      "id": "p0138",
+      "text": "Of course, not all gatherings on the manor were religious. There were also market days and trade fairs."
+    },
+    {
+      "kind": "paragraph",
+      "id": "p0139",
+      "text": "Market days usually happened once a week. On market days, farmers and merchants set up stalls outside the castle gate. People on the manor came to buy food, clothes, and other goods."
+    },
+    {
+      "kind": "paragraph",
+      "id": "p0140",
+      "text": "Trade fairs happened once or twice a year. At trade fairs, merchants from around the world came and set up tents. They sold everything, from candles and soaps to fancy daggers and swords. People from nearby villages sold pies and cakes and hot wine. Minstrels walked through the crowd, singing songs. Their songs often told stories of heroes and their adventures. There"
+    },
+    {
+      "kind": "paragraph",
+      "id": "p0141",
+      "text": "Jack: A merchant is a person who buys and sells goods."
+    },
+    {
+      "kind": "paragraph",
+      "id": "p0142",
+      "text": "Annie: A minstrel was a medieval singer and musician."
+    },
+    {
+      "kind": "paragraph",
+      "id": "p0143",
+      "text": "were even trained dogs and bears that would dance for pennies."
+    },
+    {
+      "kind": "paragraph",
+      "id": "p0144",
+      "text": "Everyone on the manor looked forward to market days and trade fairs. On these days, they could take a break from their daily chores. They could shop. And they could gossip and share news with their neighbors and friends."
+    },
+    {
+      "kind": "paragraph",
+      "id": "p0145",
+      "text": "Jack and Annie: Turn the page to visit a medieval trade fair."
+    },
+    {
+      "kind": "heading",
+      "text": "## Knights",
+      "chapter_id": "chapter-008"
+    },
+    {
+      "kind": "paragraph",
+      "id": "p0146",
+      "text": "Medieval minstrels often sang songs that told stories of heroes and their adventures. The heroes were all very brave and bold and fair. The heroes were knights."
+    },
+    {
+      "kind": "paragraph",
+      "id": "p0147",
+      "text": "Knights had different names in different countries. In Spain, they were called caballeros (kab-uh-YER-os). In Germany, they were called Ritters (RIT-urz). In France, they were called chevaliers (shuh-VAL-yayz)."
+    },
+    {
+      "kind": "paragraph",
+      "id": "p0148",
+      "text": "All these words mean the same thing: “horsemen.” Knights were soldiers who fought on horseback."
+    },
+    {
+      "kind": "paragraph",
+      "id": "p0149",
+      "text": "Becoming a Knight"
+    },
+    {
+      "kind": "paragraph",
+      "id": "p0150",
+      "text": "It took years of training to become a knight. It also took a lot of money. Horses and armor were very expensive. So most knights came from wealthy, noble families."
+    },
+    {
+      "kind": "paragraph",
+      "id": "p0151",
+      "text": "A boy who wanted to be a knight started his training when he was about seven years old. At that time, his parents sent him to live in another lord’s castle. He became a page."
+    },
+    {
+      "kind": "paragraph",
+      "id": "p0152",
+      "text": "A page served the lord’s family their meals. He learned manners. He learned battle skills by fighting with wooden swords and riding on wooden horses."
+    },
+    {
+      "kind": "paragraph",
+      "id": "p0153",
+      "text": "Annie: Not fair! Only boys could become knights."
+    },
+    {
+      "kind": "paragraph",
+      "id": "p0154",
+      "text": "When a page was about fourteen, he became a squire (SKWIRE). A squire was an apprentice to a knight."
+    },
+    {
+      "kind": "paragraph",
+      "id": "p0155",
+      "text": "A squire took care of his knight’s horses. He polished his knight’s weapons"
+    },
+    {
+      "kind": "paragraph",
+      "id": "p0156",
+      "text": "Annie: Wow! Jack could be a page!"
+    },
+    {
+      "kind": "paragraph",
+      "id": "p0157",
+      "text": "and armor. If a knight were called to war, his squire went with him."
+    },
+    {
+      "kind": "paragraph",
+      "id": "p0158",
+      "text": "A squire had to be ready to fight beside his knight on the battlefield. So he practiced fighting with real swords and other weapons. Most important, he practiced his horsemanship."
+    },
+    {
+      "kind": "paragraph",
+      "id": "p0159",
+      "text": "A squire had to learn to ride a horse without using his hands. On the battlefield, he would need both hands to hold his weapons and shield."
+    },
+    {
+      "kind": "paragraph",
+      "id": "p0160",
+      "text": "Most squires became knights at about age twenty-one. They were usually knighted at a dubbing ceremony."
+    },
+    {
+      "kind": "paragraph",
+      "id": "p0161",
+      "text": "A squire could be dubbed, or knighted, by his father or by the knight who trained him. A squire from a very important family might even be dubbed by the king himself!"
+    },
+    {
+      "kind": "paragraph",
+      "id": "p0162",
+      "text": "Jack: Horsemanship means “horse-riding skill.”"
+    },
+    {
+      "kind": "paragraph",
+      "id": "p0163",
+      "text": "At the dubbing ceremony, the new knight promised to be brave and loyal. He swore to protect his lord, his king, and his church."
+    },
+    {
+      "kind": "paragraph",
+      "id": "p0164",
+      "text": "The Code of Chivalry"
+    },
+    {
+      "kind": "paragraph",
+      "id": "p0165",
+      "text": "In the later Middle Ages, knights also promised to have good manners."
+    },
+    {
+      "kind": "paragraph",
+      "id": "p0166",
+      "text": "They had to be fair to all people. They had to protect the weak. They had to be generous. They had to honor and respect women."
+    },
+    {
+      "kind": "paragraph",
+      "id": "p0167",
+      "text": "These rules came to be called the Code of Chivalry (SHIV-ul-ree)."
+    },
+    {
+      "kind": "paragraph",
+      "id": "p0168",
+      "text": "Jack: Chivalry comes from the French word cheval, which means “horse.”"
+    },
+    {
+      "kind": "paragraph",
+      "id": "p0169",
+      "text": "In real life, knights could be ruthless and cruel. But the minstrels’ songs of heroes reminded them of the Code of Chivalry and how they had promised to behave."
+    },
+    {
+      "kind": "paragraph",
+      "id": "p0170",
+      "text": "Jack and Annie: Turn the page to read about the most famous knights of all."
+    },
+    {
+      "kind": "paragraph",
+      "id": "p0171",
+      "text": "During the Middle Ages, the most popular stories about knights were tales of King Arthur and his kingdom of Camelot. They were make-believe stories. But they may have been based on a real king who lived in Britain in the sixth century."
+    },
+    {
+      "kind": "paragraph",
+      "id": "p0172",
+      "text": "One of the most famous stories about King Arthur is that of the Sword in the Stone. In the story, the people of Britain find a stone with a sword thrust into it. Writing on the stone says: WHOEVER CAN PULL THE SWORD FROM THIS STONE IS THE TRUE KING OF BRITAIN. A young page named Arthur is the only one who can pull the sword out of the stone."
+    },
+    {
+      "kind": "paragraph",
+      "id": "p0173",
+      "text": "The person who put the sword in the stone was Merlin, a magician. After Arthur is crowned king, Merlin becomes his most trusted adviser. Merlin helps Arthur start the Knights of the Round Table. Arthur’s knights gather at a table that is round so that each knight’s place has the same worth."
+    },
+    {
+      "kind": "paragraph",
+      "id": "p0174",
+      "text": "Two of the most famous Knights of the Round Table are Sir Lancelot (LANS-uh-lot) and Sir Galahad (GAL-uh-had). They both lived by the highest ideals of the Code of Chivalry."
+    },
+    {
+      "kind": "paragraph",
+      "id": "p0175",
+      "text": "Two important women in the stories of King Arthur are Queen Guinevere (GWIN-uh-veer) and Morgan le Fay (MOR-gun luh FAY)."
+    },
+    {
+      "kind": "paragraph",
+      "id": "p0176",
+      "text": "Guinevere is the beautiful wife of King Arthur."
+    },
+    {
+      "kind": "paragraph",
+      "id": "p0177",
+      "text": "Morgan le Fay is the half sister of King Arthur. She learns magic skills from Merlin, such as how to fly and how to change her shape."
+    },
+    {
+      "kind": "heading",
+      "text": "## Armor",
+      "chapter_id": "chapter-009"
+    },
+    {
+      "kind": "paragraph",
+      "id": "p0178",
+      "text": "As part of his dubbing ceremony, a new knight was often given a suit of armor. Armor is metal covering that protected a knight from his enemy’s weapons."
+    },
+    {
+      "kind": "paragraph",
+      "id": "p0179",
+      "text": "Armor was heavy. It was hot. It was hard to put on and take off. But it was the best protection a knight could have when he went into battle."
+    },
+    {
+      "kind": "paragraph",
+      "id": "p0180",
+      "text": "The earliest armor was made of small metal rings all linked together. The linked"
+    },
+    {
+      "kind": "paragraph",
+      "id": "p0181",
+      "text": "rings were called mail. Mail was first popular in the eleventh century."
+    },
+    {
+      "kind": "paragraph",
+      "id": "p0182",
+      "text": "Knights going into battle wore a mail coat called a hauberk (HO-burk)."
+    },
+    {
+      "kind": "paragraph",
+      "id": "p0183",
+      "text": "A hauberk was good protection against the sharp edges of a sword. But a knight could be stabbed through the mail rings with a thin dagger."
+    },
+    {
+      "kind": "paragraph",
+      "id": "p0184",
+      "text": "Jack: This kind of armor is often called chain mail because the rings are linked like a chain."
+    },
+    {
+      "kind": "paragraph",
+      "id": "p0185",
+      "text": "Annie: Hauberks were so heavy that knights who wore them had to wear padded underwear!"
+    },
+    {
+      "kind": "paragraph",
+      "id": "p0186",
+      "text": "He could also be shot with an arrow, or have his bones smashed with a heavy club."
+    },
+    {
+      "kind": "paragraph",
+      "id": "p0187",
+      "text": "To better protect themselves, some knights started strapping steel plates over their mail armor."
+    },
+    {
+      "kind": "paragraph",
+      "id": "p0188",
+      "text": "Annie: A dagger is a short pointed weapon."
+    },
+    {
+      "kind": "paragraph",
+      "id": "p0189",
+      "text": "Steel plates were much better protection than mail rings. By the 1400s, most knights no longer wore mail at all. Instead, they wore steel-plate armor that covered them from head to toe."
+    },
+    {
+      "kind": "paragraph",
+      "id": "p0190",
+      "text": "Helmets"
+    },
+    {
+      "kind": "paragraph",
+      "id": "p0191",
+      "text": "One of the most important pieces of a knight’s armor was his helmet. Like all armor, helmets changed over time. The earliest helmets were simply steel hats with nose guards."
+    },
+    {
+      "kind": "paragraph",
+      "id": "p0192",
+      "text": "Later helmets looked like upside-down buckets with eyeholes. They were called helms."
+    },
+    {
+      "kind": "paragraph",
+      "id": "p0193",
+      "text": "In the fourteenth century, knights began wearing helmets called basinets (bass-uh-NETS). Basinets fit more closely around the knight’s head. Most had visors that moved up and down. That way, the knight could see better when he wasn’t fighting."
+    },
+    {
+      "kind": "paragraph",
+      "id": "p0194",
+      "text": "Tournament helmets were sometimes very fancy—and heavy! Some tournament helmets weighed over forty pounds."
+    },
+    {
+      "kind": "paragraph",
+      "id": "p0195",
+      "text": "There were so many pieces in a full suit of steel armor that it could take over an hour for a knight to get dressed. Knights in full armor even wore steel gloves and steel shoes!"
+    },
+    {
+      "kind": "paragraph",
+      "id": "p0196",
+      "text": "Horses wore armor, too. A horse’s armor was called a bard."
+    },
+    {
+      "kind": "paragraph",
+      "id": "p0197",
+      "text": "Helmets hid knights’ faces. So knights wore big badges to tell each other apart on the battlefield. The badges were called coats of arms."
+    },
+    {
+      "kind": "paragraph",
+      "id": "p0198",
+      "text": "The first knights could choose anything they wanted for their coats of arms. A knight might pick a lion to show bravery, or a tree to show his strength."
+    },
+    {
+      "kind": "paragraph",
+      "id": "p0199",
+      "text": "Eventually, though, there weren’t enough pictures to go around."
+    },
+    {
+      "kind": "paragraph",
+      "id": "p0200",
+      "text": "Strict rules were made about who could use which pictures. There were also rules about how the pictures could be drawn."
+    },
+    {
+      "kind": "paragraph",
+      "id": "p0201",
+      "text": "The person who checked to make sure the rules were being followed was called a herald. The whole system of coats of arms is called heraldry (HERR-ul-dree)."
+    },
+    {
+      "kind": "heading",
+      "text": "## Weapons",
+      "chapter_id": "chapter-010"
+    },
+    {
+      "kind": "paragraph",
+      "id": "p0202",
+      "text": "A knight carried many weapons into battle. His most important weapon was his sword."
+    },
+    {
+      "kind": "paragraph",
+      "id": "p0203",
+      "text": "Early swords were flat and wide. They had two sharp edges. They were called slashing swords."
+    },
+    {
+      "kind": "paragraph",
+      "id": "p0204",
+      "text": "Armor did a good job of protecting knights from the sharp edges of slashing swords. So sword makers started making swords that were longer and more pointed than slashing swords. These swords were"
+    },
+    {
+      "kind": "paragraph",
+      "id": "p0205",
+      "text": "called thrusting swords. The point of a thrusting sword could fit between the steel plates or through the mail rings of armor."
+    },
+    {
+      "kind": "paragraph",
+      "id": "p0206",
+      "text": "In the later Middle Ages, some knights carried swords that were so long and heavy they couldn’t hold them in one hand. These were called hand-and-a-half swords. Hand-and-a-half swords could be nearly as tall as the knights who carried them!"
+    },
+    {
+      "kind": "paragraph",
+      "id": "p0207",
+      "text": "A knight’s lance was nearly as important as his sword. A lance was a very long pole with a sharp steel point on the end."
+    },
+    {
+      "kind": "paragraph",
+      "id": "p0208",
+      "text": "A knight on horseback held his lance in one hand and galloped toward his enemy. When he got close enough, he tried to stab his enemy or knock him off his horse with the lance."
+    },
+    {
+      "kind": "paragraph",
+      "id": "p0209",
+      "text": "Annie: Yikes! Sometimes a whole line of knights charged an enemy with their lances."
+    },
+    {
+      "kind": "paragraph",
+      "id": "p0210",
+      "text": "Knights had plenty of other weapons, too. A flail was an iron ball and chain attached to a handle. The ball was covered with sharp spikes. A mace was a big club with a heavy steel head. A blow from a flail or a mace could crush a knight’s helmet—and the knight’s head inside!"
+    },
+    {
+      "kind": "paragraph",
+      "id": "p0211",
+      "text": "Knights also fought with battle-axes and war hammers. Battle-axes had short handles and broad, sharp blades. A war hammer was like a big hammer, a club, and a knife all in one."
+    },
+    {
+      "kind": "paragraph",
+      "id": "p0212",
+      "text": "Along with their weapons, early knights also carried very large shields. The shields helped protect them against the weapons of their enemies."
+    },
+    {
+      "kind": "paragraph",
+      "id": "p0213",
+      "text": "As armor got better, the shields got smaller. By the late 1400s, most knights did not carry shields into battle at all. They only carried them in special contests."
+    },
+    {
+      "kind": "paragraph",
+      "id": "p0214",
+      "text": "These contests were often the biggest events of the year."
+    },
+    {
+      "kind": "paragraph",
+      "id": "p0215",
+      "text": "They were called tournaments."
+    },
+    {
+      "kind": "paragraph",
+      "id": "p0216",
+      "text": "Jack and Annie: Turn the page to attend a medieval tournament."
+    },
+    {
+      "kind": "paragraph",
+      "id": "p0217",
+      "text": "Tournaments began as practice for war. Knights fought each other in big teams. Their battles were called melees (MAY-layz)."
+    },
+    {
+      "kind": "paragraph",
+      "id": "p0218",
+      "text": "Melees were very confusing. There were"
+    },
+    {
+      "kind": "paragraph",
+      "id": "p0219",
+      "text": "hardly any rules. It was hard to tell which team was winning. So tournaments began to feature two-man contests."
+    },
+    {
+      "kind": "paragraph",
+      "id": "p0220",
+      "text": "The most popular two-man contest was the joust (JOWST). In a joust, two knights tried to knock each other off their horses with lances."
+    },
+    {
+      "kind": "heading",
+      "text": "## Battles and Sieges",
+      "chapter_id": "chapter-011"
+    },
+    {
+      "kind": "paragraph",
+      "id": "p0221",
+      "text": "At tournaments, knights fought for glory and prizes. When they went to war, they fought for their lives."
+    },
+    {
+      "kind": "paragraph",
+      "id": "p0222",
+      "text": "Knights went to war for many reasons. Sometimes they fought to help their king get more land for his kingdom."
+    },
+    {
+      "kind": "paragraph",
+      "id": "p0223",
+      "text": "Sometimes they fought to win back land that had been taken from their lord."
+    },
+    {
+      "kind": "paragraph",
+      "id": "p0224",
+      "text": "Sometimes they traveled thousands of miles to fight wars for their church."
+    }
+  ],
+  "chapters": [
+    {
+      "id": "chapter-001",
+      "title": "A Note from Mary Pope Osborne",
+      "paragraphs": [
+        {
+          "id": "p0001",
+          "text": "When I write Magic Tree House® adventures, I love including facts about the times and places Jack and Annie visit. But when readers finish these adventures, I want them to learn even more. So that’s why we write a series of nonfiction books that are companions to the fiction titles in the Magic Tree House® series. We call these books Fact Trackers because we love to track the facts! Whether we’re researching dinosaurs, pyramids, Pilgrims, sea monsters, or cobras, we’re always amazed at how wondrous and surprising the real world is. We want you to experience the same wonder we do—so get out your pencils and notebooks and hit the trail with us. You can be a Magic Tree House® Fact Tracker, too!"
+        },
+        {
+          "id": "p0002",
+          "text": "Mary Pope Osborne [signature]"
+        }
+      ]
+    },
+    {
+      "id": "chapter-002",
+      "title": "Dear Readers",
+      "paragraphs": [
+        {
+          "id": "p0003",
+          "text": "Dear Readers,"
+        },
+        {
+          "id": "p0004",
+          "text": "Our adventures in the magic tree house always make us want to know more about the places we visit."
+        },
+        {
+          "id": "p0005",
+          "text": "When we got back from the time of knights and castles in The Knight at Dawn, we wanted to know more about dungeons. We wanted to know more about armor. We wanted to know more about what goes on inside a castle."
+        },
+        {
+          "id": "p0006",
+          "text": "To find out, we had to be fact trackers!"
+        },
+        {
+          "id": "p0007",
+          "text": "We went to the library. We found pictures of famous castles in the encyclopedia. We checked out books about the Middle Ages. The librarian helped us track facts about"
+        },
+        {
+          "id": "p0008",
+          "text": "knights on the Internet. We even found a DVD about building a castle!"
+        },
+        {
+          "id": "p0009",
+          "text": "Now we want to share the facts with you. So get your notebook, get your backpack, and get ready to gallop across the drawbridge into the time of knights and castles."
+        },
+        {
+          "id": "p0010",
+          "text": "Jack"
+        },
+        {
+          "id": "p0011",
+          "text": "Annie"
+        }
+      ]
+    },
+    {
+      "id": "chapter-003",
+      "title": "The Middle Ages",
+      "paragraphs": [
+        {
+          "id": "p0012",
+          "text": "Imagine that it takes twenty years to build your house. You need thousands of workers to build it. You need hundreds of servants to run it. You need a small army of armored men to protect it."
+        },
+        {
+          "id": "p0013",
+          "text": "Welcome to the time of knights and castles."
+        },
+        {
+          "id": "p0014",
+          "text": "We often read about make-believe castles in fairy tales and legends."
+        },
+        {
+          "id": "p0015",
+          "text": "The real castles that are most like the"
+        },
+        {
+          "id": "p0016",
+          "text": "ones in fairy tales were built in Europe during the Middle Ages."
+        },
+        {
+          "id": "p0017",
+          "text": "The Middle Ages began about 450 A.D. They lasted for over 1,000 years. This period of history is called the Middle Ages because it was between ancient times and modern times. It is sometimes also called the medieval era. Medieval is Latin for “middle age.”"
+        },
+        {
+          "id": "p0018",
+          "text": "The Middle Ages were a time of great change in Europe. More people learned to read and write. The first universities were built. New kinds of painting and poetry were created."
+        },
+        {
+          "id": "p0019",
+          "text": "The Middle Ages were also a time of war and fighting. People fought with each other about religion. They fought about who should marry who. Mostly, they fought about land."
+        },
+        {
+          "id": "p0020",
+          "text": "Jack: Eyeglasses were invented in the Middle Ages!"
+        },
+        {
+          "id": "p0021",
+          "text": "Annie: A university is a school of higher learning."
+        },
+        {
+          "id": "p0022",
+          "text": "During the Middle Ages, nearly all the land in Europe belonged to kings. Each king’s land was called his kingdom."
+        },
+        {
+          "id": "p0023",
+          "text": "Most kingdoms were too big for a king to defend without help. So a king often turned over pieces of his kingdom to men he trusted. These men were called barons. The pieces of land were called fiefs (FEEFS), or manors."
+        },
+        {
+          "id": "p0024",
+          "text": "A baron didn’t own his manor. But he ruled over all the people who lived and worked there. And he could build a castle on the manor for himself and his family."
+        },
+        {
+          "id": "p0025",
+          "text": "In return, a baron swore allegiance to the king. That meant he was willing to die to protect the king and the kingdom."
+        },
+        {
+          "id": "p0026",
+          "text": "The baron also promised to send soldiers to fight for the kingdom if it were attacked. These soldiers were called knights."
+        },
+        {
+          "id": "p0027",
+          "text": "Knights swore allegiance to the king and the baron. In return, knights were often given their own manors to rule over."
+        },
+        {
+          "id": "p0028",
+          "text": "Most of the people who actually worked on the land were called serfs (SURFS). Serfs didn’t rule over anyone."
+        },
+        {
+          "id": "p0029",
+          "text": "Jack: Some manors were very large. They could include several villages and many farms."
+        },
+        {
+          "id": "p0030",
+          "text": "Annie: Not all knights got their own manors. Some lived in a lord’s castle."
+        },
+        {
+          "id": "p0031",
+          "text": "They had almost no rights at all."
+        },
+        {
+          "id": "p0032",
+          "text": "Serfs were allowed to farm a tiny bit of land. They were allowed to keep some of what they grew to feed their families. They had to give the rest to the lord who ruled over them."
+        },
+        {
+          "id": "p0033",
+          "text": "In return, most serfs also worked in their lord’s fields. Some worked in his household. Some even helped build the lord’s castle."
+        },
+        {
+          "id": "p0034",
+          "text": "This system of trading the use of land for loyalty and work during the Middle Ages is called the feudal (FYOO-dul) system."
+        },
+        {
+          "id": "p0035",
+          "text": "Jack: Anyone who ruled over land and the people on it was called a lord."
+        },
+        {
+          "id": "p0036",
+          "text": "In the Middle Ages, most rich people were nobles. Nobles came from families that had been wealthy for a long time."
+        },
+        {
+          "id": "p0037",
+          "text": "Noble women were called ladies. They could also have titles, such as baroness, duchess, or countess."
+        },
+        {
+          "id": "p0038",
+          "text": "Noble men sometimes had titles such as baron, duke, or count."
+        },
+        {
+          "id": "p0039",
+          "text": "The feudal system helped keep order during the Middle Ages. But it wasn’t very fair."
+        },
+        {
+          "id": "p0040",
+          "text": "A person almost always had to be born into the nobility. Even people who worked very hard and became rich could not normally become nobles."
+        },
+        {
+          "id": "p0041",
+          "text": "Today in Europe, America, and many other places around the world, people are free to try to be almost anything they want."
+        }
+      ]
+    },
+    {
+      "id": "chapter-004",
+      "title": "The Age of Castles",
+      "paragraphs": [
+        {
+          "id": "p0042",
+          "text": "Castles were an important part of the feudal system. They were built to protect lords and their land from enemy attackers."
+        },
+        {
+          "id": "p0043",
+          "text": "Nobody knows exactly when the first castle was built. But the busiest time for castle building in Europe began about 1050 and lasted until the end of the Middle Ages."
+        },
+        {
+          "id": "p0044",
+          "text": "So many castles were built during"
+        },
+        {
+          "id": "p0045",
+          "text": "Annie: The word castle comes from the Latin word castellum, which means “fortress.”"
+        },
+        {
+          "id": "p0046",
+          "text": "this period that historians sometimes call it “The Age of Castles.” By the end of the Age of Castles, there were over 12,000 castles in Europe."
+        },
+        {
+          "id": "p0047",
+          "text": "The First Castles"
+        },
+        {
+          "id": "p0048",
+          "text": "The first castles looked more like forts in the Old West than castles in fairy tales. They were built out of wood."
+        },
+        {
+          "id": "p0049",
+          "text": "These castles were usually built on a mound of earth called a motte (MAHT). They had a tower called a keep, a yard called a bailey, and a tall fence called a palisade (PAL-uh-sade)."
+        },
+        {
+          "id": "p0050",
+          "text": "Jack: A historian is someone who studies and writes about history."
+        },
+        {
+          "id": "p0051",
+          "text": "Wooden castles could be built very quickly. Some were built in less than a week! But wooden castles didn’t always protect a lord from his enemies."
+        },
+        {
+          "id": "p0052",
+          "text": "Enemy armies could break through wooden fences. They could burn down wooden buildings."
+        },
+        {
+          "id": "p0053",
+          "text": "Stone was a much better defense against attack. So by the 1100s, most castles were being built out of stone."
+        },
+        {
+          "id": "p0054",
+          "text": "Building a Stone Castle"
+        },
+        {
+          "id": "p0055",
+          "text": "Building a stone castle was a lot more work than building a wooden one."
+        },
+        {
+          "id": "p0056",
+          "text": "Tons of stone had to be dug out of the ground. There were no bulldozers. All the digging had to be done by hand."
+        },
+        {
+          "id": "p0057",
+          "text": "The heavy stones had to be pulled on wagons or carried by boat to where the"
+        },
+        {
+          "id": "p0058",
+          "text": "Annie: This kind of castle is called a motte and bailey castle."
+        },
+        {
+          "id": "p0059",
+          "text": "castle was being built. Loading and unloading the boats and wagons was a huge job."
+        },
+        {
+          "id": "p0060",
+          "text": "The actual stonework on the castle was done by men called masons."
+        },
+        {
+          "id": "p0061",
+          "text": "A master mason worked with the lord to plan the castle. He also made sure all the other castle builders did a good job."
+        },
+        {
+          "id": "p0062",
+          "text": "Freemasons and rough masons carved the stones and cut them into blocks."
+        },
+        {
+          "id": "p0063",
+          "text": "Each mason had a special mark that he often carved into the stones he cut. Carving the special mark was like signing a painting."
+        },
+        {
+          "id": "p0064",
+          "text": "Carpenters did all the woodwork for the castle. As the stone walls got higher and higher, the carpenters built scaffolding (SKA-ful-ding) so the stoneworkers could reach the top."
+        },
+        {
+          "id": "p0065",
+          "text": "Nails and tools were made by blacksmiths. Blacksmiths also fixed broken tools. They stayed busy because tools broke a lot."
+        },
+        {
+          "id": "p0066",
+          "text": "The master masons, carpenters, and blacksmiths who worked on a castle were all master craftsmen. They had spent many years learning to do their jobs well."
+        },
+        {
+          "id": "p0067",
+          "text": "Master craftsmen often had apprentices (uh-PREN-tuh-siz). Apprentices were assistants who were learning to become master craftsmen."
+        },
+        {
+          "id": "p0068",
+          "text": "The master craftsmen and their apprentices needed lots of help. Most of their helpers were poor people who lived near the castle site."
+        },
+        {
+          "id": "p0069",
+          "text": "Building a stone castle sometimes took more than twenty years. By the time a castle was finally finished, over a thousand people might have worked on it."
+        },
+        {
+          "id": "p0070",
+          "text": "1. Become an apprentice to a master craftsman. Run errands and work without pay. Learn skills."
+        },
+        {
+          "id": "p0071",
+          "text": "2. After about seven years, become a journeyman (JUR-nee-mun). Practice your skills. Work for low pay."
+        },
+        {
+          "id": "p0072",
+          "text": "3. Make something that shows off your skills (it’s called your masterpiece). Present your masterpiece to a guild. (A guild is a group of master craftsmen who share the same skills.)"
+        },
+        {
+          "id": "p0073",
+          "text": "4. Congratulations!"
+        },
+        {
+          "id": "p0074",
+          "text": "Your work has passed the guild’s test!"
+        },
+        {
+          "id": "p0075",
+          "text": "You can now be a member of the guild and train apprentices of your own!"
+        }
+      ]
+    },
+    {
+      "id": "chapter-005",
+      "title": "Protecting the Castle",
+      "paragraphs": [
+        {
+          "id": "p0076",
+          "text": "It took a lot longer to build a stone castle than a wooden one. It also cost much more."
+        },
+        {
+          "id": "p0077",
+          "text": "Most lords thought stone castles were worth the extra time and money. When a stone castle was complete, it was very hard for an enemy to get inside."
+        },
+        {
+          "id": "p0078",
+          "text": "Stone castles often had towers that reached high above the walls. There were watchmen in the towers. When the watchmen saw an enemy coming, they blew horns to sound an alarm."
+        },
+        {
+          "id": "p0079",
+          "text": "Sentries (SEN-treez) with bows and arrows stood guard along the tops of all the castle walls. The sentries were protected by stone battlements (BAT-ul-munts). Battlements had gaps called crenels (KREN-ulz) and solid places called merlons (MUR-lunz)."
+        },
+        {
+          "id": "p0080",
+          "text": "When the sentries heard the watchmen’s alarm, they could shoot arrows at the enemy through the crenels. If the enemy shot back, the sentries could duck behind the merlons."
+        },
+        {
+          "id": "p0081",
+          "text": "Jack: A sentry is a soldier who keeps watch for enemies."
+        },
+        {
+          "id": "p0082",
+          "text": "If the enemy got past the tower watchmen, they still had a long way to go to get inside the castle."
+        },
+        {
+          "id": "p0083",
+          "text": "First they had to go through the barbican (BAR-bih-kon). The barbican was a walled passage that led to the castle gate. There were big doors on each end. If the enemy tried to sneak into the castle, guards could close the doors. The enemy would be trapped!"
+        },
+        {
+          "id": "p0084",
+          "text": "If the enemy got through the barbican, they then had to cross the moat (MOTE). The moat was a deep, wide ditch that ran all the way around the outside of the castle walls. The moat was usually filled with water."
+        },
+        {
+          "id": "p0085",
+          "text": "Annie: Yikes! Some moats may even have had crocodiles!"
+        },
+        {
+          "id": "p0086",
+          "text": "The only way to cross the moat was to go over the drawbridge. The drawbridge worked sort of like a seesaw. When it was lowered, it made a bridge from the barbican to the castle gate. When it was raised, it blocked the gate—and there was no other way across the moat."
+        },
+        {
+          "id": "p0087",
+          "text": "A sliding door made of iron bars also protected the castle gate. The door was called a portcullis (port-KUL-iss)."
+        },
+        {
+          "id": "p0088",
+          "text": "Behind the portcullis was a pair of big wooden doors. The doors were very thick. They had strong bolts."
+        },
+        {
+          "id": "p0089",
+          "text": "When guards at the castle gate heard the alarm, they raised the drawbridge. They lowered the portcullis. They shut the doors behind the portcullis. They locked the bolts on the doors."
+        },
+        {
+          "id": "p0090",
+          "text": "It was almost impossible for the enemy to get inside the castle!"
+        },
+        {
+          "id": "p0091",
+          "text": "Jack and Annie: Turn the page to see how all the different parts of a castle fit together."
+        },
+        {
+          "id": "p0092",
+          "text": "Jack: A castle wasn’t just the building where the lord lived with his family. It was everything that was built to protect the lord and his land."
+        }
+      ]
+    },
+    {
+      "id": "chapter-006",
+      "title": "Castle Life",
+      "paragraphs": [
+        {
+          "id": "p0093",
+          "text": "A castle wasn’t built just to protect people from their enemies. For the lord and lady of the manor, the castle was also home."
+        },
+        {
+          "id": "p0094",
+          "text": "A lord and lady usually married at a very young age. Most boys and girls from noble families were married by the time they were fourteen years old."
+        },
+        {
+          "id": "p0095",
+          "text": "Noble marriages were often arranged by the couple’s parents. Sometimes the bride and groom didn’t even meet each other until their wedding day!"
+        },
+        {
+          "id": "p0096",
+          "text": "Once they were married, the lord and lady each had many duties."
+        },
+        {
+          "id": "p0097",
+          "text": "The lord was in charge of the whole manor. He was a general, police chief, and judge all rolled into one. He protected the people who lived on the manor. He also collected taxes from them. He settled arguments and punished criminals."
+        },
+        {
+          "id": "p0098",
+          "text": "The lady of the manor ran the castle household. She made sure all the servants did their jobs well. She took care of castle business when the lord was away."
+        },
+        {
+          "id": "p0099",
+          "text": "For fun, lords and ladies often went hunting together. Some also sang and played musical instruments. Many played the game of chess."
+        },
+        {
+          "id": "p0100",
+          "text": "Annie: Many lords and ladies kept falcons for hunting. The building where the falcons lived was called the mews."
+        },
+        {
+          "id": "p0101",
+          "text": "The lord and lady’s children were usually sent to live in other castles when they were about seven years old. There they learned manners and school lessons. It was feared their parents would spoil them if they stayed at home."
+        },
+        {
+          "id": "p0102",
+          "text": "Hundreds of servants lived in a castle. Their job was to keep the lord and lady as"
+        },
+        {
+          "id": "p0103",
+          "text": "comfortable, safe, and happy as possible."
+        },
+        {
+          "id": "p0104",
+          "text": "Some servants worked in the kitchen. They roasted meat and baked bread. Other servants washed clothes and swept floors."
+        },
+        {
+          "id": "p0105",
+          "text": "Special servants helped the lord and lady dress and bathe. It was considered a great honor to be chosen as a personal servant to the lord or lady."
+        },
+        {
+          "id": "p0106",
+          "text": "Lords and ladies often dressed in very fancy clothes. Ladies almost always wore long dresses. Married women were supposed to keep their hair covered at all times. A lady’s headdress could be huge!"
+        },
+        {
+          "id": "p0107",
+          "text": "Lords usually wore hose made of wool and shirts made of linen. They often wore tunics (TOO-nicks) over their shirts. They sometimes wore floppy hats with very long tails."
+        },
+        {
+          "id": "p0108",
+          "text": "Shoes with pointed toes were also popular. Some shoes were so long and pointed that they were twice as long as the wearer’s feet!"
+        },
+        {
+          "id": "p0109",
+          "text": "The lord and lady did not take baths very often. When they did, their servants filled a giant wooden tub with water heated over a fire. They used soap made from ashes and sheep’s fat."
+        },
+        {
+          "id": "p0110",
+          "text": "Jack: A tunic is a loose-fitting piece of clothing usually worn over a shirt or blouse."
+        },
+        {
+          "id": "p0111",
+          "text": "The lord and lady slept in a big bed in the master bedroom of the castle. The bed was usually very fancy, with curtains all around it. When the lord visited other castles, he often took his bed and his bathtub with him!"
+        },
+        {
+          "id": "p0112",
+          "text": "The Great Hall"
+        },
+        {
+          "id": "p0113",
+          "text": "The Great Hall was the biggest room in the castle. It was where the lord settled arguments among the people who lived on the manor. It was where he met with"
+        },
+        {
+          "id": "p0114",
+          "text": "Annie: Beds were high to keep mice out."
+        },
+        {
+          "id": "p0115",
+          "text": "important visitors. It was also where the lord’s family, his knights, and his guests ate their meals."
+        },
+        {
+          "id": "p0116",
+          "text": "At mealtimes, the hall was lit by candles and torches. There was often a huge fire blazing at one end of the hall."
+        },
+        {
+          "id": "p0117",
+          "text": "At the other end of the hall was the high table. The high table was set on a platform. It was where the lord and lady ate their meals. Their food was served on plates made of pewter or silver or gold."
+        },
+        {
+          "id": "p0118",
+          "text": "Everyone else sat on benches or stools at long wooden tables. There were no plates for them. Their meals were served on thick slices of stale bread. The bread slices were called trenchers (TREN-churz). When the trenchers got too soggy to hold meat,"
+        },
+        {
+          "id": "p0119",
+          "text": "Jack: Pewter is a metal made of tin mixed with copper and lead."
+        },
+        {
+          "id": "p0120",
+          "text": "they were given to beggars outside the castle."
+        },
+        {
+          "id": "p0121",
+          "text": "Table manners were a little different than they are today. There were no forks, so it was all right for people to eat with their fingers. Several people might drink from the same cup. They could throw their scraps on the floor. It was even okay to spit on the floor!"
+        },
+        {
+          "id": "p0122",
+          "text": "By the end of a meal, the floor of the great hall was really dirty. It was covered with scraps of food, bones, and even droppings from animals. Servants sometimes spread flowers and dried weeds on the floor to cover the bad smells."
+        },
+        {
+          "id": "p0123",
+          "text": "On holidays and other special occasions, the castle had celebrations called feasts (FEESTS). On feast days, the Great Hall was filled with music. Singers"
+        },
+        {
+          "id": "p0124",
+          "text": "and musicians performed while the guests ate. Jugglers and jesters also entertained the crowd."
+        },
+        {
+          "id": "p0125",
+          "text": "Cooks worked night and day preparing fancy dishes for a feast. They might roast peacocks and serve them with all their feathers. They might serve a swan with its beak painted gold."
+        },
+        {
+          "id": "p0126",
+          "text": "Sometimes a cook would put live birds inside a pie. When the pie was cut open, the birds would fly out!"
+        },
+        {
+          "id": "p0127",
+          "text": "Annie: A jester was a medieval clown."
+        },
+        {
+          "id": "p0128",
+          "text": "Jack and Annie: Turn the page to attend a medieval feast."
+        }
+      ]
+    },
+    {
+      "id": "chapter-007",
+      "title": "Festivals and Fairs",
+      "paragraphs": [
+        {
+          "id": "p0129",
+          "text": "Some of the most exciting events on the manor were religious festivals and trade fairs."
+        },
+        {
+          "id": "p0130",
+          "text": "Religious festivals took place on holidays, such as Christmas and Easter. There were often feasts in the Great Hall. The lord gave most of the workers on the manor the day off. Townspeople sometimes performed in the villages. They acted out stories from the Bible."
+        },
+        {
+          "id": "p0131",
+          "text": "Annie: The word holiday comes from the words holy + day."
+        },
+        {
+          "id": "p0132",
+          "text": "Religious worship was also an important part of everyday life during the Middle Ages."
+        },
+        {
+          "id": "p0133",
+          "text": "Most castles had their own chapels. The chapel was often the most beautiful room in the castle. Many chapels had stained-glass windows, painted walls, and crosses made of gold."
+        },
+        {
+          "id": "p0134",
+          "text": "Castles usually had their own priest, too. Each morning, the lord and lady prayed in the chapel with the priest. The priest said a blessing before every meal. He conducted weddings and other religious services."
+        },
+        {
+          "id": "p0135",
+          "text": "Most lords also built churches for the serfs who lived on their manors."
+        },
+        {
+          "id": "p0136",
+          "text": "Sometimes the lord and lady of the manor went on a religious pilgrimage (PIL-grim-ij). A pilgrimage is a trip to a holy place. People believed that making a pilgrimage would help them get to heaven when they died."
+        },
+        {
+          "id": "p0137",
+          "text": "Jack: Kings and noblemen also gave money to build large churches called cathedrals. Some cathedrals were bigger than castles!"
+        },
+        {
+          "id": "p0138",
+          "text": "Of course, not all gatherings on the manor were religious. There were also market days and trade fairs."
+        },
+        {
+          "id": "p0139",
+          "text": "Market days usually happened once a week. On market days, farmers and merchants set up stalls outside the castle gate. People on the manor came to buy food, clothes, and other goods."
+        },
+        {
+          "id": "p0140",
+          "text": "Trade fairs happened once or twice a year. At trade fairs, merchants from around the world came and set up tents. They sold everything, from candles and soaps to fancy daggers and swords. People from nearby villages sold pies and cakes and hot wine. Minstrels walked through the crowd, singing songs. Their songs often told stories of heroes and their adventures. There"
+        },
+        {
+          "id": "p0141",
+          "text": "Jack: A merchant is a person who buys and sells goods."
+        },
+        {
+          "id": "p0142",
+          "text": "Annie: A minstrel was a medieval singer and musician."
+        },
+        {
+          "id": "p0143",
+          "text": "were even trained dogs and bears that would dance for pennies."
+        },
+        {
+          "id": "p0144",
+          "text": "Everyone on the manor looked forward to market days and trade fairs. On these days, they could take a break from their daily chores. They could shop. And they could gossip and share news with their neighbors and friends."
+        },
+        {
+          "id": "p0145",
+          "text": "Jack and Annie: Turn the page to visit a medieval trade fair."
+        }
+      ]
+    },
+    {
+      "id": "chapter-008",
+      "title": "Knights",
+      "paragraphs": [
+        {
+          "id": "p0146",
+          "text": "Medieval minstrels often sang songs that told stories of heroes and their adventures. The heroes were all very brave and bold and fair. The heroes were knights."
+        },
+        {
+          "id": "p0147",
+          "text": "Knights had different names in different countries. In Spain, they were called caballeros (kab-uh-YER-os). In Germany, they were called Ritters (RIT-urz). In France, they were called chevaliers (shuh-VAL-yayz)."
+        },
+        {
+          "id": "p0148",
+          "text": "All these words mean the same thing: “horsemen.” Knights were soldiers who fought on horseback."
+        },
+        {
+          "id": "p0149",
+          "text": "Becoming a Knight"
+        },
+        {
+          "id": "p0150",
+          "text": "It took years of training to become a knight. It also took a lot of money. Horses and armor were very expensive. So most knights came from wealthy, noble families."
+        },
+        {
+          "id": "p0151",
+          "text": "A boy who wanted to be a knight started his training when he was about seven years old. At that time, his parents sent him to live in another lord’s castle. He became a page."
+        },
+        {
+          "id": "p0152",
+          "text": "A page served the lord’s family their meals. He learned manners. He learned battle skills by fighting with wooden swords and riding on wooden horses."
+        },
+        {
+          "id": "p0153",
+          "text": "Annie: Not fair! Only boys could become knights."
+        },
+        {
+          "id": "p0154",
+          "text": "When a page was about fourteen, he became a squire (SKWIRE). A squire was an apprentice to a knight."
+        },
+        {
+          "id": "p0155",
+          "text": "A squire took care of his knight’s horses. He polished his knight’s weapons"
+        },
+        {
+          "id": "p0156",
+          "text": "Annie: Wow! Jack could be a page!"
+        },
+        {
+          "id": "p0157",
+          "text": "and armor. If a knight were called to war, his squire went with him."
+        },
+        {
+          "id": "p0158",
+          "text": "A squire had to be ready to fight beside his knight on the battlefield. So he practiced fighting with real swords and other weapons. Most important, he practiced his horsemanship."
+        },
+        {
+          "id": "p0159",
+          "text": "A squire had to learn to ride a horse without using his hands. On the battlefield, he would need both hands to hold his weapons and shield."
+        },
+        {
+          "id": "p0160",
+          "text": "Most squires became knights at about age twenty-one. They were usually knighted at a dubbing ceremony."
+        },
+        {
+          "id": "p0161",
+          "text": "A squire could be dubbed, or knighted, by his father or by the knight who trained him. A squire from a very important family might even be dubbed by the king himself!"
+        },
+        {
+          "id": "p0162",
+          "text": "Jack: Horsemanship means “horse-riding skill.”"
+        },
+        {
+          "id": "p0163",
+          "text": "At the dubbing ceremony, the new knight promised to be brave and loyal. He swore to protect his lord, his king, and his church."
+        },
+        {
+          "id": "p0164",
+          "text": "The Code of Chivalry"
+        },
+        {
+          "id": "p0165",
+          "text": "In the later Middle Ages, knights also promised to have good manners."
+        },
+        {
+          "id": "p0166",
+          "text": "They had to be fair to all people. They had to protect the weak. They had to be generous. They had to honor and respect women."
+        },
+        {
+          "id": "p0167",
+          "text": "These rules came to be called the Code of Chivalry (SHIV-ul-ree)."
+        },
+        {
+          "id": "p0168",
+          "text": "Jack: Chivalry comes from the French word cheval, which means “horse.”"
+        },
+        {
+          "id": "p0169",
+          "text": "In real life, knights could be ruthless and cruel. But the minstrels’ songs of heroes reminded them of the Code of Chivalry and how they had promised to behave."
+        },
+        {
+          "id": "p0170",
+          "text": "Jack and Annie: Turn the page to read about the most famous knights of all."
+        },
+        {
+          "id": "p0171",
+          "text": "During the Middle Ages, the most popular stories about knights were tales of King Arthur and his kingdom of Camelot. They were make-believe stories. But they may have been based on a real king who lived in Britain in the sixth century."
+        },
+        {
+          "id": "p0172",
+          "text": "One of the most famous stories about King Arthur is that of the Sword in the Stone. In the story, the people of Britain find a stone with a sword thrust into it. Writing on the stone says: WHOEVER CAN PULL THE SWORD FROM THIS STONE IS THE TRUE KING OF BRITAIN. A young page named Arthur is the only one who can pull the sword out of the stone."
+        },
+        {
+          "id": "p0173",
+          "text": "The person who put the sword in the stone was Merlin, a magician. After Arthur is crowned king, Merlin becomes his most trusted adviser. Merlin helps Arthur start the Knights of the Round Table. Arthur’s knights gather at a table that is round so that each knight’s place has the same worth."
+        },
+        {
+          "id": "p0174",
+          "text": "Two of the most famous Knights of the Round Table are Sir Lancelot (LANS-uh-lot) and Sir Galahad (GAL-uh-had). They both lived by the highest ideals of the Code of Chivalry."
+        },
+        {
+          "id": "p0175",
+          "text": "Two important women in the stories of King Arthur are Queen Guinevere (GWIN-uh-veer) and Morgan le Fay (MOR-gun luh FAY)."
+        },
+        {
+          "id": "p0176",
+          "text": "Guinevere is the beautiful wife of King Arthur."
+        },
+        {
+          "id": "p0177",
+          "text": "Morgan le Fay is the half sister of King Arthur. She learns magic skills from Merlin, such as how to fly and how to change her shape."
+        }
+      ]
+    },
+    {
+      "id": "chapter-009",
+      "title": "Armor",
+      "paragraphs": [
+        {
+          "id": "p0178",
+          "text": "As part of his dubbing ceremony, a new knight was often given a suit of armor. Armor is metal covering that protected a knight from his enemy’s weapons."
+        },
+        {
+          "id": "p0179",
+          "text": "Armor was heavy. It was hot. It was hard to put on and take off. But it was the best protection a knight could have when he went into battle."
+        },
+        {
+          "id": "p0180",
+          "text": "The earliest armor was made of small metal rings all linked together. The linked"
+        },
+        {
+          "id": "p0181",
+          "text": "rings were called mail. Mail was first popular in the eleventh century."
+        },
+        {
+          "id": "p0182",
+          "text": "Knights going into battle wore a mail coat called a hauberk (HO-burk)."
+        },
+        {
+          "id": "p0183",
+          "text": "A hauberk was good protection against the sharp edges of a sword. But a knight could be stabbed through the mail rings with a thin dagger."
+        },
+        {
+          "id": "p0184",
+          "text": "Jack: This kind of armor is often called chain mail because the rings are linked like a chain."
+        },
+        {
+          "id": "p0185",
+          "text": "Annie: Hauberks were so heavy that knights who wore them had to wear padded underwear!"
+        },
+        {
+          "id": "p0186",
+          "text": "He could also be shot with an arrow, or have his bones smashed with a heavy club."
+        },
+        {
+          "id": "p0187",
+          "text": "To better protect themselves, some knights started strapping steel plates over their mail armor."
+        },
+        {
+          "id": "p0188",
+          "text": "Annie: A dagger is a short pointed weapon."
+        },
+        {
+          "id": "p0189",
+          "text": "Steel plates were much better protection than mail rings. By the 1400s, most knights no longer wore mail at all. Instead, they wore steel-plate armor that covered them from head to toe."
+        },
+        {
+          "id": "p0190",
+          "text": "Helmets"
+        },
+        {
+          "id": "p0191",
+          "text": "One of the most important pieces of a knight’s armor was his helmet. Like all armor, helmets changed over time. The earliest helmets were simply steel hats with nose guards."
+        },
+        {
+          "id": "p0192",
+          "text": "Later helmets looked like upside-down buckets with eyeholes. They were called helms."
+        },
+        {
+          "id": "p0193",
+          "text": "In the fourteenth century, knights began wearing helmets called basinets (bass-uh-NETS). Basinets fit more closely around the knight’s head. Most had visors that moved up and down. That way, the knight could see better when he wasn’t fighting."
+        },
+        {
+          "id": "p0194",
+          "text": "Tournament helmets were sometimes very fancy—and heavy! Some tournament helmets weighed over forty pounds."
+        },
+        {
+          "id": "p0195",
+          "text": "There were so many pieces in a full suit of steel armor that it could take over an hour for a knight to get dressed. Knights in full armor even wore steel gloves and steel shoes!"
+        },
+        {
+          "id": "p0196",
+          "text": "Horses wore armor, too. A horse’s armor was called a bard."
+        },
+        {
+          "id": "p0197",
+          "text": "Helmets hid knights’ faces. So knights wore big badges to tell each other apart on the battlefield. The badges were called coats of arms."
+        },
+        {
+          "id": "p0198",
+          "text": "The first knights could choose anything they wanted for their coats of arms. A knight might pick a lion to show bravery, or a tree to show his strength."
+        },
+        {
+          "id": "p0199",
+          "text": "Eventually, though, there weren’t enough pictures to go around."
+        },
+        {
+          "id": "p0200",
+          "text": "Strict rules were made about who could use which pictures. There were also rules about how the pictures could be drawn."
+        },
+        {
+          "id": "p0201",
+          "text": "The person who checked to make sure the rules were being followed was called a herald. The whole system of coats of arms is called heraldry (HERR-ul-dree)."
+        }
+      ]
+    },
+    {
+      "id": "chapter-010",
+      "title": "Weapons",
+      "paragraphs": [
+        {
+          "id": "p0202",
+          "text": "A knight carried many weapons into battle. His most important weapon was his sword."
+        },
+        {
+          "id": "p0203",
+          "text": "Early swords were flat and wide. They had two sharp edges. They were called slashing swords."
+        },
+        {
+          "id": "p0204",
+          "text": "Armor did a good job of protecting knights from the sharp edges of slashing swords. So sword makers started making swords that were longer and more pointed than slashing swords. These swords were"
+        },
+        {
+          "id": "p0205",
+          "text": "called thrusting swords. The point of a thrusting sword could fit between the steel plates or through the mail rings of armor."
+        },
+        {
+          "id": "p0206",
+          "text": "In the later Middle Ages, some knights carried swords that were so long and heavy they couldn’t hold them in one hand. These were called hand-and-a-half swords. Hand-and-a-half swords could be nearly as tall as the knights who carried them!"
+        },
+        {
+          "id": "p0207",
+          "text": "A knight’s lance was nearly as important as his sword. A lance was a very long pole with a sharp steel point on the end."
+        },
+        {
+          "id": "p0208",
+          "text": "A knight on horseback held his lance in one hand and galloped toward his enemy. When he got close enough, he tried to stab his enemy or knock him off his horse with the lance."
+        },
+        {
+          "id": "p0209",
+          "text": "Annie: Yikes! Sometimes a whole line of knights charged an enemy with their lances."
+        },
+        {
+          "id": "p0210",
+          "text": "Knights had plenty of other weapons, too. A flail was an iron ball and chain attached to a handle. The ball was covered with sharp spikes. A mace was a big club with a heavy steel head. A blow from a flail or a mace could crush a knight’s helmet—and the knight’s head inside!"
+        },
+        {
+          "id": "p0211",
+          "text": "Knights also fought with battle-axes and war hammers. Battle-axes had short handles and broad, sharp blades. A war hammer was like a big hammer, a club, and a knife all in one."
+        },
+        {
+          "id": "p0212",
+          "text": "Along with their weapons, early knights also carried very large shields. The shields helped protect them against the weapons of their enemies."
+        },
+        {
+          "id": "p0213",
+          "text": "As armor got better, the shields got smaller. By the late 1400s, most knights did not carry shields into battle at all. They only carried them in special contests."
+        },
+        {
+          "id": "p0214",
+          "text": "These contests were often the biggest events of the year."
+        },
+        {
+          "id": "p0215",
+          "text": "They were called tournaments."
+        },
+        {
+          "id": "p0216",
+          "text": "Jack and Annie: Turn the page to attend a medieval tournament."
+        },
+        {
+          "id": "p0217",
+          "text": "Tournaments began as practice for war. Knights fought each other in big teams. Their battles were called melees (MAY-layz)."
+        },
+        {
+          "id": "p0218",
+          "text": "Melees were very confusing. There were"
+        },
+        {
+          "id": "p0219",
+          "text": "hardly any rules. It was hard to tell which team was winning. So tournaments began to feature two-man contests."
+        },
+        {
+          "id": "p0220",
+          "text": "The most popular two-man contest was the joust (JOWST). In a joust, two knights tried to knock each other off their horses with lances."
+        }
+      ]
+    },
+    {
+      "id": "chapter-011",
+      "title": "Battles and Sieges",
+      "paragraphs": [
+        {
+          "id": "p0221",
+          "text": "At tournaments, knights fought for glory and prizes. When they went to war, they fought for their lives."
+        },
+        {
+          "id": "p0222",
+          "text": "Knights went to war for many reasons. Sometimes they fought to help their king get more land for his kingdom."
+        },
+        {
+          "id": "p0223",
+          "text": "Sometimes they fought to win back land that had been taken from their lord."
+        },
+        {
+          "id": "p0224",
+          "text": "Sometimes they traveled thousands of miles to fight wars for their church."
+        }
+      ]
+    }
+  ]
+}

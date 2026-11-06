@@ -1,0 +1,601 @@
+[
+  {
+    "id": "chapter-003-speech-01",
+    "chapter_id": "chapter-003",
+    "insert_after_paragraph_id": "p0020",
+    "source_paragraph_ids": [
+      "p0020"
+    ],
+    "description": "Eyeglasses were invented in the Middle Ages!",
+    "alt": "Jack says: Eyeglasses were invented in the Middle Ages!",
+    "character_ids": [
+      "jack-v1"
+    ],
+    "state": "modern-explorer",
+    "status": "planned",
+    "speech_text": "Eyeglasses were invented in the Middle Ages!",
+    "speaker": "Jack",
+    "source_page": 14
+  },
+  {
+    "id": "chapter-003-speech-02",
+    "chapter_id": "chapter-003",
+    "insert_after_paragraph_id": "p0021",
+    "source_paragraph_ids": [
+      "p0021"
+    ],
+    "description": "A university is a school of higher learning.",
+    "alt": "Annie says: A university is a school of higher learning.",
+    "character_ids": [
+      "annie-v1"
+    ],
+    "state": "modern-explorer",
+    "status": "planned",
+    "speech_text": "A university is a school of higher learning.",
+    "speaker": "Annie",
+    "source_page": 14
+  },
+  {
+    "id": "chapter-003-speech-03",
+    "chapter_id": "chapter-003",
+    "insert_after_paragraph_id": "p0029",
+    "source_paragraph_ids": [
+      "p0029"
+    ],
+    "description": "Some manors were very large. They could include several villages and many farms.",
+    "alt": "Jack says: Some manors were very large. They could include several villages and many farms.",
+    "character_ids": [
+      "jack-v1"
+    ],
+    "state": "modern-explorer",
+    "status": "planned",
+    "speech_text": "Some manors were very large. They could include several villages and many farms.",
+    "speaker": "Jack",
+    "source_page": 16
+  },
+  {
+    "id": "chapter-003-speech-04",
+    "chapter_id": "chapter-003",
+    "insert_after_paragraph_id": "p0030",
+    "source_paragraph_ids": [
+      "p0030"
+    ],
+    "description": "Not all knights got their own manors. Some lived in a lord’s castle.",
+    "alt": "Annie says: Not all knights got their own manors. Some lived in a lord’s castle.",
+    "character_ids": [
+      "annie-v1"
+    ],
+    "state": "modern-explorer",
+    "status": "planned",
+    "speech_text": "Not all knights got their own manors. Some lived in a lord’s castle.",
+    "speaker": "Annie",
+    "source_page": 16
+  },
+  {
+    "id": "chapter-003-speech-05",
+    "chapter_id": "chapter-003",
+    "insert_after_paragraph_id": "p0035",
+    "source_paragraph_ids": [
+      "p0035"
+    ],
+    "description": "Anyone who ruled over land and the people on it was called a lord.",
+    "alt": "Jack says: Anyone who ruled over land and the people on it was called a lord.",
+    "character_ids": [
+      "jack-v1"
+    ],
+    "state": "modern-explorer",
+    "status": "planned",
+    "speech_text": "Anyone who ruled over land and the people on it was called a lord.",
+    "speaker": "Jack",
+    "source_page": 17
+  },
+  {
+    "id": "chapter-004-speech-01",
+    "chapter_id": "chapter-004",
+    "insert_after_paragraph_id": "p0045",
+    "source_paragraph_ids": [
+      "p0045"
+    ],
+    "description": "The word castle comes from the Latin word castellum, which means “fortress.”",
+    "alt": "Annie says: The word castle comes from the Latin word castellum, which means “fortress.”",
+    "character_ids": [
+      "annie-v1"
+    ],
+    "state": "modern-explorer",
+    "status": "planned",
+    "speech_text": "The word castle comes from the Latin word castellum, which means “fortress.”",
+    "speaker": "Annie",
+    "source_page": 21
+  },
+  {
+    "id": "chapter-004-speech-02",
+    "chapter_id": "chapter-004",
+    "insert_after_paragraph_id": "p0050",
+    "source_paragraph_ids": [
+      "p0050"
+    ],
+    "description": "A historian is someone who studies and writes about history.",
+    "alt": "Jack says: A historian is someone who studies and writes about history.",
+    "character_ids": [
+      "jack-v1"
+    ],
+    "state": "modern-explorer",
+    "status": "planned",
+    "speech_text": "A historian is someone who studies and writes about history.",
+    "speaker": "Jack",
+    "source_page": 22
+  },
+  {
+    "id": "chapter-004-speech-03",
+    "chapter_id": "chapter-004",
+    "insert_after_paragraph_id": "p0058",
+    "source_paragraph_ids": [
+      "p0058"
+    ],
+    "description": "This kind of castle is called a motte and bailey castle.",
+    "alt": "Annie says: This kind of castle is called a motte and bailey castle.",
+    "character_ids": [
+      "annie-v1"
+    ],
+    "state": "modern-explorer",
+    "status": "planned",
+    "speech_text": "This kind of castle is called a motte and bailey castle.",
+    "speaker": "Annie",
+    "source_page": 23
+  },
+  {
+    "id": "chapter-005-speech-01",
+    "chapter_id": "chapter-005",
+    "insert_after_paragraph_id": "p0081",
+    "source_paragraph_ids": [
+      "p0081"
+    ],
+    "description": "A sentry is a soldier who keeps watch for enemies.",
+    "alt": "Jack says: A sentry is a soldier who keeps watch for enemies.",
+    "character_ids": [
+      "jack-v1"
+    ],
+    "state": "modern-explorer",
+    "status": "planned",
+    "speech_text": "A sentry is a soldier who keeps watch for enemies.",
+    "speaker": "Jack",
+    "source_page": 32
+  },
+  {
+    "id": "chapter-005-speech-02",
+    "chapter_id": "chapter-005",
+    "insert_after_paragraph_id": "p0085",
+    "source_paragraph_ids": [
+      "p0085"
+    ],
+    "description": "Yikes! Some moats may even have had crocodiles!",
+    "alt": "Annie says: Yikes! Some moats may even have had crocodiles!",
+    "character_ids": [
+      "annie-v1"
+    ],
+    "state": "modern-explorer",
+    "status": "planned",
+    "speech_text": "Yikes! Some moats may even have had crocodiles!",
+    "speaker": "Annie",
+    "source_page": 34
+  },
+  {
+    "id": "chapter-005-speech-03",
+    "chapter_id": "chapter-005",
+    "insert_after_paragraph_id": "p0091",
+    "source_paragraph_ids": [
+      "p0091"
+    ],
+    "description": "Turn the page to see how all the different parts of a castle fit together.",
+    "alt": "Jack and Annie says: Turn the page to see how all the different parts of a castle fit together.",
+    "character_ids": [
+      "jack-v1",
+      "annie-v1"
+    ],
+    "state": "modern-explorer",
+    "status": "planned",
+    "speech_text": "Turn the page to see how all the different parts of a castle fit together.",
+    "speaker": "Jack and Annie",
+    "source_page": 37
+  },
+  {
+    "id": "chapter-005-speech-04",
+    "chapter_id": "chapter-005",
+    "insert_after_paragraph_id": "p0092",
+    "source_paragraph_ids": [
+      "p0092"
+    ],
+    "description": "A castle wasn’t just the building where the lord lived with his family. It was everything that was built to protect the lord and his land.",
+    "alt": "Jack says: A castle wasn’t just the building where the lord lived with his family. It was everything that was built to protect the lord and his land.",
+    "character_ids": [
+      "jack-v1"
+    ],
+    "state": "modern-explorer",
+    "status": "planned",
+    "speech_text": "A castle wasn’t just the building where the lord lived with his family. It was everything that was built to protect the lord and his land.",
+    "speaker": "Jack",
+    "source_page": 39
+  },
+  {
+    "id": "chapter-006-speech-01",
+    "chapter_id": "chapter-006",
+    "insert_after_paragraph_id": "p0100",
+    "source_paragraph_ids": [
+      "p0100"
+    ],
+    "description": "Many lords and ladies kept falcons for hunting. The building where the falcons lived was called the mews.",
+    "alt": "Annie says: Many lords and ladies kept falcons for hunting. The building where the falcons lived was called the mews.",
+    "character_ids": [
+      "annie-v1"
+    ],
+    "state": "modern-explorer",
+    "status": "planned",
+    "speech_text": "Many lords and ladies kept falcons for hunting. The building where the falcons lived was called the mews.",
+    "speaker": "Annie",
+    "source_page": 43
+  },
+  {
+    "id": "chapter-006-speech-02",
+    "chapter_id": "chapter-006",
+    "insert_after_paragraph_id": "p0110",
+    "source_paragraph_ids": [
+      "p0110"
+    ],
+    "description": "A tunic is a loose-fitting piece of clothing usually worn over a shirt or blouse.",
+    "alt": "Jack says: A tunic is a loose-fitting piece of clothing usually worn over a shirt or blouse.",
+    "character_ids": [
+      "jack-v1"
+    ],
+    "state": "modern-explorer",
+    "status": "planned",
+    "speech_text": "A tunic is a loose-fitting piece of clothing usually worn over a shirt or blouse.",
+    "speaker": "Jack",
+    "source_page": 46
+  },
+  {
+    "id": "chapter-006-speech-03",
+    "chapter_id": "chapter-006",
+    "insert_after_paragraph_id": "p0114",
+    "source_paragraph_ids": [
+      "p0114"
+    ],
+    "description": "Beds were high to keep mice out.",
+    "alt": "Annie says: Beds were high to keep mice out.",
+    "character_ids": [
+      "annie-v1"
+    ],
+    "state": "modern-explorer",
+    "status": "planned",
+    "speech_text": "Beds were high to keep mice out.",
+    "speaker": "Annie",
+    "source_page": 48
+  },
+  {
+    "id": "chapter-006-speech-04",
+    "chapter_id": "chapter-006",
+    "insert_after_paragraph_id": "p0119",
+    "source_paragraph_ids": [
+      "p0119"
+    ],
+    "description": "Pewter is a metal made of tin mixed with copper and lead.",
+    "alt": "Jack says: Pewter is a metal made of tin mixed with copper and lead.",
+    "character_ids": [
+      "jack-v1"
+    ],
+    "state": "modern-explorer",
+    "status": "planned",
+    "speech_text": "Pewter is a metal made of tin mixed with copper and lead.",
+    "speaker": "Jack",
+    "source_page": 49
+  },
+  {
+    "id": "chapter-006-speech-05",
+    "chapter_id": "chapter-006",
+    "insert_after_paragraph_id": "p0127",
+    "source_paragraph_ids": [
+      "p0127"
+    ],
+    "description": "A jester was a medieval clown.",
+    "alt": "Annie says: A jester was a medieval clown.",
+    "character_ids": [
+      "annie-v1"
+    ],
+    "state": "modern-explorer",
+    "status": "planned",
+    "speech_text": "A jester was a medieval clown.",
+    "speaker": "Annie",
+    "source_page": 51
+  },
+  {
+    "id": "chapter-006-speech-06",
+    "chapter_id": "chapter-006",
+    "insert_after_paragraph_id": "p0128",
+    "source_paragraph_ids": [
+      "p0128"
+    ],
+    "description": "Turn the page to attend a medieval feast.",
+    "alt": "Jack and Annie says: Turn the page to attend a medieval feast.",
+    "character_ids": [
+      "jack-v1",
+      "annie-v1"
+    ],
+    "state": "modern-explorer",
+    "status": "planned",
+    "speech_text": "Turn the page to attend a medieval feast.",
+    "speaker": "Jack and Annie",
+    "source_page": 51
+  },
+  {
+    "id": "chapter-007-speech-01",
+    "chapter_id": "chapter-007",
+    "insert_after_paragraph_id": "p0131",
+    "source_paragraph_ids": [
+      "p0131"
+    ],
+    "description": "The word holiday comes from the words holy + day.",
+    "alt": "Annie says: The word holiday comes from the words holy + day.",
+    "character_ids": [
+      "annie-v1"
+    ],
+    "state": "modern-explorer",
+    "status": "planned",
+    "speech_text": "The word holiday comes from the words holy + day.",
+    "speaker": "Annie",
+    "source_page": 55
+  },
+  {
+    "id": "chapter-007-speech-02",
+    "chapter_id": "chapter-007",
+    "insert_after_paragraph_id": "p0137",
+    "source_paragraph_ids": [
+      "p0137"
+    ],
+    "description": "Kings and noblemen also gave money to build large churches called cathedrals. Some cathedrals were bigger than castles!",
+    "alt": "Jack says: Kings and noblemen also gave money to build large churches called cathedrals. Some cathedrals were bigger than castles!",
+    "character_ids": [
+      "jack-v1"
+    ],
+    "state": "modern-explorer",
+    "status": "planned",
+    "speech_text": "Kings and noblemen also gave money to build large churches called cathedrals. Some cathedrals were bigger than castles!",
+    "speaker": "Jack",
+    "source_page": 57
+  },
+  {
+    "id": "chapter-007-speech-03",
+    "chapter_id": "chapter-007",
+    "insert_after_paragraph_id": "p0141",
+    "source_paragraph_ids": [
+      "p0141"
+    ],
+    "description": "A merchant is a person who buys and sells goods.",
+    "alt": "Jack says: A merchant is a person who buys and sells goods.",
+    "character_ids": [
+      "jack-v1"
+    ],
+    "state": "modern-explorer",
+    "status": "planned",
+    "speech_text": "A merchant is a person who buys and sells goods.",
+    "speaker": "Jack",
+    "source_page": 58
+  },
+  {
+    "id": "chapter-007-speech-04",
+    "chapter_id": "chapter-007",
+    "insert_after_paragraph_id": "p0142",
+    "source_paragraph_ids": [
+      "p0142"
+    ],
+    "description": "A minstrel was a medieval singer and musician.",
+    "alt": "Annie says: A minstrel was a medieval singer and musician.",
+    "character_ids": [
+      "annie-v1"
+    ],
+    "state": "modern-explorer",
+    "status": "planned",
+    "speech_text": "A minstrel was a medieval singer and musician.",
+    "speaker": "Annie",
+    "source_page": 58
+  },
+  {
+    "id": "chapter-007-speech-05",
+    "chapter_id": "chapter-007",
+    "insert_after_paragraph_id": "p0145",
+    "source_paragraph_ids": [
+      "p0145"
+    ],
+    "description": "Turn the page to visit a medieval trade fair.",
+    "alt": "Jack and Annie says: Turn the page to visit a medieval trade fair.",
+    "character_ids": [
+      "jack-v1",
+      "annie-v1"
+    ],
+    "state": "modern-explorer",
+    "status": "planned",
+    "speech_text": "Turn the page to visit a medieval trade fair.",
+    "speaker": "Jack and Annie",
+    "source_page": 59
+  },
+  {
+    "id": "chapter-008-speech-01",
+    "chapter_id": "chapter-008",
+    "insert_after_paragraph_id": "p0153",
+    "source_paragraph_ids": [
+      "p0153"
+    ],
+    "description": "Not fair! Only boys could become knights.",
+    "alt": "Annie says: Not fair! Only boys could become knights.",
+    "character_ids": [
+      "annie-v1"
+    ],
+    "state": "modern-explorer",
+    "status": "planned",
+    "speech_text": "Not fair! Only boys could become knights.",
+    "speaker": "Annie",
+    "source_page": 64
+  },
+  {
+    "id": "chapter-008-speech-02",
+    "chapter_id": "chapter-008",
+    "insert_after_paragraph_id": "p0156",
+    "source_paragraph_ids": [
+      "p0156"
+    ],
+    "description": "Wow! Jack could be a page!",
+    "alt": "Annie says: Wow! Jack could be a page!",
+    "character_ids": [
+      "annie-v1"
+    ],
+    "state": "modern-explorer",
+    "status": "planned",
+    "speech_text": "Wow! Jack could be a page!",
+    "speaker": "Annie",
+    "source_page": 65
+  },
+  {
+    "id": "chapter-008-speech-03",
+    "chapter_id": "chapter-008",
+    "insert_after_paragraph_id": "p0162",
+    "source_paragraph_ids": [
+      "p0162"
+    ],
+    "description": "Horsemanship means “horse-riding skill.”",
+    "alt": "Jack says: Horsemanship means “horse-riding skill.”",
+    "character_ids": [
+      "jack-v1"
+    ],
+    "state": "modern-explorer",
+    "status": "planned",
+    "speech_text": "Horsemanship means “horse-riding skill.”",
+    "speaker": "Jack",
+    "source_page": 66
+  },
+  {
+    "id": "chapter-008-speech-04",
+    "chapter_id": "chapter-008",
+    "insert_after_paragraph_id": "p0168",
+    "source_paragraph_ids": [
+      "p0168"
+    ],
+    "description": "Chivalry comes from the French word cheval, which means “horse.”",
+    "alt": "Jack says: Chivalry comes from the French word cheval, which means “horse.”",
+    "character_ids": [
+      "jack-v1"
+    ],
+    "state": "modern-explorer",
+    "status": "planned",
+    "speech_text": "Chivalry comes from the French word cheval, which means “horse.”",
+    "speaker": "Jack",
+    "source_page": 68
+  },
+  {
+    "id": "chapter-008-speech-05",
+    "chapter_id": "chapter-008",
+    "insert_after_paragraph_id": "p0170",
+    "source_paragraph_ids": [
+      "p0170"
+    ],
+    "description": "Turn the page to read about the most famous knights of all.",
+    "alt": "Jack and Annie says: Turn the page to read about the most famous knights of all.",
+    "character_ids": [
+      "jack-v1",
+      "annie-v1"
+    ],
+    "state": "modern-explorer",
+    "status": "planned",
+    "speech_text": "Turn the page to read about the most famous knights of all.",
+    "speaker": "Jack and Annie",
+    "source_page": 69
+  },
+  {
+    "id": "chapter-009-speech-01",
+    "chapter_id": "chapter-009",
+    "insert_after_paragraph_id": "p0184",
+    "source_paragraph_ids": [
+      "p0184"
+    ],
+    "description": "This kind of armor is often called chain mail because the rings are linked like a chain.",
+    "alt": "Jack says: This kind of armor is often called chain mail because the rings are linked like a chain.",
+    "character_ids": [
+      "jack-v1"
+    ],
+    "state": "modern-explorer",
+    "status": "planned",
+    "speech_text": "This kind of armor is often called chain mail because the rings are linked like a chain.",
+    "speaker": "Jack",
+    "source_page": 76
+  },
+  {
+    "id": "chapter-009-speech-02",
+    "chapter_id": "chapter-009",
+    "insert_after_paragraph_id": "p0185",
+    "source_paragraph_ids": [
+      "p0185"
+    ],
+    "description": "Hauberks were so heavy that knights who wore them had to wear padded underwear!",
+    "alt": "Annie says: Hauberks were so heavy that knights who wore them had to wear padded underwear!",
+    "character_ids": [
+      "annie-v1"
+    ],
+    "state": "modern-explorer",
+    "status": "planned",
+    "speech_text": "Hauberks were so heavy that knights who wore them had to wear padded underwear!",
+    "speaker": "Annie",
+    "source_page": 76
+  },
+  {
+    "id": "chapter-009-speech-03",
+    "chapter_id": "chapter-009",
+    "insert_after_paragraph_id": "p0188",
+    "source_paragraph_ids": [
+      "p0188"
+    ],
+    "description": "A dagger is a short pointed weapon.",
+    "alt": "Annie says: A dagger is a short pointed weapon.",
+    "character_ids": [
+      "annie-v1"
+    ],
+    "state": "modern-explorer",
+    "status": "planned",
+    "speech_text": "A dagger is a short pointed weapon.",
+    "speaker": "Annie",
+    "source_page": 77
+  },
+  {
+    "id": "chapter-010-speech-01",
+    "chapter_id": "chapter-010",
+    "insert_after_paragraph_id": "p0209",
+    "source_paragraph_ids": [
+      "p0209"
+    ],
+    "description": "Yikes! Sometimes a whole line of knights charged an enemy with their lances.",
+    "alt": "Annie says: Yikes! Sometimes a whole line of knights charged an enemy with their lances.",
+    "character_ids": [
+      "annie-v1"
+    ],
+    "state": "modern-explorer",
+    "status": "planned",
+    "speech_text": "Yikes! Sometimes a whole line of knights charged an enemy with their lances.",
+    "speaker": "Annie",
+    "source_page": 87
+  },
+  {
+    "id": "chapter-010-speech-02",
+    "chapter_id": "chapter-010",
+    "insert_after_paragraph_id": "p0216",
+    "source_paragraph_ids": [
+      "p0216"
+    ],
+    "description": "Turn the page to attend a medieval tournament.",
+    "alt": "Jack and Annie says: Turn the page to attend a medieval tournament.",
+    "character_ids": [
+      "jack-v1",
+      "annie-v1"
+    ],
+    "state": "modern-explorer",
+    "status": "planned",
+    "speech_text": "Turn the page to attend a medieval tournament.",
+    "speaker": "Jack and Annie",
+    "source_page": 89
+  }
+]

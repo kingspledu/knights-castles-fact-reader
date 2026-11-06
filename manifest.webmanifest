@@ -1,0 +1,36 @@
+{
+  "id": "./",
+  "name": "Knights and Castles",
+  "short_name": "Knights & Castles",
+  "description": "잭과 애니와 함께 읽는 기사와 성의 세계",
+  "lang": "en",
+  "start_url": "./?app=1",
+  "scope": "./",
+  "display": "fullscreen",
+  "display_override": [
+    "fullscreen",
+    "standalone"
+  ],
+  "background_color": "#f7f4e9",
+  "theme_color": "#263e30",
+  "icons": [
+    {
+      "src": "assets/app-icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "assets/app-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "assets/app-icon-maskable.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

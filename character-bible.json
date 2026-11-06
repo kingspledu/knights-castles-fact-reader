@@ -1,0 +1,122 @@
+{
+  "version": "1.0",
+  "status": "generated_and_visually_reviewed",
+  "source_page": "https://kingspledu.github.io/magic-tree-house-reader/",
+  "workflow_source": "https://github.com/kingspledu/illustrated-story-reader-skill",
+  "reference_images": [
+    "references/reader-ch01-sc04.webp",
+    "references/reader-ch02-sc01.webp"
+  ],
+  "style": {
+    "medium": "photorealistic documentary photography",
+    "lighting": "soft natural daylight",
+    "texture": "natural child skin, hair and real fabric",
+    "avoid": [
+      "webtoon anatomy",
+      "CGI",
+      "doll skin",
+      "adult features",
+      "magazine branding"
+    ]
+  },
+  "characters": [
+    {
+      "id": "jack-v1",
+      "name": "Jack",
+      "age": 8,
+      "age_evidence": "adaptation choice for this sheet",
+      "observed": {
+        "hair": "short tousled wavy brown hair",
+        "glasses": "thin round frames",
+        "top": "navy blue crewneck sweatshirt",
+        "bottom": "blue jeans",
+        "backpack": "olive green"
+      },
+      "adaptation_choices": {
+        "height_cm": 130,
+        "eyes": "dark brown",
+        "skin": "light warm natural tone",
+        "shoes": "gray and white sneakers"
+      },
+      "identity_locks": [
+        "child proportions",
+        "round glasses",
+        "short wavy chestnut hair",
+        "slightly taller than Annie"
+      ],
+      "optional_props": [
+        "small plain notebook",
+        "pencil"
+      ],
+      "sheet_id": "jack-sheet-v1",
+      "generated_image": "jack-sheet-v1.png",
+      "native_dimensions": [
+        1199,
+        1312
+      ]
+    },
+    {
+      "id": "annie-v1",
+      "name": "Annie",
+      "age": 7,
+      "age_evidence": "reader chapter 1 describes Jack's seven-year-old sister",
+      "observed": {
+        "hair": "loose shoulder-length wavy brown hair with soft bangs",
+        "glasses": false,
+        "top": "warm yellow short sleeve T-shirt",
+        "bottom": "salmon coral rolled-cuff trousers",
+        "shoes": "white sneakers",
+        "socks": "white"
+      },
+      "adaptation_choices": {
+        "height_cm": 122,
+        "eyes": "dark brown",
+        "skin": "light warm natural tone"
+      },
+      "identity_locks": [
+        "child proportions",
+        "no glasses",
+        "loose shoulder-length hair, not pigtails",
+        "slightly shorter than Jack"
+      ],
+      "optional_props": [
+        "black flashlight"
+      ],
+      "sheet_id": "annie-sheet-v1",
+      "generated_image": "annie-sheet-v1.png",
+      "native_dimensions": [
+        1199,
+        1312
+      ]
+    }
+  ],
+  "sheet_layout": {
+    "per_character": "one six-view contact sheet",
+    "top_row": [
+      "full body front",
+      "full body left profile",
+      "full body back"
+    ],
+    "bottom_row": [
+      "neutral front portrait",
+      "curious three-quarter portrait",
+      "natural happy portrait"
+    ],
+    "background": "warm neutral off-white",
+    "continuity": "same face, age, body and clothing in every panel"
+  },
+  "scope": "character sheets only; no story scene generation or website modification",
+  "speech_balloon_policy": {
+    "render_inside_generated_image": true,
+    "language": "English, verbatim source transcription",
+    "shape": "opaque white speech balloon with dark readable lettering",
+    "speaker_attachment": "tail points unambiguously to the speaking Jack or Annie; shared guide uses shared balloon with two tails",
+    "accuracy": "No paraphrase or invented dialogue. Check all words and speaker attribution visually after generation.",
+    "style": "Photoreal people and environment; speech balloons are intentional graphic overlays within the generated image."
+  },
+  "generation": {
+    "tool": "built-in image_gen",
+    "review": "Both sheets reviewed for six-view continuity, clothing, child proportions, glasses only on Jack, loose shoulder-length hair on Annie. Relative physical height is a design target, not measurable across separate sheets.",
+    "prompt_file": "generation-prompts.json"
+  }
+}
