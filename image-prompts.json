@@ -198,5 +198,25 @@
       "grid_sha256": "9ae86b4c1005cabc0eef6596de9aaa571f6a2baf1e81b75da974def38150055e",
       "review_note": "Reviewed nine panels: meal customs and floor care, traded goods, page service, squire care, four chivalric actions, labelled ages, distinct named knights and legendary magic."
     }
+  ],
+  "mail-plate-visor-motion-armor-dressing-armor-labeled-shield-evolution-melee-joust-war-reasons-heraldry-rules-modern-opportunity": [
+    {
+      "scene_ids": [
+        "mail-plate",
+        "visor-motion",
+        "armor-dressing",
+        "armor-labeled",
+        "shield-evolution",
+        "melee-joust",
+        "war-reasons",
+        "heraldry-rules",
+        "modern-opportunity"
+      ],
+      "grid": "3x3",
+      "prompt": "ONE square EXACT 3x3 grid nine equal square photoreal educational panels with thin white gutters. Documentary materials and real reenactors, no gore, no logos, no speeches. Row-major:\n1 Mail to plate development: three clothed museum mannequins side by side, chainmail hauberk, chainmail with steel plates strapped visibly OVER mail, complete plate armor. Foreground safe demonstration of thin dagger point passing BETWEEN spare mail rings on wooden block, no body. Labels \"Mail\", \"Mail + plates\", \"Plate\".\n2 Visor operation: two IDENTICAL basinet helmets close up side by side, left hinged pointed VISOR DOWN covering face, right SAME visor swung UP at temples exposing face opening, hinge pins visible. Labels \"Down\" and \"Up\".\n3 Armor dressing: fully clothed young adult knight in padded undergarment, two squires attach separate chest plate, arm plate and greave, metal gloves and shoes laid out, many buckles and straps, laborious dressing visible.\n4 Large clear full-body PLATE KNIGHT and armored HORSE on same museum display, numbered leader lines to knight helmet shoulder chest arm glove thigh calf foot and horse head neck chest armor. Short labels \"Helmet\",\"Shoulder\",\"Chest\",\"Arm\",\"Glove\",\"Thigh\",\"Calf\",\"Foot\",\"Horse head\",\"Horse neck\",\"Horse chest\". Accurately placed labels, whole bodies visible.\n5 Shield development: three historical knights left to right, early mail knight with VERY LARGE kite shield, later plated knight with SMALL shield, late full-plate knight with NO shield holding sword in two hands. Labels \"Large shield\",\"Small shield\",\"No shield\".\n6 Tournament comparison two vignettes within panel: upper crowded TEAM MELEE many mounted knights contesting, lower exactly TWO jousting knights charge on OPPOSITE sides of dividing rail. Labels \"Melee\" and \"Joust\". No injuries.\n7 Reasons for war conceptual museum relief display in three clear scenes: crowned king points beyond kingdom boundary on map to expand, lord points to previously lost castle on old/new maps to recover, armoured pilgrims depart toward distant church with cross banner. Labels \"More land\",\"Win land back\",\"For the church\". No invented specific battle.\n8 Heraldry rules: two armored knights faces hidden by helmets hold IDENTICAL SUN shields; medieval herald compares armorial book and redirects one to a DIFFERENT bluebird shield. Distinct duplicate versus unique shield design obvious, no words.\n9 Inherited status versus modern opportunity comparison: left medieval rich merchant with coins excluded from nobles' birth ceremony, right modern ordinary children dress in aspirations as teacher, scientist, builder and elected speaker at podium. Labels \"Birth\" and \"Choice\". Respectful, no logos, no claims of universal equality.\nNine complete square scenes, all objects and contrasts visibly distinguishable.\n",
+      "generated_at": "20261106T112423419712Z",
+      "grid_sha256": "e146fcdc8501a31865072ec2efc46f0117d4389db1df6588d6642505accd34fc",
+      "review_note": "Reviewed nine panels: mail-plus-plates, visor movement, armor fastening, correct named armor parts, shield evolution, melee versus joust, three source war motives, duplicate heraldry and birth versus choice. Source conceptual comparisons treated as educational illustrations."
+    }
   ]
 }

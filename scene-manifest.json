@@ -316,9 +316,17 @@
     "alt": "귀족 태생의 제한과 현대의 열린 선택 비교",
     "character_ids": [],
     "state": "historical-educational",
-    "status": "planned",
+    "status": "integrated",
     "source_page": 19,
-    "coverage_gap": "현대와의 대조가 없음"
+    "coverage_gap": "현대와의 대조가 없음",
+    "web_asset_path": "assets/modern-opportunity.webp",
+    "width": 410,
+    "height": 410,
+    "grid_id": "mail-plate-visor-motion-armor-dressing-armor-labeled-shield-evolution-melee-joust-war-reasons-heraldry-rules-modern-opportunity",
+    "quadrant": 9,
+    "generated_at": "20261106T112423419712Z",
+    "grid_sha256": "e146fcdc8501a31865072ec2efc46f0117d4389db1df6588d6642505accd34fc",
+    "review_note": "Reviewed nine panels: mail-plus-plates, visor movement, armor fastening, correct named armor parts, shield evolution, melee versus joust, three source war motives, duplicate heraldry and birth versus choice. Source conceptual comparisons treated as educational illustrations."
   },
   {
     "id": "chapter-004-speech-01",
@@ -1911,9 +1919,17 @@
     "alt": "사슬갑옷 위에 묶은 판금과 방어 취약성",
     "character_ids": [],
     "state": "historical-educational",
-    "status": "planned",
+    "status": "integrated",
     "source_page": 77,
-    "coverage_gap": "완전 판금과 사슬의 중간 단계 없음"
+    "coverage_gap": "완전 판금과 사슬의 중간 단계 없음",
+    "web_asset_path": "assets/mail-plate.webp",
+    "width": 410,
+    "height": 410,
+    "grid_id": "mail-plate-visor-motion-armor-dressing-armor-labeled-shield-evolution-melee-joust-war-reasons-heraldry-rules-modern-opportunity",
+    "quadrant": 1,
+    "generated_at": "20261106T112423419712Z",
+    "grid_sha256": "e146fcdc8501a31865072ec2efc46f0117d4389db1df6588d6642505accd34fc",
+    "review_note": "Reviewed nine panels: mail-plus-plates, visor movement, armor fastening, correct named armor parts, shield evolution, melee versus joust, three source war motives, duplicate heraldry and birth versus choice. Source conceptual comparisons treated as educational illustrations."
   },
   {
     "id": "chapter-009-speech-03",
@@ -1973,9 +1989,17 @@
     "alt": "바시넷 얼굴 가리개 위아래 작동",
     "character_ids": [],
     "state": "historical-educational",
-    "status": "planned",
+    "status": "integrated",
     "source_page": 79,
-    "coverage_gap": "단일 정지 상태만 있음"
+    "coverage_gap": "단일 정지 상태만 있음",
+    "web_asset_path": "assets/visor-motion.webp",
+    "width": 410,
+    "height": 410,
+    "grid_id": "mail-plate-visor-motion-armor-dressing-armor-labeled-shield-evolution-melee-joust-war-reasons-heraldry-rules-modern-opportunity",
+    "quadrant": 2,
+    "generated_at": "20261106T112423419712Z",
+    "grid_sha256": "e146fcdc8501a31865072ec2efc46f0117d4389db1df6588d6642505accd34fc",
+    "review_note": "Reviewed nine panels: mail-plus-plates, visor movement, armor fastening, correct named armor parts, shield evolution, melee versus joust, three source war motives, duplicate heraldry and birth versus choice. Source conceptual comparisons treated as educational illustrations."
   },
   {
     "id": "armor-dressing",
@@ -1988,9 +2012,17 @@
     "alt": "도움을 받아 여러 갑옷 부위를 착용",
     "character_ids": [],
     "state": "historical-educational",
-    "status": "planned",
+    "status": "integrated",
     "source_page": 80,
-    "coverage_gap": "착용의 수고와 구조가 불명확"
+    "coverage_gap": "착용의 수고와 구조가 불명확",
+    "web_asset_path": "assets/armor-dressing.webp",
+    "width": 410,
+    "height": 410,
+    "grid_id": "mail-plate-visor-motion-armor-dressing-armor-labeled-shield-evolution-melee-joust-war-reasons-heraldry-rules-modern-opportunity",
+    "quadrant": 3,
+    "generated_at": "20261106T112423419712Z",
+    "grid_sha256": "e146fcdc8501a31865072ec2efc46f0117d4389db1df6588d6642505accd34fc",
+    "review_note": "Reviewed nine panels: mail-plus-plates, visor movement, armor fastening, correct named armor parts, shield evolution, melee versus joust, three source war motives, duplicate heraldry and birth versus choice. Source conceptual comparisons treated as educational illustrations."
   },
   {
     "id": "armor-parts",
@@ -2024,9 +2056,17 @@
     "alt": "기사·말 갑옷 각 부위 확대와 명칭",
     "character_ids": [],
     "state": "historical-educational",
-    "status": "planned",
+    "status": "integrated",
     "source_page": 81,
-    "coverage_gap": "전신에서 작은 부위를 구분 못함"
+    "coverage_gap": "전신에서 작은 부위를 구분 못함",
+    "web_asset_path": "assets/armor-labeled.webp",
+    "width": 410,
+    "height": 410,
+    "grid_id": "mail-plate-visor-motion-armor-dressing-armor-labeled-shield-evolution-melee-joust-war-reasons-heraldry-rules-modern-opportunity",
+    "quadrant": 4,
+    "generated_at": "20261106T112423419712Z",
+    "grid_sha256": "e146fcdc8501a31865072ec2efc46f0117d4389db1df6588d6642505accd34fc",
+    "review_note": "Reviewed nine panels: mail-plus-plates, visor movement, armor fastening, correct named armor parts, shield evolution, melee versus joust, three source war motives, duplicate heraldry and birth versus choice. Source conceptual comparisons treated as educational illustrations."
   },
   {
     "id": "heraldry-shields",
@@ -2060,9 +2100,17 @@
     "alt": "얼굴을 가린 투구·중복 문장·문장관 규칙",
     "character_ids": [],
     "state": "historical-educational",
-    "status": "planned",
+    "status": "integrated",
     "source_page": 83,
-    "coverage_gap": "다른 무늬 전시만 있고 규칙 없음"
+    "coverage_gap": "다른 무늬 전시만 있고 규칙 없음",
+    "web_asset_path": "assets/heraldry-rules.webp",
+    "width": 410,
+    "height": 410,
+    "grid_id": "mail-plate-visor-motion-armor-dressing-armor-labeled-shield-evolution-melee-joust-war-reasons-heraldry-rules-modern-opportunity",
+    "quadrant": 8,
+    "generated_at": "20261106T112423419712Z",
+    "grid_sha256": "e146fcdc8501a31865072ec2efc46f0117d4389db1df6588d6642505accd34fc",
+    "review_note": "Reviewed nine panels: mail-plus-plates, visor movement, armor fastening, correct named armor parts, shield evolution, melee versus joust, three source war motives, duplicate heraldry and birth versus choice. Source conceptual comparisons treated as educational illustrations."
   },
   {
     "id": "sword-comparison",
@@ -2143,9 +2191,17 @@
     "alt": "큰 방패→작은 방패→전투 방패의 감소",
     "character_ids": [],
     "state": "historical-educational",
-    "status": "planned",
+    "status": "integrated",
     "source_page": 89,
-    "coverage_gap": "방패 변화 없음"
+    "coverage_gap": "방패 변화 없음",
+    "web_asset_path": "assets/shield-evolution.webp",
+    "width": 410,
+    "height": 410,
+    "grid_id": "mail-plate-visor-motion-armor-dressing-armor-labeled-shield-evolution-melee-joust-war-reasons-heraldry-rules-modern-opportunity",
+    "quadrant": 5,
+    "generated_at": "20261106T112423419712Z",
+    "grid_sha256": "e146fcdc8501a31865072ec2efc46f0117d4389db1df6588d6642505accd34fc",
+    "review_note": "Reviewed nine panels: mail-plus-plates, visor movement, armor fastening, correct named armor parts, shield evolution, melee versus joust, three source war motives, duplicate heraldry and birth versus choice. Source conceptual comparisons treated as educational illustrations."
   },
   {
     "id": "chapter-010-speech-02",
@@ -2185,9 +2241,17 @@
     "alt": "큰 팀 단체전과 2인 마상창시합 비교",
     "character_ids": [],
     "state": "historical-educational",
-    "status": "planned",
+    "status": "integrated",
     "source_page": 91,
-    "coverage_gap": "2인 경기만 있음"
+    "coverage_gap": "2인 경기만 있음",
+    "web_asset_path": "assets/melee-joust.webp",
+    "width": 410,
+    "height": 410,
+    "grid_id": "mail-plate-visor-motion-armor-dressing-armor-labeled-shield-evolution-melee-joust-war-reasons-heraldry-rules-modern-opportunity",
+    "quadrant": 6,
+    "generated_at": "20261106T112423419712Z",
+    "grid_sha256": "e146fcdc8501a31865072ec2efc46f0117d4389db1df6588d6642505accd34fc",
+    "review_note": "Reviewed nine panels: mail-plus-plates, visor movement, armor fastening, correct named armor parts, shield evolution, melee versus joust, three source war motives, duplicate heraldry and birth versus choice. Source conceptual comparisons treated as educational illustrations."
   },
   {
     "id": "castle-siege",
@@ -2221,8 +2285,16 @@
     "alt": "영토 확장·빼앗긴 땅 회복·교회를 위한 원정",
     "character_ids": [],
     "state": "historical-educational",
-    "status": "planned",
+    "status": "integrated",
     "source_page": 93,
-    "coverage_gap": "공성 행동만 있고 전쟁 이유 없음"
+    "coverage_gap": "공성 행동만 있고 전쟁 이유 없음",
+    "web_asset_path": "assets/war-reasons.webp",
+    "width": 410,
+    "height": 410,
+    "grid_id": "mail-plate-visor-motion-armor-dressing-armor-labeled-shield-evolution-melee-joust-war-reasons-heraldry-rules-modern-opportunity",
+    "quadrant": 7,
+    "generated_at": "20261106T112423419712Z",
+    "grid_sha256": "e146fcdc8501a31865072ec2efc46f0117d4389db1df6588d6642505accd34fc",
+    "review_note": "Reviewed nine panels: mail-plus-plates, visor movement, armor fastening, correct named armor parts, shield evolution, melee versus joust, three source war motives, duplicate heraldry and birth versus choice. Source conceptual comparisons treated as educational illustrations."
   }
 ]
