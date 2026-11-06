@@ -1148,9 +1148,17 @@
     "alt": "빵 접시·공동 잔·손으로 먹기·성 밖 빈민에게 전달",
     "character_ids": [],
     "state": "historical-educational",
-    "status": "planned",
+    "status": "integrated",
     "source_page": 50,
-    "coverage_gap": "연회 전체에서 식사 관습 불명확"
+    "coverage_gap": "연회 전체에서 식사 관습 불명확",
+    "web_asset_path": "assets/trenchers.webp",
+    "width": 410,
+    "height": 410,
+    "grid_id": "trenchers-floor-cleaning-market-goods-page-service-squire-duties-chivalry-duties-training-timeline-lancelot-galahad-morgan-magic",
+    "quadrant": 1,
+    "generated_at": "20261106T111435082051Z",
+    "grid_sha256": "9ae86b4c1005cabc0eef6596de9aaa571f6a2baf1e81b75da974def38150055e",
+    "review_note": "Reviewed nine panels: meal customs and floor care, traded goods, page service, squire care, four chivalric actions, labelled ages, distinct named knights and legendary magic."
   },
   {
     "id": "floor-cleaning",
@@ -1163,9 +1171,17 @@
     "alt": "음식 찌꺼기와 동물 흔적·꽃과 마른 풀",
     "character_ids": [],
     "state": "historical-educational",
-    "status": "planned",
+    "status": "integrated",
     "source_page": 50,
-    "coverage_gap": "바닥과 냄새를 덮는 관리 없음"
+    "coverage_gap": "바닥과 냄새를 덮는 관리 없음",
+    "web_asset_path": "assets/floor-cleaning.webp",
+    "width": 410,
+    "height": 410,
+    "grid_id": "trenchers-floor-cleaning-market-goods-page-service-squire-duties-chivalry-duties-training-timeline-lancelot-galahad-morgan-magic",
+    "quadrant": 2,
+    "generated_at": "20261106T111435082051Z",
+    "grid_sha256": "9ae86b4c1005cabc0eef6596de9aaa571f6a2baf1e81b75da974def38150055e",
+    "review_note": "Reviewed nine panels: meal customs and floor care, traded goods, page service, squire care, four chivalric actions, labelled ages, distinct named knights and legendary magic."
   },
   {
     "id": "feast-foods",
@@ -1367,9 +1383,17 @@
     "alt": "촛불·비누·파이·케이크·따뜻한 포도주·무기·수입 천",
     "character_ids": [],
     "state": "historical-educational",
-    "status": "planned",
+    "status": "integrated",
     "source_page": 58,
-    "coverage_gap": "교역 물품 일부 누락"
+    "coverage_gap": "교역 물품 일부 누락",
+    "web_asset_path": "assets/market-goods.webp",
+    "width": 410,
+    "height": 410,
+    "grid_id": "trenchers-floor-cleaning-market-goods-page-service-squire-duties-chivalry-duties-training-timeline-lancelot-galahad-morgan-magic",
+    "quadrant": 3,
+    "generated_at": "20261106T111435082051Z",
+    "grid_sha256": "9ae86b4c1005cabc0eef6596de9aaa571f6a2baf1e81b75da974def38150055e",
+    "review_note": "Reviewed nine panels: meal customs and floor care, traded goods, page service, squire care, four chivalric actions, labelled ages, distinct named knights and legendary magic."
   },
   {
     "id": "chapter-007-speech-03",
@@ -1482,9 +1506,17 @@
     "alt": "시동의 음식 시중·예절·성에서의 교육",
     "character_ids": [],
     "state": "historical-educational",
-    "status": "planned",
+    "status": "integrated",
     "source_page": 64,
-    "coverage_gap": "목마 훈련만 있음"
+    "coverage_gap": "목마 훈련만 있음",
+    "web_asset_path": "assets/page-service.webp",
+    "width": 410,
+    "height": 410,
+    "grid_id": "trenchers-floor-cleaning-market-goods-page-service-squire-duties-chivalry-duties-training-timeline-lancelot-galahad-morgan-magic",
+    "quadrant": 4,
+    "generated_at": "20261106T111435082051Z",
+    "grid_sha256": "9ae86b4c1005cabc0eef6596de9aaa571f6a2baf1e81b75da974def38150055e",
+    "review_note": "Reviewed nine panels: meal customs and floor care, traded goods, page service, squire care, four chivalric actions, labelled ages, distinct named knights and legendary magic."
   },
   {
     "id": "chapter-008-speech-01",
@@ -1523,9 +1555,17 @@
     "alt": "종자의 말 돌보기·무기와 갑옷 닦기",
     "character_ids": [],
     "state": "historical-educational",
-    "status": "planned",
+    "status": "integrated",
     "source_page": 65,
-    "coverage_gap": "승마 외 직무 없음"
+    "coverage_gap": "승마 외 직무 없음",
+    "web_asset_path": "assets/squire-duties.webp",
+    "width": 410,
+    "height": 410,
+    "grid_id": "trenchers-floor-cleaning-market-goods-page-service-squire-duties-chivalry-duties-training-timeline-lancelot-galahad-morgan-magic",
+    "quadrant": 5,
+    "generated_at": "20261106T111435082051Z",
+    "grid_sha256": "9ae86b4c1005cabc0eef6596de9aaa571f6a2baf1e81b75da974def38150055e",
+    "review_note": "Reviewed nine panels: meal customs and floor care, traded goods, page service, squire care, four chivalric actions, labelled ages, distinct named knights and legendary magic."
   },
   {
     "id": "chapter-008-speech-02",
@@ -1585,9 +1625,17 @@
     "alt": "약 7세 시동→14세 종자→21세 기사",
     "character_ids": [],
     "state": "historical-educational",
-    "status": "planned",
+    "status": "integrated",
     "source_page": 66,
-    "coverage_gap": "나이와 순서가 보이지 않음"
+    "coverage_gap": "나이와 순서가 보이지 않음",
+    "web_asset_path": "assets/training-timeline.webp",
+    "width": 410,
+    "height": 410,
+    "grid_id": "trenchers-floor-cleaning-market-goods-page-service-squire-duties-chivalry-duties-training-timeline-lancelot-galahad-morgan-magic",
+    "quadrant": 7,
+    "generated_at": "20261106T111435082051Z",
+    "grid_sha256": "9ae86b4c1005cabc0eef6596de9aaa571f6a2baf1e81b75da974def38150055e",
+    "review_note": "Reviewed nine panels: meal customs and floor care, traded goods, page service, squire care, four chivalric actions, labelled ages, distinct named knights and legendary magic."
   },
   {
     "id": "chapter-008-speech-03",
@@ -1626,9 +1674,17 @@
     "alt": "공정·약자 보호·관대함·여성 존중",
     "character_ids": [],
     "state": "historical-educational",
-    "status": "planned",
+    "status": "integrated",
     "source_page": 68,
-    "coverage_gap": "한 번의 도움만 있고 의무 여러 개 미표현"
+    "coverage_gap": "한 번의 도움만 있고 의무 여러 개 미표현",
+    "web_asset_path": "assets/chivalry-duties.webp",
+    "width": 410,
+    "height": 410,
+    "grid_id": "trenchers-floor-cleaning-market-goods-page-service-squire-duties-chivalry-duties-training-timeline-lancelot-galahad-morgan-magic",
+    "quadrant": 6,
+    "generated_at": "20261106T111435082051Z",
+    "grid_sha256": "9ae86b4c1005cabc0eef6596de9aaa571f6a2baf1e81b75da974def38150055e",
+    "review_note": "Reviewed nine panels: meal customs and floor care, traded goods, page service, squire care, four chivalric actions, labelled ages, distinct named knights and legendary magic."
   },
   {
     "id": "chapter-008-speech-04",
@@ -1736,9 +1792,17 @@
     "alt": "랜슬롯과 갤러해드의 개별 인물 식별",
     "character_ids": [],
     "state": "historical-educational",
-    "status": "planned",
+    "status": "integrated",
     "source_page": 72,
-    "coverage_gap": "원탁 속 두 사람 식별 불가"
+    "coverage_gap": "원탁 속 두 사람 식별 불가",
+    "web_asset_path": "assets/lancelot-galahad.webp",
+    "width": 410,
+    "height": 410,
+    "grid_id": "trenchers-floor-cleaning-market-goods-page-service-squire-duties-chivalry-duties-training-timeline-lancelot-galahad-morgan-magic",
+    "quadrant": 8,
+    "generated_at": "20261106T111435082051Z",
+    "grid_sha256": "9ae86b4c1005cabc0eef6596de9aaa571f6a2baf1e81b75da974def38150055e",
+    "review_note": "Reviewed nine panels: meal customs and floor care, traded goods, page service, squire care, four chivalric actions, labelled ages, distinct named knights and legendary magic."
   },
   {
     "id": "guinevere-morgan",
@@ -1772,9 +1836,17 @@
     "alt": "멀린에게 배우는 모건의 비행·변신 마법",
     "character_ids": [],
     "state": "legendary",
-    "status": "planned",
+    "status": "integrated",
     "source_page": 73,
-    "coverage_gap": "초상만 있고 전설의 행동 없음"
+    "coverage_gap": "초상만 있고 전설의 행동 없음",
+    "web_asset_path": "assets/morgan-magic.webp",
+    "width": 410,
+    "height": 410,
+    "grid_id": "trenchers-floor-cleaning-market-goods-page-service-squire-duties-chivalry-duties-training-timeline-lancelot-galahad-morgan-magic",
+    "quadrant": 9,
+    "generated_at": "20261106T111435082051Z",
+    "grid_sha256": "9ae86b4c1005cabc0eef6596de9aaa571f6a2baf1e81b75da974def38150055e",
+    "review_note": "Reviewed nine panels: meal customs and floor care, traded goods, page service, squire care, four chivalric actions, labelled ages, distinct named knights and legendary magic."
   },
   {
     "id": "chapter-009-speech-01",

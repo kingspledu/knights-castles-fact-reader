@@ -178,5 +178,25 @@
       "grid_sha256": "2fea09181a6b20354555ac1dc750228618e447b40c4ff4fe8fdcf4f60a0a45e5",
       "review_note": "Reviewed labelled crenel versus merlon, trapped barbican passage, clearly vertical raised bridge with chains replacing ambiguous old panel, door bolts, well stables mews walk, child schooling, servant jobs, complete clothing and transportable bed and bath."
     }
+  ],
+  "trenchers-floor-cleaning-market-goods-page-service-squire-duties-chivalry-duties-training-timeline-lancelot-galahad-morgan-magic": [
+    {
+      "scene_ids": [
+        "trenchers",
+        "floor-cleaning",
+        "market-goods",
+        "page-service",
+        "squire-duties",
+        "chivalry-duties",
+        "training-timeline",
+        "lancelot-galahad",
+        "morgan-magic"
+      ],
+      "grid": "3x3",
+      "prompt": "ONE square EXACT 3x3 grid nine equal square photoreal historical educational scenes, authentic medieval objects, natural daylight, fine white gutters. NO modern children, no speech balloons, no logos, no gore. Concrete explanatory close views instead of interchangeable backgrounds. Nine row-major scenes:\n1 TOP LEFT: meal custom detailed coherent foreground: diners eat meat with FINGERS from thick slices of stale BREAD serving as trenchers, two diners SHARE ONE cup, no forks; background through gate servant hands used soggy bread trenchers to poor person outside castle. Bread plate shape clearly visible, no ceramic plates for ordinary diners.\n2 TOP CENTER: after-feast Great Hall FLOOR cleaning, low viewpoint: food scraps, bones and a SMALL amount of animal droppings, servants spread FLOWERS and DRIED WEEDS over dirty floor to mask smell; broom and basket of flowers nearby, not disgusting closeup, no spitting action needed.\n3 TOP RIGHT: medieval MARKET GOODS laid out clearly across neighboring stalls: candles, rough soaps, pies, cakes, steaming hot wine in pot with cups, daggers and swords from Spain, folded luxury cloth from Far East. Merchant handles coins and buyer examines cloth. Small labels ONLY \"Spain\" beside weapons and \"Far East\" beside cloth.\n4 MIDDLE LEFT: young seven-year-old PAGE fully clothed in simple medieval tunic respectfully serves platter of food to lord's family, tutor demonstrates polite bow and table manners, book lesson visible at side table. Page service and education clear, no modern clothing.\n5 MIDDLE CENTER: teenage SQUIRE tending knight's HORSE in stable: brushes horse while saddle and tack nearby; neighboring workbench carries polished sword, helmet and armor, second squire wipes helmet with cloth. Concrete care and polishing duties, no modern tools.\n6 MIDDLE RIGHT: a coherent medieval town square shows knight's code through four distinct interactions: knight treats rich and poor petitioners equally before him, another protects a frail traveler from rowdy figures at a respectful distance, another gives bread to poor family, another courteously helps a noblewoman dismount horse. No violence, no fantasy glow, no text, clearly readable separate actions within one composition.\n7 BOTTOM LEFT: museum training TIMELINE showing THREE full-body medieval figures on successive bases: young child with tray and wooden practice sword, teenage squire brushing horse and holding helmet, young adult armored knight being dubbed. Exact prominent labels under bases: \"Page · about 7\", \"Squire · about 14\", \"Knight · about 21\". Separate people of clearly different ages, no invented intermediate age.\n8 BOTTOM CENTER: two distinct Arthurian KNIGHTS side by side portrait from waist up, Lancelot mature dark-haired moustached face on left, Galahad younger clean-shaven face on right, both modest noble armor and shield, medieval book setting. Small exact nameplates \"Sir Lancelot\" and \"Sir Galahad\". Legend illustration via photoreal reenactment, identity names unambiguous.\n9 BOTTOM RIGHT: clearly LEGENDARY Morgan le Fay learns magic from elderly Merlin: they study open book and practice shape-changing, with same woman's faint secondary form transforming into a bird and hovering above floor, conceptual soft double-exposure only in THIS panel. Morgan jeweled circlet, Merlin long white beard star pointed hat, no horror, show flight AND transformation as legendary rather than historical fact. No text.\nNine complete square panels, real fabric and human proportions, all source concepts visible.\n",
+      "generated_at": "20261106T111435082051Z",
+      "grid_sha256": "9ae86b4c1005cabc0eef6596de9aaa571f6a2baf1e81b75da974def38150055e",
+      "review_note": "Reviewed nine panels: meal customs and floor care, traded goods, page service, squire care, four chivalric actions, labelled ages, distinct named knights and legendary magic."
+    }
   ]
 }
