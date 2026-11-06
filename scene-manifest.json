@@ -304,29 +304,6 @@
     "review_note": "Reviewed nine historical teaching scenes, construction crafts class duties kitchen bathing equipment and feast foods visible. No speech or text added."
   },
   {
-    "id": "noble-birth",
-    "chapter_id": "chapter-003",
-    "insert_after_paragraph_id": "p0041",
-    "source_paragraph_ids": [
-      "p0041"
-    ],
-    "description": "태생에 따른 귀족 신분의 제한",
-    "alt": "태생에 따른 귀족 신분의 제한",
-    "character_ids": [],
-    "state": "historical-educational",
-    "status": "integrated",
-    "source_page": 19,
-    "coverage_gap": "부와 신분의 차이를 설명하지 못함",
-    "web_asset_path": "assets/noble-birth.webp",
-    "width": 410,
-    "height": 410,
-    "grid_id": "era-timeline-literacy-art-allegiance-noble-birth-timber-vulnerability-mason-plan-mason-signature-tool-repair-watchtower-alarm",
-    "quadrant": 4,
-    "generated_at": "20261106T110114152102Z",
-    "grid_sha256": "b3a8ff6e61e53a87d90cb4988ad6e71c93f38a98d003b016435313e81cc32980",
-    "review_note": "Directly inspected all nine panels: readable source milestones, cultural activities, oath, birth and wealth distinction, wood versus stone, planning tools, mason marks, nails and repairs, alarm horn. Timeline models are illustrative examples rather than dated reconstructions."
-  },
-  {
     "id": "modern-opportunity",
     "chapter_id": "chapter-003",
     "insert_after_paragraph_id": "p0041",
@@ -348,6 +325,29 @@
     "generated_at": "20261106T112423419712Z",
     "grid_sha256": "e146fcdc8501a31865072ec2efc46f0117d4389db1df6588d6642505accd34fc",
     "review_note": "Reviewed nine panels: mail-plus-plates, visor movement, armor fastening, correct named armor parts, shield evolution, melee versus joust, three source war motives, duplicate heraldry and birth versus choice. Source conceptual comparisons treated as educational illustrations."
+  },
+  {
+    "id": "noble-birth",
+    "chapter_id": "chapter-003",
+    "insert_after_paragraph_id": "p0041",
+    "source_paragraph_ids": [
+      "p0041"
+    ],
+    "description": "태생에 따른 귀족 신분의 제한",
+    "alt": "태생에 따른 귀족 신분의 제한",
+    "character_ids": [],
+    "state": "historical-educational",
+    "status": "integrated",
+    "source_page": 19,
+    "coverage_gap": "부와 신분의 차이를 설명하지 못함",
+    "web_asset_path": "assets/noble-birth.webp",
+    "width": 410,
+    "height": 410,
+    "grid_id": "era-timeline-literacy-art-allegiance-noble-birth-timber-vulnerability-mason-plan-mason-signature-tool-repair-watchtower-alarm",
+    "quadrant": 4,
+    "generated_at": "20261106T110114152102Z",
+    "grid_sha256": "b3a8ff6e61e53a87d90cb4988ad6e71c93f38a98d003b016435313e81cc32980",
+    "review_note": "Directly inspected all nine panels: readable source milestones, cultural activities, oath, birth and wealth distinction, wood versus stone, planning tools, mason marks, nails and repairs, alarm horn. Timeline models are illustrative examples rather than dated reconstructions."
   },
   {
     "id": "cardiff-reconstruction",
@@ -472,6 +472,29 @@
     "review_note": "Nine panels reviewed; exact full balloon texts visible; castle parts, motte bailey, sentry, moat, mews and tunic match descriptions."
   },
   {
+    "id": "mason-plan",
+    "chapter_id": "chapter-004",
+    "insert_after_paragraph_id": "p0061",
+    "source_paragraph_ids": [
+      "p0061"
+    ],
+    "description": "영주와 수석 석공의 설계·감독",
+    "alt": "영주와 수석 석공의 설계·감독",
+    "character_ids": [],
+    "state": "historical-educational",
+    "status": "integrated",
+    "source_page": 24,
+    "coverage_gap": "현장 작업만 보임",
+    "web_asset_path": "assets/mason-plan.webp",
+    "width": 410,
+    "height": 410,
+    "grid_id": "era-timeline-literacy-art-allegiance-noble-birth-timber-vulnerability-mason-plan-mason-signature-tool-repair-watchtower-alarm",
+    "quadrant": 6,
+    "generated_at": "20261106T110114152102Z",
+    "grid_sha256": "b3a8ff6e61e53a87d90cb4988ad6e71c93f38a98d003b016435313e81cc32980",
+    "review_note": "Directly inspected all nine panels: readable source milestones, cultural activities, oath, birth and wealth distinction, wood versus stone, planning tools, mason marks, nails and repairs, alarm horn. Timeline models are illustrative examples rather than dated reconstructions."
+  },
+  {
     "id": "quarry-transport",
     "chapter_id": "chapter-004",
     "insert_after_paragraph_id": "p0061",
@@ -493,24 +516,24 @@
     "review_note": "Reviewed nine panels: exact tournament balloon; complete weapon silhouettes, four helmets, knight and horse armor, five distinct shield motifs, gate defenses and stone transport. Gate model is a visual overview rather than engineering schematic."
   },
   {
-    "id": "mason-plan",
+    "id": "mason-signature",
     "chapter_id": "chapter-004",
-    "insert_after_paragraph_id": "p0061",
+    "insert_after_paragraph_id": "p0064",
     "source_paragraph_ids": [
-      "p0061"
+      "p0064"
     ],
-    "description": "영주와 수석 석공의 설계·감독",
-    "alt": "영주와 수석 석공의 설계·감독",
+    "description": "돌에 새기는 석공 고유 표식",
+    "alt": "돌에 새기는 석공 고유 표식",
     "character_ids": [],
     "state": "historical-educational",
     "status": "integrated",
-    "source_page": 24,
-    "coverage_gap": "현장 작업만 보임",
-    "web_asset_path": "assets/mason-plan.webp",
+    "source_page": 25,
+    "coverage_gap": "표식이 식별되지 않음",
+    "web_asset_path": "assets/mason-signature.webp",
     "width": 410,
     "height": 410,
     "grid_id": "era-timeline-literacy-art-allegiance-noble-birth-timber-vulnerability-mason-plan-mason-signature-tool-repair-watchtower-alarm",
-    "quadrant": 6,
+    "quadrant": 7,
     "generated_at": "20261106T110114152102Z",
     "grid_sha256": "b3a8ff6e61e53a87d90cb4988ad6e71c93f38a98d003b016435313e81cc32980",
     "review_note": "Directly inspected all nine panels: readable source milestones, cultural activities, oath, birth and wealth distinction, wood versus stone, planning tools, mason marks, nails and repairs, alarm horn. Timeline models are illustrative examples rather than dated reconstructions."
@@ -535,29 +558,6 @@
     "generated_at": "20261106T100527399255Z",
     "grid_sha256": "4ea390dcd14f31e7ca6c104cfa21c75944e15902ef49ca33f61e0507b3a6ece6",
     "review_note": "All nine panels visually inspected; five speech balloons exact and correctly attributed; objects and teaching relationships visible; children match reference sheets."
-  },
-  {
-    "id": "mason-signature",
-    "chapter_id": "chapter-004",
-    "insert_after_paragraph_id": "p0064",
-    "source_paragraph_ids": [
-      "p0064"
-    ],
-    "description": "돌에 새기는 석공 고유 표식",
-    "alt": "돌에 새기는 석공 고유 표식",
-    "character_ids": [],
-    "state": "historical-educational",
-    "status": "integrated",
-    "source_page": 25,
-    "coverage_gap": "표식이 식별되지 않음",
-    "web_asset_path": "assets/mason-signature.webp",
-    "width": 410,
-    "height": 410,
-    "grid_id": "era-timeline-literacy-art-allegiance-noble-birth-timber-vulnerability-mason-plan-mason-signature-tool-repair-watchtower-alarm",
-    "quadrant": 7,
-    "generated_at": "20261106T110114152102Z",
-    "grid_sha256": "b3a8ff6e61e53a87d90cb4988ad6e71c93f38a98d003b016435313e81cc32980",
-    "review_note": "Directly inspected all nine panels: readable source milestones, cultural activities, oath, birth and wealth distinction, wood versus stone, planning tools, mason marks, nails and repairs, alarm horn. Timeline models are illustrative examples rather than dated reconstructions."
   },
   {
     "id": "blacksmith",
@@ -767,27 +767,6 @@
     "review_note": "Reviewed nine panels: exact tournament balloon; complete weapon silhouettes, four helmets, knight and horse armor, five distinct shield motifs, gate defenses and stone transport. Gate model is a visual overview rather than engineering schematic."
   },
   {
-    "id": "drawbridge-operation",
-    "chapter_id": "chapter-005",
-    "insert_after_paragraph_id": "p0090",
-    "source_paragraph_ids": [
-      "p0090"
-    ],
-    "description": "Raised and lowered drawbridge with portcullis",
-    "alt": "Raised and lowered drawbridge with portcullis",
-    "character_ids": [],
-    "state": "historical-educational",
-    "status": "integrated",
-    "web_asset_path": "assets/drawbridge-operation.webp",
-    "width": 410,
-    "height": 410,
-    "grid_id": "battlement-terms-barbican-trap-drawbridge-operation-door-bolts-castle-utilities-children-school-servant-duties-noble-clothes-traveling-household",
-    "quadrant": 3,
-    "generated_at": "20261106T110551757438Z",
-    "grid_sha256": "2fea09181a6b20354555ac1dc750228618e447b40c4ff4fe8fdcf4f60a0a45e5",
-    "review_note": "Reviewed labelled crenel versus merlon, trapped barbican passage, clearly vertical raised bridge with chains replacing ambiguous old panel, door bolts, well stables mews walk, child schooling, servant jobs, complete clothing and transportable bed and bath."
-  },
-  {
     "id": "door-bolts",
     "chapter_id": "chapter-005",
     "insert_after_paragraph_id": "p0090",
@@ -806,6 +785,27 @@
     "height": 410,
     "grid_id": "battlement-terms-barbican-trap-drawbridge-operation-door-bolts-castle-utilities-children-school-servant-duties-noble-clothes-traveling-household",
     "quadrant": 4,
+    "generated_at": "20261106T110551757438Z",
+    "grid_sha256": "2fea09181a6b20354555ac1dc750228618e447b40c4ff4fe8fdcf4f60a0a45e5",
+    "review_note": "Reviewed labelled crenel versus merlon, trapped barbican passage, clearly vertical raised bridge with chains replacing ambiguous old panel, door bolts, well stables mews walk, child schooling, servant jobs, complete clothing and transportable bed and bath."
+  },
+  {
+    "id": "drawbridge-operation",
+    "chapter_id": "chapter-005",
+    "insert_after_paragraph_id": "p0090",
+    "source_paragraph_ids": [
+      "p0090"
+    ],
+    "description": "Raised and lowered drawbridge with portcullis",
+    "alt": "Raised and lowered drawbridge with portcullis",
+    "character_ids": [],
+    "state": "historical-educational",
+    "status": "integrated",
+    "web_asset_path": "assets/drawbridge-operation.webp",
+    "width": 410,
+    "height": 410,
+    "grid_id": "battlement-terms-barbican-trap-drawbridge-operation-door-bolts-castle-utilities-children-school-servant-duties-noble-clothes-traveling-household",
+    "quadrant": 3,
     "generated_at": "20261106T110551757438Z",
     "grid_sha256": "2fea09181a6b20354555ac1dc750228618e447b40c4ff4fe8fdcf4f60a0a45e5",
     "review_note": "Reviewed labelled crenel versus merlon, trapped barbican passage, clearly vertical raised bridge with chains replacing ambiguous old panel, door bolts, well stables mews walk, child schooling, servant jobs, complete clothing and transportable bed and bath."
@@ -838,6 +838,29 @@
     "review_note": "Nine panels reviewed; exact full balloon texts visible; castle parts, motte bailey, sentry, moat, mews and tunic match descriptions."
   },
   {
+    "id": "castle-utilities",
+    "chapter_id": "chapter-005",
+    "insert_after_paragraph_id": "p0092",
+    "source_paragraph_ids": [
+      "p0092"
+    ],
+    "description": "우물·마구간·매 사육장·순찰 통로",
+    "alt": "우물·마구간·매 사육장·순찰 통로",
+    "character_ids": [],
+    "state": "historical-educational",
+    "status": "integrated",
+    "source_page": 39,
+    "coverage_gap": "성 전체 모형에서 작은 시설 식별 불가",
+    "web_asset_path": "assets/castle-utilities.webp",
+    "width": 410,
+    "height": 410,
+    "grid_id": "battlement-terms-barbican-trap-drawbridge-operation-door-bolts-castle-utilities-children-school-servant-duties-noble-clothes-traveling-household",
+    "quadrant": 5,
+    "generated_at": "20261106T110551757438Z",
+    "grid_sha256": "2fea09181a6b20354555ac1dc750228618e447b40c4ff4fe8fdcf4f60a0a45e5",
+    "review_note": "Reviewed labelled crenel versus merlon, trapped barbican passage, clearly vertical raised bridge with chains replacing ambiguous old panel, door bolts, well stables mews walk, child schooling, servant jobs, complete clothing and transportable bed and bath."
+  },
+  {
     "id": "chapter-005-speech-04",
     "chapter_id": "chapter-005",
     "insert_after_paragraph_id": "p0092",
@@ -862,29 +885,6 @@
     "generated_at": "20261106T101255422067Z",
     "grid_sha256": "6a5d28373029281e17c426fa3eff0cf817f11c6afc6b1fcefc9e55b8f5db465a",
     "review_note": "Nine panels reviewed; exact full balloon texts visible; castle parts, motte bailey, sentry, moat, mews and tunic match descriptions."
-  },
-  {
-    "id": "castle-utilities",
-    "chapter_id": "chapter-005",
-    "insert_after_paragraph_id": "p0092",
-    "source_paragraph_ids": [
-      "p0092"
-    ],
-    "description": "우물·마구간·매 사육장·순찰 통로",
-    "alt": "우물·마구간·매 사육장·순찰 통로",
-    "character_ids": [],
-    "state": "historical-educational",
-    "status": "integrated",
-    "source_page": 39,
-    "coverage_gap": "성 전체 모형에서 작은 시설 식별 불가",
-    "web_asset_path": "assets/castle-utilities.webp",
-    "width": 410,
-    "height": 410,
-    "grid_id": "battlement-terms-barbican-trap-drawbridge-operation-door-bolts-castle-utilities-children-school-servant-duties-noble-clothes-traveling-household",
-    "quadrant": 5,
-    "generated_at": "20261106T110551757438Z",
-    "grid_sha256": "2fea09181a6b20354555ac1dc750228618e447b40c4ff4fe8fdcf4f60a0a45e5",
-    "review_note": "Reviewed labelled crenel versus merlon, trapped barbican passage, clearly vertical raised bridge with chains replacing ambiguous old panel, door bolts, well stables mews walk, child schooling, servant jobs, complete clothing and transportable bed and bath."
   },
   {
     "id": "noble-wedding",
@@ -1188,29 +1188,6 @@
     "review_note": "All nine full source speech texts reviewed; high bed and mouse, pewter samples, jester, feast, holiday, cathedral, merchant and minstrel visibly match."
   },
   {
-    "id": "trenchers",
-    "chapter_id": "chapter-006",
-    "insert_after_paragraph_id": "p0123",
-    "source_paragraph_ids": [
-      "p0123"
-    ],
-    "description": "빵 접시·공동 잔·손으로 먹기·성 밖 빈민에게 전달",
-    "alt": "빵 접시·공동 잔·손으로 먹기·성 밖 빈민에게 전달",
-    "character_ids": [],
-    "state": "historical-educational",
-    "status": "integrated",
-    "source_page": 50,
-    "coverage_gap": "연회 전체에서 식사 관습 불명확",
-    "web_asset_path": "assets/trenchers.webp",
-    "width": 410,
-    "height": 410,
-    "grid_id": "trenchers-floor-cleaning-market-goods-page-service-squire-duties-chivalry-duties-training-timeline-lancelot-galahad-morgan-magic",
-    "quadrant": 1,
-    "generated_at": "20261106T111435082051Z",
-    "grid_sha256": "9ae86b4c1005cabc0eef6596de9aaa571f6a2baf1e81b75da974def38150055e",
-    "review_note": "Reviewed nine panels: meal customs and floor care, traded goods, page service, squire care, four chivalric actions, labelled ages, distinct named knights and legendary magic."
-  },
-  {
     "id": "floor-cleaning",
     "chapter_id": "chapter-006",
     "insert_after_paragraph_id": "p0123",
@@ -1229,6 +1206,29 @@
     "height": 410,
     "grid_id": "trenchers-floor-cleaning-market-goods-page-service-squire-duties-chivalry-duties-training-timeline-lancelot-galahad-morgan-magic",
     "quadrant": 2,
+    "generated_at": "20261106T111435082051Z",
+    "grid_sha256": "9ae86b4c1005cabc0eef6596de9aaa571f6a2baf1e81b75da974def38150055e",
+    "review_note": "Reviewed nine panels: meal customs and floor care, traded goods, page service, squire care, four chivalric actions, labelled ages, distinct named knights and legendary magic."
+  },
+  {
+    "id": "trenchers",
+    "chapter_id": "chapter-006",
+    "insert_after_paragraph_id": "p0123",
+    "source_paragraph_ids": [
+      "p0123"
+    ],
+    "description": "빵 접시·공동 잔·손으로 먹기·성 밖 빈민에게 전달",
+    "alt": "빵 접시·공동 잔·손으로 먹기·성 밖 빈민에게 전달",
+    "character_ids": [],
+    "state": "historical-educational",
+    "status": "integrated",
+    "source_page": 50,
+    "coverage_gap": "연회 전체에서 식사 관습 불명확",
+    "web_asset_path": "assets/trenchers.webp",
+    "width": 410,
+    "height": 410,
+    "grid_id": "trenchers-floor-cleaning-market-goods-page-service-squire-duties-chivalry-duties-training-timeline-lancelot-galahad-morgan-magic",
+    "quadrant": 1,
     "generated_at": "20261106T111435082051Z",
     "grid_sha256": "9ae86b4c1005cabc0eef6596de9aaa571f6a2baf1e81b75da974def38150055e",
     "review_note": "Reviewed nine panels: meal customs and floor care, traded goods, page service, squire care, four chivalric actions, labelled ages, distinct named knights and legendary magic."
@@ -1811,27 +1811,6 @@
     "review_note": "All nine panels reviewed; concrete religious, training, legendary and siege objects visibly represented, distinct legends separated from historical scenes."
   },
   {
-    "id": "round-table",
-    "chapter_id": "chapter-008",
-    "insert_after_paragraph_id": "p0174",
-    "source_paragraph_ids": [
-      "p0174"
-    ],
-    "description": "Arthur and knights at the Round Table",
-    "alt": "Arthur and knights at the Round Table",
-    "character_ids": [],
-    "state": "legendary",
-    "status": "integrated",
-    "web_asset_path": "assets/round-table.webp",
-    "width": 410,
-    "height": 410,
-    "grid_id": "chapel-worship-pilgrimage-religious-play-fair-entertainment-dubbing-ceremony-arthur-merlin-round-table-guinevere-morgan-castle-siege",
-    "quadrant": 7,
-    "generated_at": "20261106T103920514409Z",
-    "grid_sha256": "aa4c6741f96380eb539f66ed2021153975ae35b780b1908a619367b8e5ced28d",
-    "review_note": "All nine panels reviewed; concrete religious, training, legendary and siege objects visibly represented, distinct legends separated from historical scenes."
-  },
-  {
     "id": "lancelot-galahad",
     "chapter_id": "chapter-008",
     "insert_after_paragraph_id": "p0174",
@@ -1853,6 +1832,27 @@
     "generated_at": "20261106T111435082051Z",
     "grid_sha256": "9ae86b4c1005cabc0eef6596de9aaa571f6a2baf1e81b75da974def38150055e",
     "review_note": "Reviewed nine panels: meal customs and floor care, traded goods, page service, squire care, four chivalric actions, labelled ages, distinct named knights and legendary magic."
+  },
+  {
+    "id": "round-table",
+    "chapter_id": "chapter-008",
+    "insert_after_paragraph_id": "p0174",
+    "source_paragraph_ids": [
+      "p0174"
+    ],
+    "description": "Arthur and knights at the Round Table",
+    "alt": "Arthur and knights at the Round Table",
+    "character_ids": [],
+    "state": "legendary",
+    "status": "integrated",
+    "web_asset_path": "assets/round-table.webp",
+    "width": 410,
+    "height": 410,
+    "grid_id": "chapel-worship-pilgrimage-religious-play-fair-entertainment-dubbing-ceremony-arthur-merlin-round-table-guinevere-morgan-castle-siege",
+    "quadrant": 7,
+    "generated_at": "20261106T103920514409Z",
+    "grid_sha256": "aa4c6741f96380eb539f66ed2021153975ae35b780b1908a619367b8e5ced28d",
+    "review_note": "All nine panels reviewed; concrete religious, training, legendary and siege objects visibly represented, distinct legends separated from historical scenes."
   },
   {
     "id": "guinevere-morgan",
@@ -2067,27 +2067,6 @@
     "review_note": "Reviewed nine panels: mail-plus-plates, visor movement, armor fastening, correct named armor parts, shield evolution, melee versus joust, three source war motives, duplicate heraldry and birth versus choice. Source conceptual comparisons treated as educational illustrations."
   },
   {
-    "id": "armor-parts",
-    "chapter_id": "chapter-009",
-    "insert_after_paragraph_id": "p0196",
-    "source_paragraph_ids": [
-      "p0196"
-    ],
-    "description": "Plate armor on knight and horse",
-    "alt": "Plate armor on knight and horse",
-    "character_ids": [],
-    "state": "historical-educational",
-    "status": "integrated",
-    "web_asset_path": "assets/armor-parts.webp",
-    "width": 410,
-    "height": 410,
-    "grid_id": "chapter-010-speech-02-sword-comparison-four-weapons-helmet-progression-armor-parts-heraldry-shields-gate-cutaway-drawbridge-operation-quarry-transport",
-    "quadrant": 5,
-    "generated_at": "20261106T102729097266Z",
-    "grid_sha256": "72e48f7d67613b332863c954e1a1eeb8ea50d7228cec310d1b55d7897173eaf5",
-    "review_note": "Reviewed nine panels: exact tournament balloon; complete weapon silhouettes, four helmets, knight and horse armor, five distinct shield motifs, gate defenses and stone transport. Gate model is a visual overview rather than engineering schematic."
-  },
-  {
     "id": "armor-labeled",
     "chapter_id": "chapter-009",
     "insert_after_paragraph_id": "p0196",
@@ -2111,22 +2090,22 @@
     "review_note": "Reviewed nine panels: mail-plus-plates, visor movement, armor fastening, correct named armor parts, shield evolution, melee versus joust, three source war motives, duplicate heraldry and birth versus choice. Source conceptual comparisons treated as educational illustrations."
   },
   {
-    "id": "heraldry-shields",
+    "id": "armor-parts",
     "chapter_id": "chapter-009",
-    "insert_after_paragraph_id": "p0201",
+    "insert_after_paragraph_id": "p0196",
     "source_paragraph_ids": [
-      "p0201"
+      "p0196"
     ],
-    "description": "Distinct heraldry shield motifs and herald",
-    "alt": "Distinct heraldry shield motifs and herald",
+    "description": "Plate armor on knight and horse",
+    "alt": "Plate armor on knight and horse",
     "character_ids": [],
     "state": "historical-educational",
     "status": "integrated",
-    "web_asset_path": "assets/heraldry-shields.webp",
+    "web_asset_path": "assets/armor-parts.webp",
     "width": 410,
     "height": 410,
     "grid_id": "chapter-010-speech-02-sword-comparison-four-weapons-helmet-progression-armor-parts-heraldry-shields-gate-cutaway-drawbridge-operation-quarry-transport",
-    "quadrant": 6,
+    "quadrant": 5,
     "generated_at": "20261106T102729097266Z",
     "grid_sha256": "72e48f7d67613b332863c954e1a1eeb8ea50d7228cec310d1b55d7897173eaf5",
     "review_note": "Reviewed nine panels: exact tournament balloon; complete weapon silhouettes, four helmets, knight and horse armor, five distinct shield motifs, gate defenses and stone transport. Gate model is a visual overview rather than engineering schematic."
@@ -2153,6 +2132,27 @@
     "generated_at": "20261106T112423419712Z",
     "grid_sha256": "e146fcdc8501a31865072ec2efc46f0117d4389db1df6588d6642505accd34fc",
     "review_note": "Reviewed nine panels: mail-plus-plates, visor movement, armor fastening, correct named armor parts, shield evolution, melee versus joust, three source war motives, duplicate heraldry and birth versus choice. Source conceptual comparisons treated as educational illustrations."
+  },
+  {
+    "id": "heraldry-shields",
+    "chapter_id": "chapter-009",
+    "insert_after_paragraph_id": "p0201",
+    "source_paragraph_ids": [
+      "p0201"
+    ],
+    "description": "Distinct heraldry shield motifs and herald",
+    "alt": "Distinct heraldry shield motifs and herald",
+    "character_ids": [],
+    "state": "historical-educational",
+    "status": "integrated",
+    "web_asset_path": "assets/heraldry-shields.webp",
+    "width": 410,
+    "height": 410,
+    "grid_id": "chapter-010-speech-02-sword-comparison-four-weapons-helmet-progression-armor-parts-heraldry-shields-gate-cutaway-drawbridge-operation-quarry-transport",
+    "quadrant": 6,
+    "generated_at": "20261106T102729097266Z",
+    "grid_sha256": "72e48f7d67613b332863c954e1a1eeb8ea50d7228cec310d1b55d7897173eaf5",
+    "review_note": "Reviewed nine panels: exact tournament balloon; complete weapon silhouettes, four helmets, knight and horse armor, five distinct shield motifs, gate defenses and stone transport. Gate model is a visual overview rather than engineering schematic."
   },
   {
     "id": "poitiers-reconstruction",
@@ -2359,5 +2359,600 @@
     "generated_at": "20261106T112423419712Z",
     "grid_sha256": "e146fcdc8501a31865072ec2efc46f0117d4389db1df6588d6642505accd34fc",
     "review_note": "Reviewed nine panels: mail-plus-plates, visor movement, armor fastening, correct named armor parts, shield evolution, melee versus joust, three source war motives, duplicate heraldry and birth versus choice. Source conceptual comparisons treated as educational illustrations."
+  },
+  {
+    "id": "continuation-01",
+    "chapter_id": "chapter-011",
+    "insert_after_paragraph_id": "p0229",
+    "source_paragraph_ids": [
+      "p0225",
+      "p0226",
+      "p0227",
+      "p0228",
+      "p0229",
+      "p0230",
+      "p0231"
+    ],
+    "source_page": 94,
+    "description": "성을 둘러싼 포위군과 끊긴 보급로, 성문으로 향하는 건초 수레",
+    "alt": "성을 둘러싼 포위군과 끊긴 보급로, 성문으로 향하는 건초 수레",
+    "character_ids": [],
+    "state": "historical-reconstruction",
+    "status": "integrated",
+    "web_asset_path": "assets/continuation-01.webp",
+    "width": 410,
+    "height": 410,
+    "grid_id": "continuation-01-continuation-02-continuation-03-continuation-04-continuation-05-continuation-06-continuation-07-continuation-08-continuation-09",
+    "quadrant": 1,
+    "generated_at": "20261106T115501689465Z",
+    "grid_sha256": "bbbe31204c7677cdbd3a6425741012b8c7d2f9db3ef628909ec1bb6ed915ce7e",
+    "review_note": "Visually inspected all9 tiles: siege camp and hidden hay-wagon soldiers, Middle East map with Jack and exact Crusaders speech, wheeled belfry and Annie with exact cat/bear speech, gate murder holes, empty food sacks, Jack surrender speech, ransom coins and freed family, Annie sally-port speech with hidden door, damp chained-prisoner dungeon and jailer keys. Correct row-major mapping, speaker tails, reference faces and clothes. No scan artifacts."
+  },
+  {
+    "id": "continuation-02",
+    "chapter_id": "chapter-011",
+    "insert_after_paragraph_id": "p0231",
+    "source_paragraph_ids": [
+      "p0225",
+      "p0226",
+      "p0227",
+      "p0228",
+      "p0229",
+      "p0230",
+      "p0231"
+    ],
+    "source_page": 94,
+    "description": "잭이 중동 지도를 펼쳐 십자군의 이동과 전쟁 지역을 설명",
+    "alt": "잭이 중동 지도를 펼쳐 십자군의 이동과 전쟁 지역을 설명",
+    "character_ids": [
+      "jack-v1"
+    ],
+    "state": "modern-explorer",
+    "status": "integrated",
+    "speech_text": "For nearly 200 years, Christian knights called Crusaders fought to claim land in the Middle East.",
+    "speaker": "Jack",
+    "web_asset_path": "assets/continuation-02.webp",
+    "width": 410,
+    "height": 410,
+    "grid_id": "continuation-01-continuation-02-continuation-03-continuation-04-continuation-05-continuation-06-continuation-07-continuation-08-continuation-09",
+    "quadrant": 2,
+    "generated_at": "20261106T115501689465Z",
+    "grid_sha256": "bbbe31204c7677cdbd3a6425741012b8c7d2f9db3ef628909ec1bb6ed915ce7e",
+    "review_note": "Visually inspected all9 tiles: siege camp and hidden hay-wagon soldiers, Middle East map with Jack and exact Crusaders speech, wheeled belfry and Annie with exact cat/bear speech, gate murder holes, empty food sacks, Jack surrender speech, ransom coins and freed family, Annie sally-port speech with hidden door, damp chained-prisoner dungeon and jailer keys. Correct row-major mapping, speaker tails, reference faces and clothes. No scan artifacts."
+  },
+  {
+    "id": "continuation-03",
+    "chapter_id": "chapter-011",
+    "insert_after_paragraph_id": "p0235",
+    "source_paragraph_ids": [
+      "p0232",
+      "p0233",
+      "p0234",
+      "p0235"
+    ],
+    "source_page": 95,
+    "description": "애니가 성벽 높이의 이동식 공성탑과 모형을 설명",
+    "alt": "애니가 성벽 높이의 이동식 공성탑과 모형을 설명",
+    "character_ids": [
+      "annie-v1"
+    ],
+    "state": "modern-explorer",
+    "status": "integrated",
+    "speech_text": "A belfry was also called a “cat” or a “bear.”",
+    "speaker": "Annie",
+    "web_asset_path": "assets/continuation-03.webp",
+    "width": 410,
+    "height": 410,
+    "grid_id": "continuation-01-continuation-02-continuation-03-continuation-04-continuation-05-continuation-06-continuation-07-continuation-08-continuation-09",
+    "quadrant": 3,
+    "generated_at": "20261106T115501689465Z",
+    "grid_sha256": "bbbe31204c7677cdbd3a6425741012b8c7d2f9db3ef628909ec1bb6ed915ce7e",
+    "review_note": "Visually inspected all9 tiles: siege camp and hidden hay-wagon soldiers, Middle East map with Jack and exact Crusaders speech, wheeled belfry and Annie with exact cat/bear speech, gate murder holes, empty food sacks, Jack surrender speech, ransom coins and freed family, Annie sally-port speech with hidden door, damp chained-prisoner dungeon and jailer keys. Correct row-major mapping, speaker tails, reference faces and clothes. No scan artifacts."
+  },
+  {
+    "id": "continuation-04",
+    "chapter_id": "chapter-011",
+    "insert_after_paragraph_id": "p0236",
+    "source_paragraph_ids": [
+      "p0236",
+      "p0237",
+      "p0238",
+      "p0239",
+      "p0240",
+      "p0241",
+      "p0242"
+    ],
+    "source_page": 98,
+    "description": "성문 위 통로의 방어 구멍을 보여 주는 석조 단면",
+    "alt": "성문 위 통로의 방어 구멍을 보여 주는 석조 단면",
+    "character_ids": [],
+    "state": "historical-reconstruction",
+    "status": "integrated",
+    "web_asset_path": "assets/continuation-04.webp",
+    "width": 410,
+    "height": 410,
+    "grid_id": "continuation-01-continuation-02-continuation-03-continuation-04-continuation-05-continuation-06-continuation-07-continuation-08-continuation-09",
+    "quadrant": 4,
+    "generated_at": "20261106T115501689465Z",
+    "grid_sha256": "bbbe31204c7677cdbd3a6425741012b8c7d2f9db3ef628909ec1bb6ed915ce7e",
+    "review_note": "Visually inspected all9 tiles: siege camp and hidden hay-wagon soldiers, Middle East map with Jack and exact Crusaders speech, wheeled belfry and Annie with exact cat/bear speech, gate murder holes, empty food sacks, Jack surrender speech, ransom coins and freed family, Annie sally-port speech with hidden door, damp chained-prisoner dungeon and jailer keys. Correct row-major mapping, speaker tails, reference faces and clothes. No scan artifacts."
+  },
+  {
+    "id": "continuation-05",
+    "chapter_id": "chapter-011",
+    "insert_after_paragraph_id": "p0239",
+    "source_paragraph_ids": [
+      "p0236",
+      "p0237",
+      "p0238",
+      "p0239",
+      "p0240",
+      "p0241",
+      "p0242"
+    ],
+    "source_page": 98,
+    "description": "오랜 포위로 식량이 줄어든 성 안의 사람들",
+    "alt": "오랜 포위로 식량이 줄어든 성 안의 사람들",
+    "character_ids": [],
+    "state": "historical-reconstruction",
+    "status": "integrated",
+    "web_asset_path": "assets/continuation-05.webp",
+    "width": 410,
+    "height": 410,
+    "grid_id": "continuation-01-continuation-02-continuation-03-continuation-04-continuation-05-continuation-06-continuation-07-continuation-08-continuation-09",
+    "quadrant": 5,
+    "generated_at": "20261106T115501689465Z",
+    "grid_sha256": "bbbe31204c7677cdbd3a6425741012b8c7d2f9db3ef628909ec1bb6ed915ce7e",
+    "review_note": "Visually inspected all9 tiles: siege camp and hidden hay-wagon soldiers, Middle East map with Jack and exact Crusaders speech, wheeled belfry and Annie with exact cat/bear speech, gate murder holes, empty food sacks, Jack surrender speech, ransom coins and freed family, Annie sally-port speech with hidden door, damp chained-prisoner dungeon and jailer keys. Correct row-major mapping, speaker tails, reference faces and clothes. No scan artifacts."
+  },
+  {
+    "id": "continuation-06",
+    "chapter_id": "chapter-011",
+    "insert_after_paragraph_id": "p0242",
+    "source_paragraph_ids": [
+      "p0236",
+      "p0237",
+      "p0238",
+      "p0239",
+      "p0240",
+      "p0241",
+      "p0242"
+    ],
+    "source_page": 98,
+    "description": "잭이 무기를 내리고 성문을 여는 항복 장면을 설명",
+    "alt": "잭이 무기를 내리고 성문을 여는 항복 장면을 설명",
+    "character_ids": [
+      "jack-v1"
+    ],
+    "state": "modern-explorer",
+    "status": "integrated",
+    "speech_text": "To surrender means “to admit defeat and give up to an enemy.”",
+    "speaker": "Jack",
+    "web_asset_path": "assets/continuation-06.webp",
+    "width": 410,
+    "height": 410,
+    "grid_id": "continuation-01-continuation-02-continuation-03-continuation-04-continuation-05-continuation-06-continuation-07-continuation-08-continuation-09",
+    "quadrant": 6,
+    "generated_at": "20261106T115501689465Z",
+    "grid_sha256": "bbbe31204c7677cdbd3a6425741012b8c7d2f9db3ef628909ec1bb6ed915ce7e",
+    "review_note": "Visually inspected all9 tiles: siege camp and hidden hay-wagon soldiers, Middle East map with Jack and exact Crusaders speech, wheeled belfry and Annie with exact cat/bear speech, gate murder holes, empty food sacks, Jack surrender speech, ransom coins and freed family, Annie sally-port speech with hidden door, damp chained-prisoner dungeon and jailer keys. Correct row-major mapping, speaker tails, reference faces and clothes. No scan artifacts."
+  },
+  {
+    "id": "continuation-07",
+    "chapter_id": "chapter-011",
+    "insert_after_paragraph_id": "p0244",
+    "source_paragraph_ids": [
+      "p0243",
+      "p0244",
+      "p0245",
+      "p0246",
+      "p0247"
+    ],
+    "source_page": 99,
+    "description": "몸값을 지불하고 성의 포로를 석방하는 교환",
+    "alt": "몸값을 지불하고 성의 포로를 석방하는 교환",
+    "character_ids": [],
+    "state": "historical-reconstruction",
+    "status": "integrated",
+    "web_asset_path": "assets/continuation-07.webp",
+    "width": 410,
+    "height": 410,
+    "grid_id": "continuation-01-continuation-02-continuation-03-continuation-04-continuation-05-continuation-06-continuation-07-continuation-08-continuation-09",
+    "quadrant": 7,
+    "generated_at": "20261106T115501689465Z",
+    "grid_sha256": "bbbe31204c7677cdbd3a6425741012b8c7d2f9db3ef628909ec1bb6ed915ce7e",
+    "review_note": "Visually inspected all9 tiles: siege camp and hidden hay-wagon soldiers, Middle East map with Jack and exact Crusaders speech, wheeled belfry and Annie with exact cat/bear speech, gate murder holes, empty food sacks, Jack surrender speech, ransom coins and freed family, Annie sally-port speech with hidden door, damp chained-prisoner dungeon and jailer keys. Correct row-major mapping, speaker tails, reference faces and clothes. No scan artifacts."
+  },
+  {
+    "id": "continuation-10",
+    "chapter_id": "chapter-011",
+    "insert_after_paragraph_id": "p0246",
+    "source_paragraph_ids": [
+      "p0243",
+      "p0244",
+      "p0245",
+      "p0246",
+      "p0247"
+    ],
+    "source_page": 99,
+    "description": "포위된 성으로 도착하는 구원군",
+    "alt": "포위된 성으로 도착하는 구원군",
+    "character_ids": [],
+    "state": "historical-reconstruction",
+    "status": "planned"
+  },
+  {
+    "id": "continuation-08",
+    "chapter_id": "chapter-011",
+    "insert_after_paragraph_id": "p0247",
+    "source_paragraph_ids": [
+      "p0243",
+      "p0244",
+      "p0245",
+      "p0246",
+      "p0247"
+    ],
+    "source_page": 99,
+    "description": "애니가 성벽의 작은 비밀 출격문을 가리킴",
+    "alt": "애니가 성벽의 작은 비밀 출격문을 가리킴",
+    "character_ids": [
+      "annie-v1"
+    ],
+    "state": "modern-explorer",
+    "status": "integrated",
+    "speech_text": "The secret doors were called sally ports.",
+    "speaker": "Annie",
+    "web_asset_path": "assets/continuation-08.webp",
+    "width": 410,
+    "height": 410,
+    "grid_id": "continuation-01-continuation-02-continuation-03-continuation-04-continuation-05-continuation-06-continuation-07-continuation-08-continuation-09",
+    "quadrant": 8,
+    "generated_at": "20261106T115501689465Z",
+    "grid_sha256": "bbbe31204c7677cdbd3a6425741012b8c7d2f9db3ef628909ec1bb6ed915ce7e",
+    "review_note": "Visually inspected all9 tiles: siege camp and hidden hay-wagon soldiers, Middle East map with Jack and exact Crusaders speech, wheeled belfry and Annie with exact cat/bear speech, gate murder holes, empty food sacks, Jack surrender speech, ransom coins and freed family, Annie sally-port speech with hidden door, damp chained-prisoner dungeon and jailer keys. Correct row-major mapping, speaker tails, reference faces and clothes. No scan artifacts."
+  },
+  {
+    "id": "continuation-09",
+    "chapter_id": "chapter-011",
+    "insert_after_paragraph_id": "p0249",
+    "source_paragraph_ids": [
+      "p0248",
+      "p0249",
+      "p0250"
+    ],
+    "source_page": 100,
+    "description": "석조 지하 감옥의 사슬·좁은 창·감옥지기와 열쇠",
+    "alt": "석조 지하 감옥의 사슬·좁은 창·감옥지기와 열쇠",
+    "character_ids": [],
+    "state": "historical-reconstruction",
+    "status": "integrated",
+    "web_asset_path": "assets/continuation-09.webp",
+    "width": 410,
+    "height": 410,
+    "grid_id": "continuation-01-continuation-02-continuation-03-continuation-04-continuation-05-continuation-06-continuation-07-continuation-08-continuation-09",
+    "quadrant": 9,
+    "generated_at": "20261106T115501689465Z",
+    "grid_sha256": "bbbe31204c7677cdbd3a6425741012b8c7d2f9db3ef628909ec1bb6ed915ce7e",
+    "review_note": "Visually inspected all9 tiles: siege camp and hidden hay-wagon soldiers, Middle East map with Jack and exact Crusaders speech, wheeled belfry and Annie with exact cat/bear speech, gate murder holes, empty food sacks, Jack surrender speech, ransom coins and freed family, Annie sally-port speech with hidden door, damp chained-prisoner dungeon and jailer keys. Correct row-major mapping, speaker tails, reference faces and clothes. No scan artifacts."
+  },
+  {
+    "id": "continuation-11",
+    "chapter_id": "chapter-012",
+    "insert_after_paragraph_id": "p0252",
+    "source_paragraph_ids": [
+      "p0251",
+      "p0252",
+      "p0253"
+    ],
+    "source_page": 103,
+    "description": "안락함보다 방어를 우선한 어둡고 외풍 드는 성 내부",
+    "alt": "안락함보다 방어를 우선한 어둡고 외풍 드는 성 내부",
+    "character_ids": [],
+    "state": "historical-reconstruction",
+    "status": "planned"
+  },
+  {
+    "id": "continuation-13",
+    "chapter_id": "chapter-012",
+    "insert_after_paragraph_id": "p0255",
+    "source_paragraph_ids": [
+      "p0254",
+      "p0255",
+      "p0256",
+      "p0257"
+    ],
+    "source_page": 104,
+    "description": "돌과 철 포탄이 성벽을 무너뜨리는 대포의 위력",
+    "alt": "돌과 철 포탄이 성벽을 무너뜨리는 대포의 위력",
+    "character_ids": [],
+    "state": "historical-reconstruction",
+    "status": "planned"
+  },
+  {
+    "id": "continuation-12",
+    "chapter_id": "chapter-012",
+    "insert_after_paragraph_id": "p0257",
+    "source_paragraph_ids": [
+      "p0254",
+      "p0255",
+      "p0256",
+      "p0257"
+    ],
+    "source_page": 104,
+    "description": "잭이 바퀴와 포신을 가진 중세 대포를 설명",
+    "alt": "잭이 바퀴와 포신을 가진 중세 대포를 설명",
+    "character_ids": [
+      "jack-v1"
+    ],
+    "state": "modern-explorer",
+    "status": "planned",
+    "speech_text": "A cannon is a large gun, usually mounted on wheels.",
+    "speaker": "Jack"
+  },
+  {
+    "id": "continuation-14",
+    "chapter_id": "chapter-012",
+    "insert_after_paragraph_id": "p0259",
+    "source_paragraph_ids": [
+      "p0258",
+      "p0259",
+      "p0260",
+      "p0261",
+      "p0262",
+      "p0263"
+    ],
+    "source_page": 105,
+    "description": "화기를 갖추고 훈련하는 상비군과 구식 기사 장비",
+    "alt": "화기를 갖추고 훈련하는 상비군과 구식 기사 장비",
+    "character_ids": [],
+    "state": "historical-reconstruction",
+    "status": "planned"
+  },
+  {
+    "id": "continuation-16",
+    "chapter_id": "chapter-012",
+    "insert_after_paragraph_id": "p0267",
+    "source_paragraph_ids": [
+      "p0264",
+      "p0265",
+      "p0266",
+      "p0267",
+      "p0268",
+      "p0269",
+      "p0270"
+    ],
+    "source_page": 106,
+    "description": "오늘날 관람객이 도개교·성가퀴·석공 흔적을 살펴보는 성",
+    "alt": "오늘날 관람객이 도개교·성가퀴·석공 흔적을 살펴보는 성",
+    "character_ids": [],
+    "state": "historical-reconstruction",
+    "status": "planned"
+  },
+  {
+    "id": "continuation-17",
+    "chapter_id": "chapter-012",
+    "insert_after_paragraph_id": "p0269",
+    "source_paragraph_ids": [
+      "p0264",
+      "p0265",
+      "p0266",
+      "p0267",
+      "p0268",
+      "p0269",
+      "p0270"
+    ],
+    "source_page": 106,
+    "description": "대연회장의 은접시와 중세 의상·무기·갑옷 전시",
+    "alt": "대연회장의 은접시와 중세 의상·무기·갑옷 전시",
+    "character_ids": [],
+    "state": "historical-reconstruction",
+    "status": "planned"
+  },
+  {
+    "id": "continuation-15",
+    "chapter_id": "chapter-012",
+    "insert_after_paragraph_id": "p0270",
+    "source_paragraph_ids": [
+      "p0264",
+      "p0265",
+      "p0266",
+      "p0267",
+      "p0268",
+      "p0269",
+      "p0270"
+    ],
+    "source_page": 106,
+    "description": "애니가 현대의 여성 서훈과 데임 칭호를 설명",
+    "alt": "애니가 현대의 여성 서훈과 데임 칭호를 설명",
+    "character_ids": [
+      "annie-v1"
+    ],
+    "state": "modern-explorer",
+    "status": "planned",
+    "speech_text": "A woman who is given this honor is called a dame.",
+    "speaker": "Annie"
+  },
+  {
+    "id": "continuation-18",
+    "chapter_id": "chapter-012",
+    "insert_after_paragraph_id": "p0271",
+    "source_paragraph_ids": [
+      "p0271"
+    ],
+    "source_page": 107,
+    "description": "전신 갑옷과 방사형 칼·창·방패를 갖춘 박물관 전시",
+    "alt": "전신 갑옷과 방사형 칼·창·방패를 갖춘 박물관 전시",
+    "character_ids": [],
+    "state": "historical-reconstruction",
+    "status": "planned"
+  },
+  {
+    "id": "continuation-19",
+    "chapter_id": "chapter-013",
+    "insert_after_paragraph_id": "p0276",
+    "source_paragraph_ids": [
+      "p0272",
+      "p0273",
+      "p0274",
+      "p0275",
+      "p0276"
+    ],
+    "source_page": 108,
+    "description": "목차와 색인으로 필요한 주제를 찾는 독서 조사",
+    "alt": "목차와 색인으로 필요한 주제를 찾는 독서 조사",
+    "character_ids": [],
+    "state": "historical-reconstruction",
+    "status": "planned"
+  },
+  {
+    "id": "continuation-20",
+    "chapter_id": "chapter-013",
+    "insert_after_paragraph_id": "p0277",
+    "source_paragraph_ids": [
+      "p0277",
+      "p0278",
+      "p0279",
+      "p0280"
+    ],
+    "source_page": 109,
+    "description": "노트에 책 제목과 조사 내용을 기록",
+    "alt": "노트에 책 제목과 조사 내용을 기록",
+    "character_ids": [],
+    "state": "historical-reconstruction",
+    "status": "planned"
+  },
+  {
+    "id": "continuation-21",
+    "chapter_id": "chapter-013",
+    "insert_after_paragraph_id": "p0280",
+    "source_paragraph_ids": [
+      "p0277",
+      "p0278",
+      "p0279",
+      "p0280"
+    ],
+    "source_page": 109,
+    "description": "사서와 사실 자료를 고르고 자기 말로 정리하는 조사",
+    "alt": "사서와 사실 자료를 고르고 자기 말로 정리하는 조사",
+    "character_ids": [],
+    "state": "historical-reconstruction",
+    "status": "planned"
+  },
+  {
+    "id": "continuation-22",
+    "chapter_id": "chapter-013",
+    "insert_after_paragraph_id": "p0281",
+    "source_paragraph_ids": [
+      "p0281",
+      "p0282",
+      "p0283",
+      "p0284",
+      "p0285",
+      "p0286",
+      "p0287"
+    ],
+    "source_page": 110,
+    "description": "기사·성·중세 활동·성 단면을 다루는 다양한 연구서",
+    "alt": "기사·성·중세 활동·성 단면을 다루는 다양한 연구서",
+    "character_ids": [],
+    "state": "historical-reconstruction",
+    "status": "planned"
+  },
+  {
+    "id": "continuation-23",
+    "chapter_id": "chapter-013",
+    "insert_after_paragraph_id": "p0291",
+    "source_paragraph_ids": [
+      "p0288",
+      "p0289",
+      "p0290",
+      "p0291",
+      "p0292",
+      "p0293"
+    ],
+    "source_page": 111,
+    "description": "박물관에서 갑옷과 무기를 관찰하고 그리는 활동",
+    "alt": "박물관에서 갑옷과 무기를 관찰하고 그리는 활동",
+    "character_ids": [],
+    "state": "historical-reconstruction",
+    "status": "planned"
+  },
+  {
+    "id": "continuation-24",
+    "chapter_id": "chapter-013",
+    "insert_after_paragraph_id": "p0293",
+    "source_paragraph_ids": [
+      "p0288",
+      "p0289",
+      "p0290",
+      "p0291",
+      "p0292",
+      "p0293"
+    ],
+    "source_page": 111,
+    "description": "박물관 일정표와 어린이를 위한 중세 체험 활동",
+    "alt": "박물관 일정표와 어린이를 위한 중세 체험 활동",
+    "character_ids": [],
+    "state": "historical-reconstruction",
+    "status": "planned"
+  },
+  {
+    "id": "continuation-25",
+    "chapter_id": "chapter-013",
+    "insert_after_paragraph_id": "p0303",
+    "source_paragraph_ids": [
+      "p0302",
+      "p0303",
+      "p0304",
+      "p0305",
+      "p0306",
+      "p0307",
+      "p0308"
+    ],
+    "source_page": 113,
+    "description": "성 공성 병기 다큐멘터리를 보며 기록하는 DVD 조사",
+    "alt": "성 공성 병기 다큐멘터리를 보며 기록하는 DVD 조사",
+    "character_ids": [],
+    "state": "historical-reconstruction",
+    "status": "planned"
+  },
+  {
+    "id": "continuation-26",
+    "chapter_id": "chapter-013",
+    "insert_after_paragraph_id": "p0310",
+    "source_paragraph_ids": [
+      "p0309",
+      "p0310",
+      "p0311",
+      "p0312",
+      "p0313",
+      "p0314",
+      "p0315"
+    ],
+    "source_page": 114,
+    "description": "부모·교사의 도움을 받아 성 자료를 찾는 인터넷 조사",
+    "alt": "부모·교사의 도움을 받아 성 자료를 찾는 인터넷 조사",
+    "character_ids": [],
+    "state": "historical-reconstruction",
+    "status": "planned"
+  },
+  {
+    "id": "continuation-27",
+    "chapter_id": "chapter-013",
+    "insert_after_paragraph_id": "p0316",
+    "source_paragraph_ids": [
+      "p0316"
+    ],
+    "source_page": 115,
+    "description": "카메라와 노트를 챙긴 잭·애니의 공동 마무리 인사",
+    "alt": "카메라와 노트를 챙긴 잭·애니의 공동 마무리 인사",
+    "character_ids": [
+      "jack-v1",
+      "annie-v1"
+    ],
+    "state": "modern-explorer",
+    "status": "planned",
+    "speech_text": "Good luck!",
+    "speaker": "Jack and Annie"
   }
 ]
