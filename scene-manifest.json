@@ -184,10 +184,18 @@
       "annie-v1"
     ],
     "state": "modern-explorer",
-    "status": "planned",
+    "status": "integrated",
     "speech_text": "The word castle comes from the Latin word castellum, which means “fortress.”",
     "speaker": "Annie",
-    "source_page": 21
+    "source_page": 21,
+    "web_asset_path": "assets/chapter-004-speech-01.webp",
+    "width": 410,
+    "height": 410,
+    "grid_id": "chapter-004-speech-01-chapter-004-speech-02-chapter-004-speech-03-chapter-005-speech-01-chapter-005-speech-02-chapter-005-speech-03-chapter-005-speech-04-chapter-006-speech-01-chapter-006-speech-02",
+    "quadrant": 1,
+    "generated_at": "20261106T101255422067Z",
+    "grid_sha256": "6a5d28373029281e17c426fa3eff0cf817f11c6afc6b1fcefc9e55b8f5db465a",
+    "review_note": "Nine panels reviewed; exact full balloon texts visible; castle parts, motte bailey, sentry, moat, mews and tunic match descriptions."
   },
   {
     "id": "chapter-004-speech-02",
@@ -202,10 +210,18 @@
       "jack-v1"
     ],
     "state": "modern-explorer",
-    "status": "planned",
+    "status": "integrated",
     "speech_text": "A historian is someone who studies and writes about history.",
     "speaker": "Jack",
-    "source_page": 22
+    "source_page": 22,
+    "web_asset_path": "assets/chapter-004-speech-02.webp",
+    "width": 410,
+    "height": 410,
+    "grid_id": "chapter-004-speech-01-chapter-004-speech-02-chapter-004-speech-03-chapter-005-speech-01-chapter-005-speech-02-chapter-005-speech-03-chapter-005-speech-04-chapter-006-speech-01-chapter-006-speech-02",
+    "quadrant": 2,
+    "generated_at": "20261106T101255422067Z",
+    "grid_sha256": "6a5d28373029281e17c426fa3eff0cf817f11c6afc6b1fcefc9e55b8f5db465a",
+    "review_note": "Nine panels reviewed; exact full balloon texts visible; castle parts, motte bailey, sentry, moat, mews and tunic match descriptions."
   },
   {
     "id": "chapter-004-speech-03",
@@ -220,10 +236,18 @@
       "annie-v1"
     ],
     "state": "modern-explorer",
-    "status": "planned",
+    "status": "integrated",
     "speech_text": "This kind of castle is called a motte and bailey castle.",
     "speaker": "Annie",
-    "source_page": 23
+    "source_page": 23,
+    "web_asset_path": "assets/chapter-004-speech-03.webp",
+    "width": 410,
+    "height": 410,
+    "grid_id": "chapter-004-speech-01-chapter-004-speech-02-chapter-004-speech-03-chapter-005-speech-01-chapter-005-speech-02-chapter-005-speech-03-chapter-005-speech-04-chapter-006-speech-01-chapter-006-speech-02",
+    "quadrant": 3,
+    "generated_at": "20261106T101255422067Z",
+    "grid_sha256": "6a5d28373029281e17c426fa3eff0cf817f11c6afc6b1fcefc9e55b8f5db465a",
+    "review_note": "Nine panels reviewed; exact full balloon texts visible; castle parts, motte bailey, sentry, moat, mews and tunic match descriptions."
   },
   {
     "id": "masonry",
@@ -280,10 +304,18 @@
       "jack-v1"
     ],
     "state": "modern-explorer",
-    "status": "planned",
+    "status": "integrated",
     "speech_text": "A sentry is a soldier who keeps watch for enemies.",
     "speaker": "Jack",
-    "source_page": 32
+    "source_page": 32,
+    "web_asset_path": "assets/chapter-005-speech-01.webp",
+    "width": 410,
+    "height": 410,
+    "grid_id": "chapter-004-speech-01-chapter-004-speech-02-chapter-004-speech-03-chapter-005-speech-01-chapter-005-speech-02-chapter-005-speech-03-chapter-005-speech-04-chapter-006-speech-01-chapter-006-speech-02",
+    "quadrant": 4,
+    "generated_at": "20261106T101255422067Z",
+    "grid_sha256": "6a5d28373029281e17c426fa3eff0cf817f11c6afc6b1fcefc9e55b8f5db465a",
+    "review_note": "Nine panels reviewed; exact full balloon texts visible; castle parts, motte bailey, sentry, moat, mews and tunic match descriptions."
   },
   {
     "id": "chapter-005-speech-02",
@@ -298,10 +330,18 @@
       "annie-v1"
     ],
     "state": "modern-explorer",
-    "status": "planned",
+    "status": "integrated",
     "speech_text": "Yikes! Some moats may even have had crocodiles!",
     "speaker": "Annie",
-    "source_page": 34
+    "source_page": 34,
+    "web_asset_path": "assets/chapter-005-speech-02.webp",
+    "width": 410,
+    "height": 410,
+    "grid_id": "chapter-004-speech-01-chapter-004-speech-02-chapter-004-speech-03-chapter-005-speech-01-chapter-005-speech-02-chapter-005-speech-03-chapter-005-speech-04-chapter-006-speech-01-chapter-006-speech-02",
+    "quadrant": 5,
+    "generated_at": "20261106T101255422067Z",
+    "grid_sha256": "6a5d28373029281e17c426fa3eff0cf817f11c6afc6b1fcefc9e55b8f5db465a",
+    "review_note": "Nine panels reviewed; exact full balloon texts visible; castle parts, motte bailey, sentry, moat, mews and tunic match descriptions."
   },
   {
     "id": "chapter-005-speech-03",
@@ -317,10 +357,18 @@
       "annie-v1"
     ],
     "state": "modern-explorer",
-    "status": "planned",
+    "status": "integrated",
     "speech_text": "Turn the page to see how all the different parts of a castle fit together.",
     "speaker": "Jack and Annie",
-    "source_page": 37
+    "source_page": 37,
+    "web_asset_path": "assets/chapter-005-speech-03.webp",
+    "width": 410,
+    "height": 410,
+    "grid_id": "chapter-004-speech-01-chapter-004-speech-02-chapter-004-speech-03-chapter-005-speech-01-chapter-005-speech-02-chapter-005-speech-03-chapter-005-speech-04-chapter-006-speech-01-chapter-006-speech-02",
+    "quadrant": 6,
+    "generated_at": "20261106T101255422067Z",
+    "grid_sha256": "6a5d28373029281e17c426fa3eff0cf817f11c6afc6b1fcefc9e55b8f5db465a",
+    "review_note": "Nine panels reviewed; exact full balloon texts visible; castle parts, motte bailey, sentry, moat, mews and tunic match descriptions."
   },
   {
     "id": "chapter-005-speech-04",
@@ -335,10 +383,18 @@
       "jack-v1"
     ],
     "state": "modern-explorer",
-    "status": "planned",
+    "status": "integrated",
     "speech_text": "A castle wasn’t just the building where the lord lived with his family. It was everything that was built to protect the lord and his land.",
     "speaker": "Jack",
-    "source_page": 39
+    "source_page": 39,
+    "web_asset_path": "assets/chapter-005-speech-04.webp",
+    "width": 410,
+    "height": 410,
+    "grid_id": "chapter-004-speech-01-chapter-004-speech-02-chapter-004-speech-03-chapter-005-speech-01-chapter-005-speech-02-chapter-005-speech-03-chapter-005-speech-04-chapter-006-speech-01-chapter-006-speech-02",
+    "quadrant": 7,
+    "generated_at": "20261106T101255422067Z",
+    "grid_sha256": "6a5d28373029281e17c426fa3eff0cf817f11c6afc6b1fcefc9e55b8f5db465a",
+    "review_note": "Nine panels reviewed; exact full balloon texts visible; castle parts, motte bailey, sentry, moat, mews and tunic match descriptions."
   },
   {
     "id": "chapter-006-speech-01",
@@ -353,10 +409,18 @@
       "annie-v1"
     ],
     "state": "modern-explorer",
-    "status": "planned",
+    "status": "integrated",
     "speech_text": "Many lords and ladies kept falcons for hunting. The building where the falcons lived was called the mews.",
     "speaker": "Annie",
-    "source_page": 43
+    "source_page": 43,
+    "web_asset_path": "assets/chapter-006-speech-01.webp",
+    "width": 410,
+    "height": 410,
+    "grid_id": "chapter-004-speech-01-chapter-004-speech-02-chapter-004-speech-03-chapter-005-speech-01-chapter-005-speech-02-chapter-005-speech-03-chapter-005-speech-04-chapter-006-speech-01-chapter-006-speech-02",
+    "quadrant": 8,
+    "generated_at": "20261106T101255422067Z",
+    "grid_sha256": "6a5d28373029281e17c426fa3eff0cf817f11c6afc6b1fcefc9e55b8f5db465a",
+    "review_note": "Nine panels reviewed; exact full balloon texts visible; castle parts, motte bailey, sentry, moat, mews and tunic match descriptions."
   },
   {
     "id": "chapter-006-speech-02",
@@ -371,10 +435,18 @@
       "jack-v1"
     ],
     "state": "modern-explorer",
-    "status": "planned",
+    "status": "integrated",
     "speech_text": "A tunic is a loose-fitting piece of clothing usually worn over a shirt or blouse.",
     "speaker": "Jack",
-    "source_page": 46
+    "source_page": 46,
+    "web_asset_path": "assets/chapter-006-speech-02.webp",
+    "width": 410,
+    "height": 410,
+    "grid_id": "chapter-004-speech-01-chapter-004-speech-02-chapter-004-speech-03-chapter-005-speech-01-chapter-005-speech-02-chapter-005-speech-03-chapter-005-speech-04-chapter-006-speech-01-chapter-006-speech-02",
+    "quadrant": 9,
+    "generated_at": "20261106T101255422067Z",
+    "grid_sha256": "6a5d28373029281e17c426fa3eff0cf817f11c6afc6b1fcefc9e55b8f5db465a",
+    "review_note": "Nine panels reviewed; exact full balloon texts visible; castle parts, motte bailey, sentry, moat, mews and tunic match descriptions."
   },
   {
     "id": "chapter-006-speech-03",

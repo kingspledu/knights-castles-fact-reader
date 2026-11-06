@@ -18,5 +18,25 @@
       "grid_sha256": "4ea390dcd14f31e7ca6c104cfa21c75944e15902ef49ca33f61e0507b3a6ece6",
       "review_note": "All nine panels visually inspected; five speech balloons exact and correctly attributed; objects and teaching relationships visible; children match reference sheets."
     }
+  ],
+  "chapter-004-speech-01-chapter-004-speech-02-chapter-004-speech-03-chapter-005-speech-01-chapter-005-speech-02-chapter-005-speech-03-chapter-005-speech-04-chapter-006-speech-01-chapter-006-speech-02": [
+    {
+      "scene_ids": [
+        "chapter-004-speech-01",
+        "chapter-004-speech-02",
+        "chapter-004-speech-03",
+        "chapter-005-speech-01",
+        "chapter-005-speech-02",
+        "chapter-005-speech-03",
+        "chapter-005-speech-04",
+        "chapter-006-speech-01",
+        "chapter-006-speech-02"
+      ],
+      "grid": "3x3",
+      "prompt": "ONE square EXACT 3x3 grid NINE equal square photographic educational panels, thin straight white gutters. Documentary realism, daylight, real medieval architecture and objects. Reference1 JACK boy 8 glasses chestnut hair navy sweatshirt olive backpack; reference2 ANNIE girl7 no glasses shoulder-length loose brown hair yellow tee coral pants. Same faces. Each panel includes relevant visible objects/actions and ONE large white speech balloon, dark legible EXACT English text below, tail to named speaker. No other writing, watermark or logo. Row-major:\n1 Annie points at a stone FORTRESS model with battlements, protected gate and towers, holding a small stone block. Text: The word castle comes from the Latin word castellum, which means “fortress.”\n2 Jack next to historian comparing an old manuscript and historical castle plan, quill and books clearly visible. Text: A historian is someone who studies and writes about history.\n3 Annie holds and points at physical wooden motte-and-bailey model: high earth mound with timber KEEP, lower enclosed BAILEY, tall wooden PALISADE and access ramp. Model dominates panel. Text: This kind of castle is called a motte and bailey castle.\n4 Jack points to castle SENTRY holding bow and arrows behind stone crenels and merlons, watching distant approach. Text: A sentry is a soldier who keeps watch for enemies.\n5 Annie looks down at broad watery moat directly below stone castle, one small crocodile seen in water as literal source depiction. Text: Yikes! Some moats may even have had crocodiles!\n6 Both Jack and Annie stand beside detailed castle architectural model showing keep, towers, curtain wall, moat, gatehouse, drawbridge, barbican and internal stable. Two balloon tails. Text: Turn the page to see how all the different parts of a castle fit together.\n7 Jack beside large complete fortified castle scale model, his hand indicates outer walls, land, moat and barbican as well as inner residence. Keep child smaller to leave generous balloon for full text: A castle wasn’t just the building where the lord lived with his family. It was everything that was built to protect the lord and his land.\n8 Annie beside authentic falcon mews with perches and hooded hunting falcon perched on trained adult falconer's glove; she points at building and bird. Text: Many lords and ladies kept falcons for hunting. The building where the falcons lived was called the mews.\n9 Jack holds up a loose medieval cloth TUNIC on a wooden hanger over a linen shirt displayed on mannequin, all clothing fully visible. Text: A tunic is a loose-fitting piece of clothing usually worn over a shirt or blouse.\nDo not substitute generic castle scenery. Explain the noun visibly. Correct child anatomy, natural youthful faces, no gore.\n",
+      "generated_at": "20261106T101255422067Z",
+      "grid_sha256": "6a5d28373029281e17c426fa3eff0cf817f11c6afc6b1fcefc9e55b8f5db465a",
+      "review_note": "Nine panels reviewed; exact full balloon texts visible; castle parts, motte bailey, sentry, moat, mews and tunic match descriptions."
+    }
   ]
 }
