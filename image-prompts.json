@@ -218,5 +218,19 @@
       "grid_sha256": "e146fcdc8501a31865072ec2efc46f0117d4389db1df6588d6642505accd34fc",
       "review_note": "Reviewed nine panels: mail-plus-plates, visor movement, armor fastening, correct named armor parts, shield evolution, melee versus joust, three source war motives, duplicate heraldry and birth versus choice. Source conceptual comparisons treated as educational illustrations."
     }
+  ],
+  "agincourt-reconstruction-cardiff-reconstruction-poitiers-reconstruction": [
+    {
+      "scene_ids": [
+        "agincourt-reconstruction",
+        "cardiff-reconstruction",
+        "poitiers-reconstruction"
+      ],
+      "grid": "3x3",
+      "prompt": "Create ONE square EXACT 3x3 grid of nine equal square photoreal documentary historical images, thin white gutters. This replaces scans from a children's educational reader with newly generated historical visualizations. No book pages, no paper textures, no printed borders, no text, no logos, no watermarks, no gore. FIRST ROW contains three deliverable standalone scenes:\nTOP LEFT: historical reconstruction of Battle of Agincourt 1415, wide view of muddy field with English longbow archers behind pointed wooden stakes at one side, distant French armored mounted and foot soldiers advancing, late medieval equipment, overcast daylight, clear formations, no wounds or fallen bodies, photographic cinematic documentary realism.\nTOP CENTER: convincing architectural reconstruction of CARDIFF CASTLE NORMAN KEEP in Wales, polygonal stone shell keep on a steep grassy motte, distinctive tall polygonal central gate tower and long straight stone stairway climbing mound to its entrance, weathered pale rough stone, crenellations, daylight, elevated three-quarter full building view, no fantasy conical turrets, no modern signage, no crowds. Educational reconstruction rather than archival photograph.\nTOP RIGHT: historical reconstruction of Battle of Poitiers 1356, closely framed medieval armored foot soldiers with shields and polearms and two mounted knights, one French knight wears blue fleur-de-lis heraldic surcoat, bascinet helmets and mail mixed with early plate, open rolling landscape, realistic fabric and steel, action without impact injuries or gore, no writing.\nThe six lower panels are UNUSED reference studies only: middle row shows stone textures, medieval steel texture, wooden palisade texture; bottom row shows grass field, cloudy sky, blank stone wall. Do not put people, lettering, books or story events into unused panels. First-row scenes each fully fit their square and are distinct. Extremely real materials and light, not illustration, not CGI.\n",
+      "generated_at": "20261106T113537838455Z",
+      "grid_sha256": "d345823a5194db1764d004b2213b362ca67ca1a1492e3f028f4ed1388d0b93b4",
+      "review_note": "Inspected first-row three scenes: separate archers and advancing formation, polygonal Cardiff keep with mound and stair, medieval Poitiers scene. All newly generated, no book page or scan visible. Six texture studies unused."
+    }
   ]
 }

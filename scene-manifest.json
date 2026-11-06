@@ -119,6 +119,27 @@
     "review_note": "All nine panels visually inspected; five speech balloons exact and correctly attributed; objects and teaching relationships visible; children match reference sheets."
   },
   {
+    "id": "agincourt-reconstruction",
+    "chapter_id": "chapter-003",
+    "insert_after_paragraph_id": "p0023",
+    "source_paragraph_ids": [
+      "p0023"
+    ],
+    "description": "Battle of Agincourt, 1415 — AI historical reconstruction",
+    "alt": "Battle of Agincourt, 1415 — AI historical reconstruction",
+    "character_ids": [],
+    "state": "historical-reconstruction",
+    "status": "integrated",
+    "web_asset_path": "assets/agincourt-reconstruction.webp",
+    "width": 410,
+    "height": 410,
+    "grid_id": "agincourt-reconstruction-cardiff-reconstruction-poitiers-reconstruction",
+    "quadrant": 1,
+    "generated_at": "20261106T113537838455Z",
+    "grid_sha256": "d345823a5194db1764d004b2213b362ca67ca1a1492e3f028f4ed1388d0b93b4",
+    "review_note": "Inspected first-row three scenes: separate archers and advancing formation, polygonal Cardiff keep with mound and stair, medieval Poitiers scene. All newly generated, no book page or scan visible. Six texture studies unused."
+  },
+  {
     "id": "allegiance",
     "chapter_id": "chapter-003",
     "insert_after_paragraph_id": "p0028",
@@ -327,6 +348,27 @@
     "generated_at": "20261106T112423419712Z",
     "grid_sha256": "e146fcdc8501a31865072ec2efc46f0117d4389db1df6588d6642505accd34fc",
     "review_note": "Reviewed nine panels: mail-plus-plates, visor movement, armor fastening, correct named armor parts, shield evolution, melee versus joust, three source war motives, duplicate heraldry and birth versus choice. Source conceptual comparisons treated as educational illustrations."
+  },
+  {
+    "id": "cardiff-reconstruction",
+    "chapter_id": "chapter-004",
+    "insert_after_paragraph_id": "p0044",
+    "source_paragraph_ids": [
+      "p0044"
+    ],
+    "description": "Cardiff Castle Norman keep, Wales — AI architectural reconstruction",
+    "alt": "Cardiff Castle Norman keep, Wales — AI architectural reconstruction",
+    "character_ids": [],
+    "state": "historical-reconstruction",
+    "status": "integrated",
+    "web_asset_path": "assets/cardiff-reconstruction.webp",
+    "width": 410,
+    "height": 410,
+    "grid_id": "agincourt-reconstruction-cardiff-reconstruction-poitiers-reconstruction",
+    "quadrant": 2,
+    "generated_at": "20261106T113537838455Z",
+    "grid_sha256": "d345823a5194db1764d004b2213b362ca67ca1a1492e3f028f4ed1388d0b93b4",
+    "review_note": "Inspected first-row three scenes: separate archers and advancing formation, polygonal Cardiff keep with mound and stair, medieval Poitiers scene. All newly generated, no book page or scan visible. Six texture studies unused."
   },
   {
     "id": "chapter-004-speech-01",
@@ -2111,6 +2153,27 @@
     "generated_at": "20261106T112423419712Z",
     "grid_sha256": "e146fcdc8501a31865072ec2efc46f0117d4389db1df6588d6642505accd34fc",
     "review_note": "Reviewed nine panels: mail-plus-plates, visor movement, armor fastening, correct named armor parts, shield evolution, melee versus joust, three source war motives, duplicate heraldry and birth versus choice. Source conceptual comparisons treated as educational illustrations."
+  },
+  {
+    "id": "poitiers-reconstruction",
+    "chapter_id": "chapter-010",
+    "insert_after_paragraph_id": "p0204",
+    "source_paragraph_ids": [
+      "p0204"
+    ],
+    "description": "Battle of Poitiers, 1356 — AI historical reconstruction",
+    "alt": "Battle of Poitiers, 1356 — AI historical reconstruction",
+    "character_ids": [],
+    "state": "historical-reconstruction",
+    "status": "integrated",
+    "web_asset_path": "assets/poitiers-reconstruction.webp",
+    "width": 410,
+    "height": 410,
+    "grid_id": "agincourt-reconstruction-cardiff-reconstruction-poitiers-reconstruction",
+    "quadrant": 3,
+    "generated_at": "20261106T113537838455Z",
+    "grid_sha256": "d345823a5194db1764d004b2213b362ca67ca1a1492e3f028f4ed1388d0b93b4",
+    "review_note": "Inspected first-row three scenes: separate archers and advancing formation, polygonal Cardiff keep with mound and stair, medieval Poitiers scene. All newly generated, no book page or scan visible. Six texture studies unused."
   },
   {
     "id": "sword-comparison",
